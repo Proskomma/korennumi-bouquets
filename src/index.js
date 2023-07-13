@@ -93,7 +93,10 @@ const getBibles = async bibleSpecs => {
                 responseData
             )
         }
+        console.log(`    Adding tags`);
         const docSetId = pk.gqlQuerySync('{docSets {id}}').data.docSets[0].id;
+        let metadataTags = `"title:${bible.title}" "copyright:${bible.copyright}" "language:${bible.languageCode}" """owner:${bible.owner}""" """direction:${bible.textDirection}""" """script:${bible.script}"""`;
+        pk.gqlQuerySync(`mutation { addDocSetTags(docSetId: "${docSetId}", tags: [${metadataTags}]) }`);
         succincts[docSetId] = pk.serializeSuccinct(docSetId);
     }
 }
@@ -122,9 +125,11 @@ const getBcvResources = async bcvSpecs => {
         ]);
         for (const source of resource.sources) {
             console.log(`    ${source.bookCode}`);
+            let responseRawData = source.url ? await getUrl(source.url) : await getPath(source.filePath);
+            responseRawData = responseRawData.replace(/\([^\)]+\[[^\)]+\][^\)]*\)/g, "");
             const responseData = JSON.stringify(
                 tsvToTable(
-                    source.url ? await getUrl(source.url) : await getPath(source.filePath),
+                    responseRawData,
                     true
                 )
             );

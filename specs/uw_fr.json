@@ -2,7 +2,35 @@
   "title": "Projet Relais de Xenizo en Français",
   "bibles": [
     {
+      "title": "unfoldingWord® Greek New Testament",
+      "copyright": "unfoldingWord CC-BY-SA",
+      "languageCode": "el",
+      "owner": "unfoldingWord",
+      "textDirection": "LTR",
+      "script": "Grek",
+      "selectors": {
+        "source": "door43UW",
+        "project": "ugnt",
+        "revision": "1"
+      },
+      "sources": [
+        {
+          "bookCode": "TIT",
+          "url": "https://git.door43.org/unfoldingWord/el-x-koine_ugnt/raw/branch/master/57-TIT.usfm"
+        },
+        {
+          "bookCode": "PHP",
+          "url": "https://git.door43.org/unfoldingWord/el-x-koine_ugnt/raw/branch/master/51-PHP.usfm"
+        }
+      ]
+    },
+    {
       "title": "Traduction Louis Segond 1910",
+      "copyright": "Domaine publique",
+      "languageCode": "fr",
+      "owner": "Xenizo",
+      "textDirection": "LTR",
+      "script": "Latn",
       "selectors": {
         "source": "door43Xenizo",
         "project": "lsg",
@@ -21,6 +49,11 @@
     },
     {
       "title": "Traduction Relais Sémantique",
+      "copyright": "Xenizo CC-BY-SA",
+      "languageCode": "fr",
+      "owner": "Xenizo",
+      "textDirection": "LTR",
+      "script": "Latn",
       "selectors": {
         "source": "door43Kent",
         "project": "trs",
@@ -39,6 +72,11 @@
     },
     {
       "title": "Traduction Relais Littérale",
+      "copyright": "Xenizo CC-BY-SA",
+      "languageCode": "fr",
+      "owner": "Xenizo",
+      "textDirection": "LTR",
+      "script": "Latn",
       "selectors": {
         "source": "door43Kent",
         "project": "trl",
