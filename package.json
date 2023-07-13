@@ -1,0 +1,25 @@
+{
+  "name": "korennumi-bouquets",
+  "version": "0.0.1",
+  "description": "A place to build bouquets for Korennumi",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Proskomma/korennumi-bouquets.git"
+  },
+  "author": "Mark Howe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Proskomma/korennumi-bouquets/issues"
+  },
+  "homepage": "https://github.com/Proskomma/korennumi-bouquets#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "fs-extra": "^11.1.1",
+    "path": "^0.12.7",
+    "proskomma-core": "^0.10.1"
+  }
+}

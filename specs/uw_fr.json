@@ -1,0 +1,79 @@
+{
+  "title": "Projet Relais de Xenizo en Français",
+  "bibles": [
+    {
+      "title": "Traduction Louis Segond 1910",
+      "selectors": {
+        "source": "door43Xenizo",
+        "project": "lsg",
+        "revision": "1"
+      },
+      "sources": [
+        {
+          "bookCode": "TIT",
+          "url": "https://git.door43.org/MVHS/fr_lsg/raw/branch/master/57-TIT.usfm"
+        },
+        {
+          "bookCode": "PHP",
+          "url": "https://git.door43.org/MVHS/fr_lsg/raw/branch/master/51-PHP.usfm"
+        }
+      ]
+    },
+    {
+      "title": "Traduction Relais Sémantique",
+      "selectors": {
+        "source": "door43Kent",
+        "project": "trs",
+        "revision": "1"
+      },
+      "sources": [
+        {
+          "bookCode": "TIT",
+          "url": "https://git.door43.org/KentR1235/fr_gst_tit_book/raw/branch/master/fr_gst_tit_book.usfm"
+        },
+        {
+          "bookCode": "PHP",
+          "url": "https://git.door43.org/KentR1235/fr_gst_php_book/raw/branch/master/fr_gst_php_book.usfm"
+        }
+      ]
+    },
+    {
+      "title": "Traduction Relais Littérale",
+      "selectors": {
+        "source": "door43Kent",
+        "project": "trl",
+        "revision": "1"
+      },
+      "sources": [
+        {
+          "bookCode": "TIT",
+          "url": "https://git.door43.org/KentR1235/fr_glt_tit_book/raw/branch/master/fr_glt_tit_book.usfm"
+        },
+        {
+          "bookCode": "PHP",
+          "url": "https://git.door43.org/KentR1235/fr_lsgt_php_book/raw/branch/master/fr_lsgt_php_book.usfm"
+        }
+      ]
+    }
+  ],
+  "bcvResources": [
+    {
+      "title": "Notes de Traduction unfoldingWord",
+      "selectors": {
+        "source": "korennumi",
+        "project": "fruw",
+        "revision": "1"
+      },
+      "sources": [
+        {
+          "bookCode": "TIT",
+          "url": "https://git.door43.org/MVHS/fr_tn/raw/branch/master/fr_tn_57-TIT.tsv"
+        },
+        {
+          "bookCode": "PHP",
+          "url": "https://git.door43.org/MVHS/fr_tn/raw/branch/master/fr_tn_51-PHP.tsv"
+        }
+      ]
+    }
+  ]
+}

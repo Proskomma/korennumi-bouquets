@@ -1,0 +1,57 @@
+{
+  "title": "Proyecto de relevo en español",
+  "bibles": [
+    {
+      "title": "Texto Puente Simple",
+      "selectors": {
+        "source": "door43Es-419_gl",
+        "project": "tps",
+        "revision": "1"
+      },
+      "sources": [
+        {
+          "bookCode": "RUT",
+          "url": "https://git.door43.org/Es-419_gl/es-419_gst/raw/branch/master/08-RUT.usfm"
+        },
+        {
+          "bookCode": "JON",
+          "url": "https://git.door43.org/Es-419_gl/es-419_gst/raw/branch/master/32-JON.usfm"
+        },
+        {
+          "bookCode": "TIT",
+          "url": "https://git.door43.org/Es-419_gl/es-419_gst/raw/branch/master/57-TIT.usfm"
+        },
+        {
+          "bookCode": "3JN",
+          "url": "https://git.door43.org/Es-419_gl/es-419_gst/raw/branch/master/65-3JN.usfm"
+        }
+      ]
+    },
+    {
+      "title": "Texto Puente Literal",
+      "selectors": {
+        "source": "door43Es-419_gl",
+        "project": "tpl",
+        "revision": "1"
+      },
+      "sources": [
+        {
+          "bookCode": "RUT",
+          "url": "https://git.door43.org/Es-419_gl/es-419_glt/raw/branch/master/08-RUT.usfm"
+        },
+        {
+          "bookCode": "JON",
+          "url": "https://git.door43.org/Es-419_gl/es-419_glt/raw/branch/master/32-JON.usfm"
+        },
+        {
+          "bookCode": "TIT",
+          "url": "https://git.door43.org/Es-419_gl/es-419_glt/raw/branch/master/57-TIT.usfm"
+        },
+        {
+          "bookCode": "3JN",
+          "url": "https://git.door43.org/Es-419_gl/es-419_glt/raw/branch/master/65-3JN.usfm"
+        }
+      ]
+    }
+  ]
+}
