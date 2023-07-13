@@ -13,7 +13,7 @@ const spec = fse.readJsonSync(path.resolve(process.argv[2]));
 const succincts = {};
 
 // Convert TSV to JSON for Pk Import
-const tsvToTable = (tsv, hasHeadings) => {
+const uwTsvToTable = (tsv, hasHeadings) => {
     const ret = {
         headings: [],
         rows: [],
@@ -44,6 +44,24 @@ const tsvToTable = (tsv, hasHeadings) => {
     return ret;
 };
 
+const diegesisTsvToTable = (tsv, hasHeadings) => {
+    const ret = {
+        headings: [],
+        rows: [],
+    };
+    let rows = tsv.split(/[\n\r]+/);
+
+    if (hasHeadings) {
+        ret.headings = rows[0].split('\t');
+        rows = rows.slice(1);
+    }
+
+    for (const row of rows) {
+        ret.rows.push(row.split('\t'));
+    }
+    return ret;
+};
+
 // Fetchers
 const getUrl = async url => {
     const response = await axios.get(url);
@@ -51,7 +69,7 @@ const getUrl = async url => {
 }
 
 const getPath = async filePath => {
-    return await fse.readFileSync(filePath).toString('utf8')
+    return await fse.readFileSync(path.resolve(filePath)).toString('utf8')
 }
 
 // Do Bibles
@@ -85,10 +103,10 @@ const getBibles = async bibleSpecs => {
             }
             pk.importDocument(
                 {
-                source: bible.selectors.source,
-                project: bible.selectors.project,
-                revision: bible.selectors.revision
-            },
+                    source: bible.selectors.source,
+                    project: bible.selectors.project,
+                    revision: bible.selectors.revision
+                },
                 "usfm",
                 responseData
             )
@@ -127,11 +145,17 @@ const getBcvResources = async bcvSpecs => {
             console.log(`    ${source.bookCode}`);
             let responseRawData = source.url ? await getUrl(source.url) : await getPath(source.filePath);
             responseRawData = responseRawData.replace(/\([^\)]+\[[^\)]+\][^\)]*\)/g, "");
+            responseRawData = responseRawData.replace(/\\N/g, "\\n");
             const responseData = JSON.stringify(
-                tsvToTable(
-                    responseRawData,
-                    true
-                )
+                resource.resourceType === 'uWTSV' ?
+                    uwTsvToTable(
+                        responseRawData,
+                        true
+                    ) :
+                    diegesisTsvToTable(
+                        responseRawData,
+                        false
+                    )
             );
             pk.importDocument(
                 {
@@ -144,6 +168,14 @@ const getBcvResources = async bcvSpecs => {
             )
         }
         const docSetId = pk.gqlQuerySync('{docSets {id}}').data.docSets[0].id;
+        const docsQuery = '{documents {id bookCode: header(id:"bookCode") tableSequences {rows(columns: 0 positions: 1) {text}}}}';
+        const response = pk.gqlQuerySync(docsQuery).data.documents;
+        for (const doc of response) {
+            const docId = doc.id;
+            const bookCode = doc.tableSequences[0].rows[0][0].text.split(' ')[0];
+            pk.gqlQuerySync(`mutation { addDocumentTags(docSetId: "${docSetId}", documentId: "${docId}", tags: """bookcode:${bookCode}""") }`);
+        }
+        pk.gqlQuerySync(`mutation { addDocSetTags(docSetId: "${docSetId}", tags: """resourcetype${resource.resourceType}""") }`);
         succincts[docSetId] = pk.serializeSuccinct(docSetId);
     }
 }

@@ -2,7 +2,7 @@
   "title": "Projet Relais de Xenizo en Français",
   "bibles": [
     {
-      "title": "unfoldingWord® Greek New Testament",
+      "title": "Nouveau Testament grec par unfoldingWord®",
       "copyright": "unfoldingWord CC-BY-SA",
       "languageCode": "el",
       "owner": "unfoldingWord",
@@ -97,6 +97,7 @@
   "bcvResources": [
     {
       "title": "Notes de Traduction unfoldingWord",
+      "resourceType": "uWTSV",
       "selectors": {
         "source": "korennumi",
         "project": "fruw",
@@ -112,6 +113,59 @@
           "url": "https://git.door43.org/MVHS/fr_tn/raw/branch/master/fr_tn_51-PHP.tsv"
         }
       ]
+    },
+    {
+      "title": "Notes d'Etude de Tyndale",
+      "resourceType": "diegesisTSV",
+      "selectors": {
+        "source": "korennumi",
+        "project": "frtsn",
+        "revision": "1"
+      },
+      "sources": [
+        {
+          "bookCode": "TIT",
+          "filePath": "./dataSources/fr/tyndaleStudyNotesLilt/TIT.tsv"
+        },
+        {
+          "bookCode": "PHP",
+          "filePath": "./dataSources/fr/tyndaleStudyNotesLilt/PHP.tsv"
+        }
+      ]
+    },
+    {
+      "title": "Notes d'Etude de Biblica",
+      "resourceType": "diegesisTSV",
+      "selectors": {
+        "source": "korennumi",
+        "project": "frbsn",
+        "revision": "1"
+      },
+      "sources": [
+        {
+          "bookCode": "TIT",
+          "filePath": "./dataSources/fr/biblicaNotes/TIT.tsv"
+        },
+        {
+          "bookCode": "PHP",
+          "filePath": "./dataSources/fr/biblicaNotes/PHP.tsv"
+        }
+      ]
+    }
+  ],
+  "keywordResources": [
+    {
+      "title": "Tyndale Bible Dictionary",
+      "resourceType": "dictionaryTSV",
+      "selectors": {
+        "source": "korennumi",
+        "project": "entbd",
+        "revision": "1"
+      },
+      "source": {
+        "bookCode": "TIT",
+        "filePath": "./dataSources/en/tyndaleDictionary/articles.tsv"
+      }
     }
   ]
 }
