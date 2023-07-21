@@ -3,8 +3,8 @@ const fse = require('fs-extra');
 const axios = require('axios').default;
 const {Proskomma} = require('proskomma-core');
 
-const usage = "USAGE: node index.js <spec> <dataPath>";
-if (process.argv.length !== 4) {
+const usage = "USAGE: node index.js <spec> <succinctPath> <metadataPath>";
+if (process.argv.length !== 5) {
     console.log(`Wrong number of arguments\n${usage}`);
     process.exit(1);
 }
@@ -45,6 +45,24 @@ const uwTsvToTable = (tsv, hasHeadings) => {
 };
 
 const diegesisTsvToTable = (tsv, hasHeadings) => {
+    const ret = {
+        headings: [],
+        rows: [],
+    };
+    let rows = tsv.split(/[\n\r]+/);
+
+    if (hasHeadings) {
+        ret.headings = rows[0].split('\t');
+        rows = rows.slice(1);
+    }
+
+    for (const row of rows) {
+        ret.rows.push(row.split('\t'));
+    }
+    return ret;
+};
+
+const keywordTsvToTable = (tsv, hasHeadings) => {
     const ret = {
         headings: [],
         rows: [],
@@ -115,7 +133,8 @@ const getBibles = async bibleSpecs => {
         const docSetId = pk.gqlQuerySync('{docSets {id}}').data.docSets[0].id;
         let metadataTags = `"title:${bible.title}" "copyright:${bible.copyright}" "language:${bible.languageCode}" """owner:${bible.owner}""" """direction:${bible.textDirection}""" """script:${bible.script}"""`;
         pk.gqlQuerySync(`mutation { addDocSetTags(docSetId: "${docSetId}", tags: [${metadataTags}]) }`);
-        succincts[docSetId] = pk.serializeSuccinct(docSetId);
+        succincts[docSetId] = {content: pk.serializeSuccinct(docSetId)};
+        bible.docSetId = docSetId;
     }
 }
 
@@ -175,16 +194,69 @@ const getBcvResources = async bcvSpecs => {
             const bookCode = doc.tableSequences[0].rows[0][0].text.split(' ')[0];
             pk.gqlQuerySync(`mutation { addDocumentTags(docSetId: "${docSetId}", documentId: "${docId}", tags: """bookcode:${bookCode}""") }`);
         }
-        pk.gqlQuerySync(`mutation { addDocSetTags(docSetId: "${docSetId}", tags: """resourcetype${resource.resourceType}""") }`);
-        succincts[docSetId] = pk.serializeSuccinct(docSetId);
+        const metadataTags = `"title:${resource.title}" "copyright:${resource.copyright}" "language:${resource.languageCode}" """owner:${resource.owner}""" """direction:${resource.textDirection}""" """script:${resource.script}""" """resourcetype${resource.resourceType}"""`;
+        pk.gqlQuerySync(`mutation { addDocSetTags(docSetId: "${docSetId}", tags: [${metadataTags}]) }`);
+        succincts[docSetId] = {content: pk.serializeSuccinct(docSetId)};
+        resource.docSetId = docSetId;
+    }
+}
+
+// Do keyword Resources
+const getKeywordResources = async keywordSpecs => {
+    console.log("Keyword Resources");
+    for (const resource of keywordSpecs) {
+        console.log(`  ${resource.title}`);
+        const pk = new Proskomma([
+            {
+                name: "source",
+                type: "string",
+                regex: "^[^\\s]+$"
+            },
+            {
+                name: "project",
+                type: "string",
+                regex: "^[^\\s]+$"
+            },
+            {
+                name: "revision",
+                type: "string",
+                regex: "^[^\\s]+$"
+            },
+        ]);
+        let responseRawData = resource.source.url ? await getUrl(resource.source.url) : await getPath(resource.source.filePath);
+        const responseData = JSON.stringify(
+            keywordTsvToTable(
+                responseRawData,
+                false
+            )
+        );
+        pk.importDocument(
+            {
+                source: resource.selectors.source,
+                project: resource.selectors.project,
+                revision: resource.selectors.revision
+            },
+            "tsv",
+            responseData
+        )
+        const docSetId = pk.gqlQuerySync('{docSets {id}}').data.docSets[0].id;
+        const metadataTags = `"title:${resource.title}" "copyright:${resource.copyright}" "language:${resource.languageCode}" """owner:${resource.owner}""" """direction:${resource.textDirection}""" """script:${resource.script}""" """resourcetype${resource.resourceType}"""`;
+        pk.gqlQuerySync(`mutation { addDocSetTags(tags: [${metadataTags}]) }`);
+        succincts[docSetId] = {
+            content: pk.serializeSuccinct(docSetId),
+            bcvUsage: resource.articleBcvs
+        };
+        resource.docSetId = docSetId;
     }
 }
 
 // Do Content
 const getContent = async spec => {
+    await getKeywordResources(spec.keywordResources);
     await getBcvResources(spec.bcvResources);
     await getBibles(spec.bibles);
     fse.writeJsonSync(path.resolve(process.argv[3]), succincts);
+    fse.writeJsonSync(path.resolve(process.argv[4]), spec);
 }
 
 getContent(spec).then();
