@@ -454,5 +454,25 @@
         }
       }
     }
+  ],
+  "lemmaResources": [
+    {
+      "title": "Lexique Grecque Dodson",
+      "description": "Une lexique, en cours de traduction et d'adaptation par Xenizo, à partir d'une sources de ",
+      "copyright": "CC0",
+      "languageCode": "en",
+      "owner": "Xenizo",
+      "textDirection": "LTR",
+      "script": "Latn",
+      "resourceType": "lemmaTSV",
+      "selectors": {
+        "source": "korennumi",
+        "project": "endgl",
+        "revision": "1"
+      },
+      "source": {
+        "filePath": "./dataSources/grc/dodson_refactored.tsv"
+      }
+    }
   ]
 }

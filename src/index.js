@@ -80,6 +80,24 @@ const keywordTsvToTable = (tsv, hasHeadings) => {
     return ret;
 };
 
+const lemmaTsvToTable = (tsv, hasHeadings) => {
+    const ret = {
+        headings: [],
+        rows: [],
+    };
+    let rows = tsv.split(/[\n\r]+/);
+
+    if (hasHeadings) {
+        ret.headings = rows[0].split('\t');
+        rows = rows.slice(1);
+    }
+
+    for (const row of rows) {
+        ret.rows.push(row.split('\t'));
+    }
+    return ret;
+};
+
 // Fetchers
 const getUrl = async url => {
     const response = await axios.get(url);
@@ -250,10 +268,59 @@ const getKeywordResources = async keywordSpecs => {
     }
 }
 
+// Do keyword Resources
+const getLemmaResources = async lemmaSpecs => {
+    console.log("Lemma Resources");
+    for (const resource of lemmaSpecs) {
+        console.log(`  ${resource.title}`);
+        const pk = new Proskomma([
+            {
+                name: "source",
+                type: "string",
+                regex: "^[^\\s]+$"
+            },
+            {
+                name: "project",
+                type: "string",
+                regex: "^[^\\s]+$"
+            },
+            {
+                name: "revision",
+                type: "string",
+                regex: "^[^\\s]+$"
+            },
+        ]);
+        let responseRawData = resource.source.url ? await getUrl(resource.source.url) : await getPath(resource.source.filePath);
+        const responseData = JSON.stringify(
+            lemmaTsvToTable(
+                responseRawData,
+                false
+            )
+        );
+        pk.importDocument(
+            {
+                source: resource.selectors.source,
+                project: resource.selectors.project,
+                revision: resource.selectors.revision
+            },
+            "tsv",
+            responseData
+        )
+        const docSetId = pk.gqlQuerySync('{docSets {id}}').data.docSets[0].id;
+        const metadataTags = `"title:${resource.title}" "copyright:${resource.copyright}" "language:${resource.languageCode}" """owner:${resource.owner}""" """direction:${resource.textDirection}""" """script:${resource.script}""" """resourcetype${resource.resourceType}"""`;
+        pk.gqlQuerySync(`mutation { addDocSetTags(tags: [${metadataTags}]) }`);
+        succincts[docSetId] = {
+            content: pk.serializeSuccinct(docSetId),
+        };
+        resource.docSetId = docSetId;
+    }
+}
+
 // Do Content
 const getContent = async spec => {
     await getKeywordResources(spec.keywordResources);
     await getBcvResources(spec.bcvResources);
+    await getLemmaResources(spec.lemmaResources);
     await getBibles(spec.bibles);
     fse.writeJsonSync(path.resolve(process.argv[3]), succincts);
     fse.writeJsonSync(path.resolve(process.argv[4]), spec);
