@@ -1,0 +1,4875 @@
+<?xml version="1.0"?>
+<entries>
+  <entry>
+    <key>ἀγαθοποιέω</key>
+    <strongNo>0015</strongNo>
+    <printable>ἀγαθοποιέω</printable>
+    <gloss lang="en">I do that which is good</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀγαθός</key>
+    <strongNo>0018</strongNo>
+    <printable>ἀγαθός, ή, όν</printable>
+    <gloss lang="en">good</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀγαπάω</key>
+    <strongNo>0025</strongNo>
+    <printable>ἀγαπάω</printable>
+    <gloss lang="en">I love</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀγάπη</key>
+    <strongNo>0026</strongNo>
+    <printable>ἀγάπη, ης, ἡ</printable>
+    <gloss lang="en">love</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀγαπητός</key>
+    <strongNo>0027</strongNo>
+    <printable>ἀγαπητός, ή, όν</printable>
+    <gloss lang="en">loved, beloved</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἅγιος</key>
+    <strongNo>0040</strongNo>
+    <printable>ἅγιος, ία, ον</printable>
+    <gloss lang="en">set apart, holy, sacred</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἁγνός</key>
+    <strongNo>0053</strongNo>
+    <printable>ἁγνός, ή, όν</printable>
+    <gloss lang="en">pure, chaste</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἁγνῶς</key>
+    <strongNo>0055</strongNo>
+    <printable>ἁγνῶς</printable>
+    <gloss lang="en">purely, sincerely</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀγών</key>
+    <strongNo>0073</strongNo>
+    <printable>ἀγών, ῶνος, ὁ</printable>
+    <gloss lang="en">a contest</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀδελφός</key>
+    <strongNo>0080</strongNo>
+    <printable>ἀδελφός, οῦ, ὁ</printable>
+    <gloss lang="en">a brother</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀδημονέω</key>
+    <strongNo>0085</strongNo>
+    <printable>ἀδημονέω</printable>
+    <gloss lang="en">I am troubled, distressed</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀδόκιμος</key>
+    <strongNo>0096</strongNo>
+    <printable>ἀδόκιμος, ον</printable>
+    <gloss lang="en">failing to pass the test</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀεί</key>
+    <strongNo>0104</strongNo>
+    <printable>ἀεί</printable>
+    <gloss lang="en">always</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>αἱρέω</key>
+    <strongNo>0138</strongNo>
+    <printable>αἱρέω</printable>
+    <gloss lang="en">I choose, prefer</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>αἱρετικός</key>
+    <strongNo>0141</strongNo>
+    <printable>αἱρετικός, ή, όν</printable>
+    <gloss lang="en">factious</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>αἴσθησις</key>
+    <strongNo>0144</strongNo>
+    <printable>αἴσθησις, εως, ἡ</printable>
+    <gloss lang="en">perception</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>αἰσχροκερδής</key>
+    <strongNo>0146</strongNo>
+    <printable>αἰσχροκερδής, ες</printable>
+    <gloss lang="en">greedy</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>αἰσχρός</key>
+    <strongNo>0150</strongNo>
+    <printable>αἰσχρός, ά, όν</printable>
+    <gloss lang="en">base, disgraceful</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>αἰσχύνη</key>
+    <strongNo>0152</strongNo>
+    <printable>αἰσχύνη, ης, ἡ</printable>
+    <gloss lang="en">shame</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>αἴτημα</key>
+    <strongNo>0155</strongNo>
+    <printable>αἴτημα, ατος, τό</printable>
+    <gloss lang="en">a petition, request</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>αἰτία</key>
+    <strongNo>0156</strongNo>
+    <printable>αἰτία, ας, ἡ</printable>
+    <gloss lang="en">a cause, reason, charge</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>αἰών</key>
+    <strongNo>0165</strongNo>
+    <printable>αἰών, ῶνος, ὁ</printable>
+    <gloss lang="en">an age, a cycle of time</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>αἰώνιος</key>
+    <strongNo>0166</strongNo>
+    <printable>αἰώνιος, ία, ιον</printable>
+    <gloss lang="en">eternal, unending</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀκαιρέομαι</key>
+    <strongNo>0170</strongNo>
+    <printable>ἀκαιρέομαι</printable>
+    <gloss lang="en">I am without a suitable opportunity</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἄκαρπος</key>
+    <strongNo>0175</strongNo>
+    <printable>ἄκαρπος, ον</printable>
+    <gloss lang="en">unfruitful, barren</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀκατάγνωστος</key>
+    <strongNo>0176</strongNo>
+    <printable>ἀκατάγνωστος, ον</printable>
+    <gloss lang="en">uncondemned, unimpeachable</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀκέραιος</key>
+    <strongNo>0185</strongNo>
+    <printable>ἀκέραιος, ον</printable>
+    <gloss lang="en">simple, unsophisticated, innocent</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀκούω</key>
+    <strongNo>0191</strongNo>
+    <printable>ἀκούω</printable>
+    <gloss lang="en">I hear, listen</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀλήθεια</key>
+    <strongNo>0225</strongNo>
+    <printable>ἀλήθεια, ας, ἡ</printable>
+    <gloss lang="en">truth</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀληθής</key>
+    <strongNo>0227</strongNo>
+    <printable>ἀληθής, ές</printable>
+    <gloss lang="en">unconcealed, true</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀλλά</key>
+    <strongNo>0235</strongNo>
+    <printable>ἀλλά</printable>
+    <gloss lang="en">but, except</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀλλήλων</key>
+    <strongNo>0240</strongNo>
+    <printable>ἀλλήλων</printable>
+    <gloss lang="en">one another</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἄλλος</key>
+    <strongNo>0243</strongNo>
+    <printable>ἄλλος, η, ον</printable>
+    <gloss lang="en">other, another, different</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἁμαρτάνω</key>
+    <strongNo>0264</strongNo>
+    <printable>ἁμαρτάνω</printable>
+    <gloss lang="en">I sin</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἄμαχος</key>
+    <strongNo>0269</strongNo>
+    <printable>ἄμαχος, ον</printable>
+    <gloss lang="en">not quarrelsome, peaceable</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἄμεμπτος</key>
+    <strongNo>0273</strongNo>
+    <printable>ἄμεμπτος, ον</printable>
+    <gloss lang="en">blameless</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀμήν</key>
+    <strongNo>0281</strongNo>
+    <printable>ἀμήν</printable>
+    <gloss lang="en">verily, truly, amen, so let it be</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἄμωμος</key>
+    <strongNo>0299</strongNo>
+    <printable>ἄμωμος, ον</printable>
+    <gloss lang="en">blameless</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἄν</key>
+    <strongNo>0302</strongNo>
+    <printable>ἄν</printable>
+    <gloss lang="en">an untranslatable word that makes a statement contingent</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀναγκαῖος</key>
+    <strongNo>0316</strongNo>
+    <printable>ἀναγκαῖος, α, ον</printable>
+    <gloss lang="en">necessary, essential</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀναθάλλω</key>
+    <strongNo>0330</strongNo>
+    <printable>ἀναθάλλω</printable>
+    <gloss lang="en">I thrive or flourish again</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀνακαίνωσις</key>
+    <strongNo>0342</strongNo>
+    <printable>ἀνακαίνωσις, εως, ἡ</printable>
+    <gloss lang="en">renewing</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀναλύω</key>
+    <strongNo>0360</strongNo>
+    <printable>ἀναλύω</printable>
+    <gloss lang="en">I depart, return</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀναπληρόω</key>
+    <strongNo>0378</strongNo>
+    <printable>ἀναπληρόω</printable>
+    <gloss lang="en">I fill up, make up, fulfill</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀνάστασις</key>
+    <strongNo>0386</strongNo>
+    <printable>ἀνάστασις, εως, ἡ</printable>
+    <gloss lang="en">a rising again, resurrection</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀνατρέπω</key>
+    <strongNo>0396</strongNo>
+    <printable>ἀνατρέπω</printable>
+    <gloss lang="en">I subvert, overturn, overthrow</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀνέγκλητος</key>
+    <strongNo>0410</strongNo>
+    <printable>ἀνέγκλητος, ον</printable>
+    <gloss lang="en">irreproachable, blameless</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀνήρ</key>
+    <strongNo>0435</strongNo>
+    <printable>ἀνήρ, ἀνδρός, ὁ</printable>
+    <gloss lang="en">a male human being, a man</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἄνθρωπος</key>
+    <strongNo>0444</strongNo>
+    <printable>ἄνθρωπος, ου, ὁ</printable>
+    <gloss lang="en">a man, one of the human race</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀνόητος</key>
+    <strongNo>0453</strongNo>
+    <printable>ἀνόητος, ον</printable>
+    <gloss lang="en">foolish, thoughtless</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀνομία</key>
+    <strongNo>0458</strongNo>
+    <printable>ἀνομία, ας, ἡ</printable>
+    <gloss lang="en">lawlessness, iniquity</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀντίκειμαι</key>
+    <strongNo>0480</strongNo>
+    <printable>ἀντίκειμαι</printable>
+    <gloss lang="en">I resist, oppose</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀντιλέγω</key>
+    <strongNo>0483</strongNo>
+    <printable>ἀντιλέγω</printable>
+    <gloss lang="en">I speak or say in opposition, contradict</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀνυπότακτος</key>
+    <strongNo>0506</strongNo>
+    <printable>ἀνυπότακτος, ον</printable>
+    <gloss lang="en">unruly</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἄνω</key>
+    <strongNo>0507</strongNo>
+    <printable>ἄνω</printable>
+    <gloss lang="en">up, above, things above, heaven</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀνωφελής</key>
+    <strongNo>0512</strongNo>
+    <printable>ἀνωφελής, ές</printable>
+    <gloss lang="en">useless, unprofitable</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀξίως</key>
+    <strongNo>0516</strongNo>
+    <printable>ἀξίως</printable>
+    <gloss lang="en">worthily, in a manner worthy of</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἅπαξ</key>
+    <strongNo>0530</strongNo>
+    <printable>ἅπαξ</printable>
+    <gloss lang="en">once, once for all</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀπειθής</key>
+    <strongNo>0545</strongNo>
+    <printable>ἀπειθής, ές</printable>
+    <gloss lang="en">unbelieving, disobedient</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἄπειμι</key>
+    <strongNo>0548</strongNo>
+    <printable>ἄπειμι</printable>
+    <gloss lang="en">I am absent</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἄπειμι</key>
+    <strongNo>0549</strongNo>
+    <printable>ἄπειμι</printable>
+    <gloss lang="en">I go away, depart</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀπεκδέχομαι</key>
+    <strongNo>0553</strongNo>
+    <printable>ἀπεκδέχομαι</printable>
+    <gloss lang="en">I expect eagerly, wait for eagerly</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀπέχω</key>
+    <strongNo>0568</strongNo>
+    <printable>ἀπέχω</printable>
+    <gloss lang="en">I have in full, am far, it is enough</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἄπιστος</key>
+    <strongNo>0571</strongNo>
+    <printable>ἄπιστος, ον</printable>
+    <gloss lang="en">unbelieving, incredulous, unchristian, unbeliever</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀπό</key>
+    <strongNo>0575</strongNo>
+    <printable>ἀπό</printable>
+    <gloss lang="en">from, away from</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀποβαίνω</key>
+    <strongNo>0576</strongNo>
+    <printable>ἀποβαίνω</printable>
+    <gloss lang="en">I go or come out of, disembark, result</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀποθνῄσκω</key>
+    <strongNo>0599</strongNo>
+    <printable>ἀποθνῄσκω</printable>
+    <gloss lang="en">I am dying, am about to die</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀποκαλύπτω</key>
+    <strongNo>0601</strongNo>
+    <printable>ἀποκαλύπτω</printable>
+    <gloss lang="en">I uncover, bring to light, reveal</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀποκαραδοκία</key>
+    <strongNo>0603</strongNo>
+    <printable>ἀποκαραδοκία, ας, ἡ</printable>
+    <gloss lang="en">eager expectation</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀπολογία</key>
+    <strongNo>0627</strongNo>
+    <printable>ἀπολογία, ας, ἡ</printable>
+    <gloss lang="en">a verbal defense</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀπόστολος</key>
+    <strongNo>0652</strongNo>
+    <printable>ἀπόστολος, ου, ὁ</printable>
+    <gloss lang="en">an apostle, a messenger, an envoy, a delegate</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀποστρέφω</key>
+    <strongNo>0654</strongNo>
+    <printable>ἀποστρέφω</printable>
+    <gloss lang="en">I turn away, restore, reject</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀποτόμως</key>
+    <strongNo>0664</strongNo>
+    <printable>ἀποτόμως</printable>
+    <gloss lang="en">sharply, severely</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀπουσία</key>
+    <strongNo>0666</strongNo>
+    <printable>ἀπουσία, ας, ἡ</printable>
+    <gloss lang="en">absence</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀπρόσκοπος</key>
+    <strongNo>0677</strongNo>
+    <printable>ἀπρόσκοπος, ον</printable>
+    <gloss lang="en">not offending, not causing offence, blameless</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀπώλεια</key>
+    <strongNo>0684</strongNo>
+    <printable>ἀπώλεια, ας, ἡ</printable>
+    <gloss lang="en">destruction, ruin, loss</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀργός</key>
+    <strongNo>0692</strongNo>
+    <printable>ἀργός, ή, όν</printable>
+    <gloss lang="en">idle, lazy, thoughtless</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀρετή</key>
+    <strongNo>0703</strongNo>
+    <printable>ἀρετή, ῆς, ἡ</printable>
+    <gloss lang="en">virtue, moral excellence, perfection</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀρκέω</key>
+    <strongNo>0714</strongNo>
+    <printable>ἀρκέω</printable>
+    <gloss lang="en">I am sufficient, I suffice, am content, satisfied</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀρνέομαι</key>
+    <strongNo>0720</strongNo>
+    <printable>ἀρνέομαι</printable>
+    <gloss lang="en">I deny, repudiate</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἁρπαγμός</key>
+    <strongNo>0725</strongNo>
+    <printable>ἁρπαγμός, οῦ, ὁ</printable>
+    <gloss lang="en">spoil, an object of eager desire, a prize</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀρχή</key>
+    <strongNo>0746</strongNo>
+    <printable>ἀρχή, ῆς, ἡ</printable>
+    <gloss lang="en">ruler, beginning</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀσέβεια</key>
+    <strongNo>0763</strongNo>
+    <printable>ἀσέβεια, ας, ἡ</printable>
+    <gloss lang="en">impiety, irreverence, wickedness</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀσθενέω</key>
+    <strongNo>0770</strongNo>
+    <printable>ἀσθενέω</printable>
+    <gloss lang="en">I am weak, sick</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀσπάζομαι</key>
+    <strongNo>0782</strongNo>
+    <printable>ἀσπάζομαι</printable>
+    <gloss lang="en">I greet, salute, pay my respects to</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀσφαλής</key>
+    <strongNo>0804</strongNo>
+    <printable>ἀσφαλής, ές</printable>
+    <gloss lang="en">safe, reliable, trustworthy</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀσωτία</key>
+    <strongNo>0810</strongNo>
+    <printable>ἀσωτία, ας, ἡ</printable>
+    <gloss lang="en">wantonness, profligacy</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>αὐθάδης</key>
+    <strongNo>0829</strongNo>
+    <printable>αὐθάδης, ες</printable>
+    <gloss lang="en">self-satisfied, arrogant</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>αὐτάρκης</key>
+    <strongNo>0842</strongNo>
+    <printable>αὐτάρκης, ες</printable>
+    <gloss lang="en">self-sufficient, contented, satisfied</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>αὐτοκατάκριτος</key>
+    <strongNo>0843</strongNo>
+    <printable>αὐτοκατάκριτος, ον</printable>
+    <gloss lang="en">self-condemned</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>αὐτός</key>
+    <strongNo>0846</strongNo>
+    <printable>αὐτός, αὐτή, αὐτό</printable>
+    <gloss lang="en">he, she, it, they, them, same</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀφόβως</key>
+    <strongNo>0870</strongNo>
+    <printable>ἀφόβως</printable>
+    <gloss lang="en">fearlessly</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀφοράω</key>
+    <strongNo>0872</strongNo>
+    <printable>ἀφοράω</printable>
+    <gloss lang="en">I look away from</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἄχρι</key>
+    <strongNo>0891</strongNo>
+    <printable>ἄχρι</printable>
+    <gloss lang="en">as far as, up to, until</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἀψευδής</key>
+    <strongNo>0893</strongNo>
+    <printable>ἀψευδής, ές</printable>
+    <gloss lang="en">not guilty of falsehood, truthful</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>βδελυκτός</key>
+    <strongNo>0947</strongNo>
+    <printable>βδελυκτός, ή, όν</printable>
+    <gloss lang="en">abominable, detestable</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>βεβαίωσις</key>
+    <strongNo>0951</strongNo>
+    <printable>βεβαίωσις, εως, ἡ</printable>
+    <gloss lang="en">confirmation, ratification, establishment</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>βίβλος</key>
+    <strongNo>0976</strongNo>
+    <printable>βίβλος, ου, ἡ</printable>
+    <gloss lang="en">a written book, roll, or volume</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>βλασφημέω</key>
+    <strongNo>0987</strongNo>
+    <printable>βλασφημέω</printable>
+    <gloss lang="en">I speak evil against, blaspheme</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>βλέπω</key>
+    <strongNo>0991</strongNo>
+    <printable>βλέπω</printable>
+    <gloss lang="en">I look, see</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>βούλομαι</key>
+    <strongNo>1014</strongNo>
+    <printable>βούλομαι</printable>
+    <gloss lang="en">I will, intend, desire</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>βραβεῖον</key>
+    <strongNo>1017</strongNo>
+    <printable>βραβεῖον, ου, τό</printable>
+    <gloss lang="en">a prize</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>γάρ</key>
+    <strongNo>1063</strongNo>
+    <printable>γάρ</printable>
+    <gloss lang="en">for</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>γαστήρ</key>
+    <strongNo>1064</strongNo>
+    <printable>γαστήρ, γαστρός, ἡ</printable>
+    <gloss lang="en">the womb, stomach, to be pregnant</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>γενεά</key>
+    <strongNo>1074</strongNo>
+    <printable>γενεά, ᾶς, ἡ</printable>
+    <gloss lang="en">a generation</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>γενεαλογία</key>
+    <strongNo>1076</strongNo>
+    <printable>γενεαλογία, ας, ἡ</printable>
+    <gloss lang="en">genealogy</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>γένος</key>
+    <strongNo>1085</strongNo>
+    <printable>γένος, ους, τό</printable>
+    <gloss lang="en">offspring, family, race, kind</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>γίνομαι</key>
+    <strongNo>1096</strongNo>
+    <printable>γίνομαι</printable>
+    <gloss lang="en">I come into being, am born</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>γινώσκω</key>
+    <strongNo>1097</strongNo>
+    <printable>γινώσκω</printable>
+    <gloss lang="en">I come to know, learn, realize</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>γλῶσσα</key>
+    <strongNo>1100</strongNo>
+    <printable>γλῶσσα, ης, ἡ</printable>
+    <gloss lang="en">the tongue, a language, nation</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>γνήσιος</key>
+    <strongNo>1103</strongNo>
+    <printable>γνήσιος, α, ον</printable>
+    <gloss lang="en">real, true, genuine</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>γνησίως</key>
+    <strongNo>1104</strongNo>
+    <printable>γνησίως</printable>
+    <gloss lang="en">truly, genuinely, honorably, sincerely</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>γνωρίζω</key>
+    <strongNo>1107</strongNo>
+    <printable>γνωρίζω</printable>
+    <gloss lang="en">I make known, declare, know</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>γνῶσις</key>
+    <strongNo>1108</strongNo>
+    <printable>γνῶσις, εως, ἡ</printable>
+    <gloss lang="en">knowledge, doctrine, wisdom</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>γογγυσμός</key>
+    <strongNo>1112</strongNo>
+    <printable>γογγυσμός, οῦ, ὁ</printable>
+    <gloss lang="en">murmuring, grumbling</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>γόνυ</key>
+    <strongNo>1119</strongNo>
+    <printable>γόνυ, ατος, τό</printable>
+    <gloss lang="en">a knee</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>γράφω</key>
+    <strongNo>1125</strongNo>
+    <printable>γράφω</printable>
+    <gloss lang="en">I write</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>γυνή</key>
+    <strongNo>1135</strongNo>
+    <printable>γυνή, αικός, ἡ</printable>
+    <gloss lang="en">a woman, wife, my lady</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>δέ</key>
+    <strongNo>1161</strongNo>
+    <printable>δέ</printable>
+    <gloss lang="en">but, on the other hand, and</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>δέησις</key>
+    <strongNo>1162</strongNo>
+    <printable>δέησις, εως, ἡ</printable>
+    <gloss lang="en">supplication, prayer</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>δεκτός</key>
+    <strongNo>1184</strongNo>
+    <printable>δεκτός, ή, όν</printable>
+    <gloss lang="en">acceptable, accepted</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>δεσμός</key>
+    <strongNo>1199</strongNo>
+    <printable>δεσμός, οῦ, ὁ</printable>
+    <gloss lang="en">a bond, chain</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>δεσπότης</key>
+    <strongNo>1203</strongNo>
+    <printable>δεσπότης, ου, ὁ</printable>
+    <gloss lang="en">a lord, master, or prince</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>δεύτερος</key>
+    <strongNo>1208</strongNo>
+    <printable>δεύτερος, α, ον</printable>
+    <gloss lang="en">second, in the second place, for the second time</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>δέχομαι</key>
+    <strongNo>1209</strongNo>
+    <printable>δέχομαι</printable>
+    <gloss lang="en">I take, receive, accept, welcome</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>δέω</key>
+    <strongNo>1210</strongNo>
+    <printable>δέω</printable>
+    <gloss lang="en">I bind</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>διά</key>
+    <strongNo>1223</strongNo>
+    <printable>διά</printable>
+    <gloss lang="en">through, on account of</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>διαβεβαιόομαι</key>
+    <strongNo>1226</strongNo>
+    <printable>διαβεβαιόομαι</printable>
+    <gloss lang="en">I assert emphatically</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>διάβολος</key>
+    <strongNo>1228</strongNo>
+    <printable>διάβολος, ον</printable>
+    <gloss lang="en">slanderous, the Slanderer, the Devil</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>διάγω</key>
+    <strongNo>1236</strongNo>
+    <printable>διάγω</printable>
+    <gloss lang="en">I spend time, pass time, live</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>διάκονος</key>
+    <strongNo>1249</strongNo>
+    <printable>διάκονος, οῦ, ὁ, ἡ</printable>
+    <gloss lang="en">a waiter, servant, administrator</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>διαλογισμός</key>
+    <strongNo>1261</strongNo>
+    <printable>διαλογισμός, οῦ, ὁ</printable>
+    <gloss lang="en">a calculation, reasoning, thought, plotting</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>διαστρέφω</key>
+    <strongNo>1294</strongNo>
+    <printable>διαστρέφω</printable>
+    <gloss lang="en">I pervert, corrupt, oppose</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>διατάσσω</key>
+    <strongNo>1299</strongNo>
+    <printable>διατάσσω</printable>
+    <gloss lang="en">I give orders to, prescribe</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>διαφέρω</key>
+    <strongNo>1308</strongNo>
+    <printable>διαφέρω</printable>
+    <gloss lang="en">I carry through, differ, surpass, excel</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>διδασκαλία</key>
+    <strongNo>1319</strongNo>
+    <printable>διδασκαλία, ας, ἡ</printable>
+    <gloss lang="en">instruction, teaching</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>διδάσκω</key>
+    <strongNo>1321</strongNo>
+    <printable>διδάσκω</printable>
+    <gloss lang="en">I teach</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>διδαχή</key>
+    <strongNo>1322</strongNo>
+    <printable>διδαχή, ῆς, ἡ</printable>
+    <gloss lang="en">teaching, doctrine</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>δίδωμι</key>
+    <strongNo>1325</strongNo>
+    <printable>δίδωμι</printable>
+    <gloss lang="en">I offer, give</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>δίκαιος</key>
+    <strongNo>1342</strongNo>
+    <printable>δίκαιος, ία, ιον</printable>
+    <gloss lang="en">just, righteous, impartial</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>δικαιοσύνη</key>
+    <strongNo>1343</strongNo>
+    <printable>δικαιοσύνη, ης, ἡ</printable>
+    <gloss lang="en">justice, justness, righteousness</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>δικαιόω</key>
+    <strongNo>1344</strongNo>
+    <printable>δικαιόω</printable>
+    <gloss lang="en">I make righteous, defend the cause of, justify</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>δικαίως</key>
+    <strongNo>1346</strongNo>
+    <printable>δικαίως</printable>
+    <gloss lang="en">justly, righteously</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>διό</key>
+    <strongNo>1352</strongNo>
+    <printable>διό</printable>
+    <gloss lang="en">wherefore</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>διότι</key>
+    <strongNo>1360</strongNo>
+    <printable>διότι</printable>
+    <gloss lang="en">on this account, because, for</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>δίς</key>
+    <strongNo>1364</strongNo>
+    <printable>δίς</printable>
+    <gloss lang="en">twice</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>διώκω</key>
+    <strongNo>1377</strongNo>
+    <printable>διώκω</printable>
+    <gloss lang="en">I pursue, persecute</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>δοκέω</key>
+    <strongNo>1380</strongNo>
+    <printable>δοκέω</printable>
+    <gloss lang="en">I think, seem, appear, it seems</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>δοκιμάζω</key>
+    <strongNo>1381</strongNo>
+    <printable>δοκιμάζω</printable>
+    <gloss lang="en">I put to the test, prove, examine</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>δοκιμή</key>
+    <strongNo>1382</strongNo>
+    <printable>δοκιμή, ῆς, ἡ</printable>
+    <gloss lang="en">a trial, proof; tried, approved character</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>δόμα</key>
+    <strongNo>1390</strongNo>
+    <printable>δόμα, ατος, τό</printable>
+    <gloss lang="en">a gift</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>δόξα</key>
+    <strongNo>1391</strongNo>
+    <printable>δόξα, ης, ἡ</printable>
+    <gloss lang="en">honor, renown, glory splendor</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>δόσις</key>
+    <strongNo>1394</strongNo>
+    <printable>δόσις, εως, ἡ</printable>
+    <gloss lang="en">a giving, gift.</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>δουλεύω</key>
+    <strongNo>1398</strongNo>
+    <printable>δουλεύω</printable>
+    <gloss lang="en">I am a slave, am subject to, obey</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>δοῦλος</key>
+    <strongNo>1401</strongNo>
+    <printable>δοῦλος, ου, ὁ</printable>
+    <gloss lang="en">a male slave</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>δουλόω</key>
+    <strongNo>1402</strongNo>
+    <printable>δουλόω</printable>
+    <gloss lang="en">I enslave</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>δύναμαι</key>
+    <strongNo>1410</strongNo>
+    <printable>δύναμαι</printable>
+    <gloss lang="en">I am powerful, am able</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>δύναμις</key>
+    <strongNo>1411</strongNo>
+    <printable>δύναμις, εως, ἡ</printable>
+    <gloss lang="en">might, power, marvelous works</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>δυνατός</key>
+    <strongNo>1415</strongNo>
+    <printable>δυνατός, ή, όν</printable>
+    <gloss lang="en">powerful, able, possible</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>δύο</key>
+    <strongNo>1417</strongNo>
+    <printable>δύο</printable>
+    <gloss lang="en">two</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐάν</key>
+    <strongNo>1437</strongNo>
+    <printable>ἐάν</printable>
+    <gloss lang="en">if</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἑαυτοῦ</key>
+    <strongNo>1438</strongNo>
+    <printable>ἑαυτοῦ, ῆς, οῦ</printable>
+    <gloss lang="en">himself, herself, itself</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐγγίζω</key>
+    <strongNo>1448</strongNo>
+    <printable>ἐγγίζω</printable>
+    <gloss lang="en">I come near, approach</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐγγύς</key>
+    <strongNo>1451</strongNo>
+    <printable>ἐγγύς</printable>
+    <gloss lang="en">near</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐγείρω</key>
+    <strongNo>1453</strongNo>
+    <printable>ἐγείρω</printable>
+    <gloss lang="en">I wake, arouse, raise up</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐγκρατής</key>
+    <strongNo>1468</strongNo>
+    <printable>ἐγκρατής, ές</printable>
+    <gloss lang="en">self-controlled</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐγώ</key>
+    <strongNo>1473</strongNo>
+    <printable>ἐγώ</printable>
+    <gloss lang="en">I</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐθνικός</key>
+    <strongNo>1482</strongNo>
+    <printable>ἐθνικός, ή, όν</printable>
+    <gloss lang="en">pagan, heathen, gentile; a Gentile, non-Jew</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>εἰ</key>
+    <strongNo>1487</strongNo>
+    <printable>εἰ</printable>
+    <gloss lang="en">if</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>οἶδα</key>
+    <strongNo>1492</strongNo>
+    <printable>οἶδα</printable>
+    <gloss lang="en">I know, remember</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>εἰλικρινής</key>
+    <strongNo>1506</strongNo>
+    <printable>εἰλικρινής, ές</printable>
+    <gloss lang="en">pure, uncontaminated, sincere</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>εἰμί</key>
+    <strongNo>1510</strongNo>
+    <printable>εἰμί</printable>
+    <gloss lang="en">I am, exist</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>εἰρήνη</key>
+    <strongNo>1515</strongNo>
+    <printable>εἰρήνη, ης, ἡ</printable>
+    <gloss lang="en">peace, peace of mind</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>εἰς</key>
+    <strongNo>1519</strongNo>
+    <printable>εἰς</printable>
+    <gloss lang="en">into, in, among, till, for</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>εἷς</key>
+    <strongNo>1520</strongNo>
+    <printable>εἷς, μία, ἕν</printable>
+    <gloss lang="en">one</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>εἴτε</key>
+    <strongNo>1535</strongNo>
+    <printable>εἴτε</printable>
+    <gloss lang="en">and if, whether</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐκ</key>
+    <strongNo>1537</strongNo>
+    <printable>ἐκ, ἐξ</printable>
+    <gloss lang="en">from out, out from among, from</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἕκαστος</key>
+    <strongNo>1538</strongNo>
+    <printable>ἕκαστος, η, ον</printable>
+    <gloss lang="en">each, every one</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐκβάλλω</key>
+    <strongNo>1544</strongNo>
+    <printable>ἐκβάλλω</printable>
+    <gloss lang="en">I throw, cast, put out, banish, bring forth, produce</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐκεῖ</key>
+    <strongNo>1563</strongNo>
+    <printable>ἐκεῖ</printable>
+    <gloss lang="en">there, yonder, thither</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐκεῖνος</key>
+    <strongNo>1565</strongNo>
+    <printable>ἐκεῖνος, η, ο</printable>
+    <gloss lang="en">that, that one there, yonder</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐκκλησία</key>
+    <strongNo>1577</strongNo>
+    <printable>ἐκκλησία, ας, ἡ</printable>
+    <gloss lang="en">an assembly, congregation, church</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐκλεκτός</key>
+    <strongNo>1588</strongNo>
+    <printable>ἐκλεκτός, ή, όν</printable>
+    <gloss lang="en">chosen, elect, choice, select</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐκστρέφω</key>
+    <strongNo>1612</strongNo>
+    <printable>ἐκστρέφω</printable>
+    <gloss lang="en">I change for the worse, corrupt, pervert</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐκχέω</key>
+    <strongNo>1632</strongNo>
+    <printable>ἐκχέω</printable>
+    <gloss lang="en">I pour out, shed</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐλέγχω</key>
+    <strongNo>1651</strongNo>
+    <printable>ἐλέγχω</printable>
+    <gloss lang="en">I rebuke, expose</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐλεέω</key>
+    <strongNo>1653</strongNo>
+    <printable>ἐλεέω</printable>
+    <gloss lang="en">I pity, have mercy on</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἔλεος</key>
+    <strongNo>1656</strongNo>
+    <printable>ἔλεος, ους, τό</printable>
+    <gloss lang="en">pity, mercy</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐλπίζω</key>
+    <strongNo>1679</strongNo>
+    <printable>ἐλπίζω</printable>
+    <gloss lang="en">I hope, hope for, expect</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐλπίς</key>
+    <strongNo>1680</strongNo>
+    <printable>ἐλπίς, ίδος, ἡ</printable>
+    <gloss lang="en">hope, expectation</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐμαυτοῦ</key>
+    <strongNo>1683</strongNo>
+    <printable>ἐμαυτοῦ, ῆς, οῦ</printable>
+    <gloss lang="en">of myself</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐμός</key>
+    <strongNo>1699</strongNo>
+    <printable>ἐμός, ή, όν</printable>
+    <gloss lang="en">mine</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἔμπροσθεν</key>
+    <strongNo>1715</strongNo>
+    <printable>ἔμπροσθεν</printable>
+    <gloss lang="en">in front, before the face</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐν</key>
+    <strongNo>1722</strongNo>
+    <printable>ἐν</printable>
+    <gloss lang="en">in, on, among</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐναντίος</key>
+    <strongNo>1727</strongNo>
+    <printable>ἐναντίος, α, ον</printable>
+    <gloss lang="en">opposite, opposed, contrary, the adversary</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐνάρχομαι</key>
+    <strongNo>1728</strongNo>
+    <printable>ἐνάρχομαι</printable>
+    <gloss lang="en">I begin</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐνδείκνυμι</key>
+    <strongNo>1731</strongNo>
+    <printable>ἐνδείκνυμι</printable>
+    <gloss lang="en">I show forth</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἔνδειξις</key>
+    <strongNo>1732</strongNo>
+    <printable>ἔνδειξις, εως, ἡ</printable>
+    <gloss lang="en">a showing, proof, demonstration, sign</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐνδυναμόω</key>
+    <strongNo>1743</strongNo>
+    <printable>ἐνδυναμόω</printable>
+    <gloss lang="en">I fill with power, strengthen</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐνέργεια</key>
+    <strongNo>1753</strongNo>
+    <printable>ἐνέργεια, ας, ἡ</printable>
+    <gloss lang="en">working, activity</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐνεργέω</key>
+    <strongNo>1754</strongNo>
+    <printable>ἐνεργέω</printable>
+    <gloss lang="en">I work, accomplish, am operative</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἔντιμος</key>
+    <strongNo>1784</strongNo>
+    <printable>ἔντιμος, ον</printable>
+    <gloss lang="en">precious, honored, honorable</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐντολή</key>
+    <strongNo>1785</strongNo>
+    <printable>ἐντολή, ῆς, ἡ</printable>
+    <gloss lang="en">an ordinance, injunction, command</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐντρέπω</key>
+    <strongNo>1788</strongNo>
+    <printable>ἐντρέπω</printable>
+    <gloss lang="en">I turn to confusion, put to shame, reverence</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐνώπιον</key>
+    <strongNo>1799</strongNo>
+    <printable>ἐνώπιον</printable>
+    <gloss lang="en">before the face of, in the presence of</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐξανάστασις</key>
+    <strongNo>1815</strongNo>
+    <printable>ἐξανάστασις, εως, ἡ</printable>
+    <gloss lang="en">a resurrection</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐξαυτῆς</key>
+    <strongNo>1824</strongNo>
+    <printable>ἐξαυτῆς</printable>
+    <gloss lang="en">immediately, instantly</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐξέρχομαι</key>
+    <strongNo>1831</strongNo>
+    <printable>ἐξέρχομαι</printable>
+    <gloss lang="en">I go out, come out</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐξομολογέω</key>
+    <strongNo>1843</strongNo>
+    <printable>ἐξομολογέω</printable>
+    <gloss lang="en">I consent fully, confess</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐξουσία</key>
+    <strongNo>1849</strongNo>
+    <printable>ἐξουσία, ας, ἡ</printable>
+    <gloss lang="en">power, authority, weight</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἔπαινος</key>
+    <strongNo>1868</strongNo>
+    <printable>ἔπαινος, ου, ὁ</printable>
+    <gloss lang="en">commendation, praise</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐπειδή</key>
+    <strongNo>1894</strongNo>
+    <printable>ἐπειδή</printable>
+    <gloss lang="en">when, since</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐπεκτείνομαι</key>
+    <strongNo>1901</strongNo>
+    <printable>ἐπεκτείνομαι</printable>
+    <gloss lang="en">I strain after</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐπέχω</key>
+    <strongNo>1907</strongNo>
+    <printable>ἐπέχω</printable>
+    <gloss lang="en">I hold forth, pay attention, note, delay</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐπί</key>
+    <strongNo>1909</strongNo>
+    <printable>ἐπί</printable>
+    <gloss lang="en">on, to, against, on the basis of, at</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐπίγειος</key>
+    <strongNo>1919</strongNo>
+    <printable>ἐπίγειος, ον</printable>
+    <gloss lang="en">earthly</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐπίγνωσις</key>
+    <strongNo>1922</strongNo>
+    <printable>ἐπίγνωσις, εως, ἡ</printable>
+    <gloss lang="en">knowledge, discernment, recognition</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐπιδέχομαι</key>
+    <strongNo>1926</strongNo>
+    <printable>ἐπιδέχομαι</printable>
+    <gloss lang="en">I accept, admit, welcome</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐπιδιορθόω</key>
+    <strongNo>1930</strongNo>
+    <printable>ἐπιδιορθόω</printable>
+    <gloss lang="en">I put in order</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐπιεικής</key>
+    <strongNo>1933</strongNo>
+    <printable>ἐπιεικής, ές</printable>
+    <gloss lang="en">gentle, mild, forbearing, fair, reasonable</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐπιζητέω</key>
+    <strongNo>1934</strongNo>
+    <printable>ἐπιζητέω</printable>
+    <gloss lang="en">I seek after, desire, search for</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐπιθυμία</key>
+    <strongNo>1939</strongNo>
+    <printable>ἐπιθυμία, ας, ἡ</printable>
+    <gloss lang="en">desire, eagerness for, inordinate desire, lust</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐπιλανθάνομαι</key>
+    <strongNo>1950</strongNo>
+    <printable>ἐπιλανθάνομαι</printable>
+    <gloss lang="en">I forget, neglect</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐπιμένω</key>
+    <strongNo>1961</strongNo>
+    <printable>ἐπιμένω</printable>
+    <gloss lang="en">I remain, tarry, persist in</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐπιποθέω</key>
+    <strongNo>1971</strongNo>
+    <printable>ἐπιποθέω</printable>
+    <gloss lang="en">I long for, strain after, desire greatly</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐπιπόθητος</key>
+    <strongNo>1973</strongNo>
+    <printable>ἐπιπόθητος, ον</printable>
+    <gloss lang="en">longed for, missed</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐπίσκοπος</key>
+    <strongNo>1985</strongNo>
+    <printable>ἐπίσκοπος, ου, ὁ</printable>
+    <gloss lang="en">overseer, supervisor, ruler</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐπιστομίζω</key>
+    <strongNo>1993</strongNo>
+    <printable>ἐπιστομίζω</printable>
+    <gloss lang="en">I muzzle, silence</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐπιταγή</key>
+    <strongNo>2003</strongNo>
+    <printable>ἐπιταγή, ῆς, ἡ</printable>
+    <gloss lang="en">instruction, command, order, authority</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐπιτελέω</key>
+    <strongNo>2005</strongNo>
+    <printable>ἐπιτελέω</printable>
+    <gloss lang="en">I complete, accomplish, perfect</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐπιφαίνω</key>
+    <strongNo>2014</strongNo>
+    <printable>ἐπιφαίνω</printable>
+    <gloss lang="en">I appear, shine upon</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐπιφάνεια</key>
+    <strongNo>2015</strongNo>
+    <printable>ἐπιφάνεια, ας, ἡ</printable>
+    <gloss lang="en">appearing, manifestation</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐπιχορηγία</key>
+    <strongNo>2024</strongNo>
+    <printable>ἐπιχορηγία, ας, ἡ</printable>
+    <gloss lang="en">supply, provision, equipment</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐπουράνιος</key>
+    <strongNo>2032</strongNo>
+    <printable>ἐπουράνιος, ον</printable>
+    <gloss lang="en">heavenly, celestial</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐργάζομαι</key>
+    <strongNo>2038</strongNo>
+    <printable>ἐργάζομαι</printable>
+    <gloss lang="en">I word, trade, do</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐργάτης</key>
+    <strongNo>2040</strongNo>
+    <printable>ἐργάτης, ου, ὁ</printable>
+    <gloss lang="en">a field-laborer, workman</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἔργον</key>
+    <strongNo>2041</strongNo>
+    <printable>ἔργον, ου, τό</printable>
+    <gloss lang="en">work, labor, action, deed</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐριθεία</key>
+    <strongNo>2052</strongNo>
+    <printable>ἐριθεία, ας, ἡ</printable>
+    <gloss lang="en">ambition, rivalry</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἔρις</key>
+    <strongNo>2054</strongNo>
+    <printable>ἔρις, ιδος, ἡ</printable>
+    <gloss lang="en">contention, strife</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἔρχομαι</key>
+    <strongNo>2064</strongNo>
+    <printable>ἔρχομαι</printable>
+    <gloss lang="en">I come, go</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐρωτάω</key>
+    <strongNo>2065</strongNo>
+    <printable>ἐρωτάω</printable>
+    <gloss lang="en">I ask, question, request</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἕτερος</key>
+    <strongNo>2087</strongNo>
+    <printable>ἕτερος, α, ον</printable>
+    <gloss lang="en">another, different</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἑτέρως</key>
+    <strongNo>2088</strongNo>
+    <printable>ἑτέρως</printable>
+    <gloss lang="en">otherwise, differently</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἔτι</key>
+    <strongNo>2089</strongNo>
+    <printable>ἔτι</printable>
+    <gloss lang="en">still, yet, even now</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἕτοιμος</key>
+    <strongNo>2092</strongNo>
+    <printable>ἕτοιμος, η, ον</printable>
+    <gloss lang="en">ready, prepared</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>εὐαγγέλιον</key>
+    <strongNo>2098</strongNo>
+    <printable>εὐαγγέλιον, ου, τό</printable>
+    <gloss lang="en">the good news, the gospel</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>εὐάρεστος</key>
+    <strongNo>2101</strongNo>
+    <printable>εὐάρεστος, ον</printable>
+    <gloss lang="en">acceptable, well-pleasing</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>εὐδοκία</key>
+    <strongNo>2107</strongNo>
+    <printable>εὐδοκία, ας, ἡ</printable>
+    <gloss lang="en">good-will, favor</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>εὐθέως</key>
+    <strongNo>2112</strongNo>
+    <printable>εὐθέως</printable>
+    <gloss lang="en">immediately, soon</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>εὐοδόω</key>
+    <strongNo>2137</strongNo>
+    <printable>εὐοδόω</printable>
+    <gloss lang="en">I cause to prosper, have a happy journey</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>εὑρίσκω</key>
+    <strongNo>2147</strongNo>
+    <printable>εὑρίσκω</printable>
+    <gloss lang="en">I find</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>εὐσέβεια</key>
+    <strongNo>2150</strongNo>
+    <printable>εὐσέβεια, ας, ἡ</printable>
+    <gloss lang="en">piety, godliness</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>εὐσεβῶς</key>
+    <strongNo>2153</strongNo>
+    <printable>εὐσεβῶς</printable>
+    <gloss lang="en">piously, religiously</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>εὔφημος</key>
+    <strongNo>2163</strongNo>
+    <printable>εὔφημος, ον</printable>
+    <gloss lang="en">well reported of, spoken in a kindly spirit</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>εὐχαριστέω</key>
+    <strongNo>2168</strongNo>
+    <printable>εὐχαριστέω</printable>
+    <gloss lang="en">I thank, give thanks</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>εὐχαριστία</key>
+    <strongNo>2169</strongNo>
+    <printable>εὐχαριστία, ας, ἡ</printable>
+    <gloss lang="en">thankfulness, gratitude</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>εὔχομαι</key>
+    <strongNo>2172</strongNo>
+    <printable>εὔχομαι</printable>
+    <gloss lang="en">I pray, wish</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>εὐψυχέω</key>
+    <strongNo>2174</strongNo>
+    <printable>εὐψυχέω</printable>
+    <gloss lang="en">I am of good cheer</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>εὐωδία</key>
+    <strongNo>2175</strongNo>
+    <printable>εὐωδία, ας, ἡ</printable>
+    <gloss lang="en">a sweet smell</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἐχθρός</key>
+    <strongNo>2190</strongNo>
+    <printable>ἐχθρός, ά, όν</printable>
+    <gloss lang="en">hated, hostile, an enemy</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἔχω</key>
+    <strongNo>2192</strongNo>
+    <printable>ἔχω</printable>
+    <gloss lang="en">I have, hold, possess</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ζάω</key>
+    <strongNo>2198</strongNo>
+    <printable>ζάω</printable>
+    <gloss lang="en">I live</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ζῆλος</key>
+    <strongNo>2205</strongNo>
+    <printable>ζῆλος, ου, ὁ</printable>
+    <gloss lang="en">eagerness, zeal, rivalry</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ζηλωτής</key>
+    <strongNo>2207</strongNo>
+    <printable>ζηλωτής, οῦ, ὁ</printable>
+    <gloss lang="en">a zealot</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ζημία</key>
+    <strongNo>2209</strongNo>
+    <printable>ζημία, ας, ἡ</printable>
+    <gloss lang="en">damage, loss</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ζημιόω</key>
+    <strongNo>2210</strongNo>
+    <printable>ζημιόω</printable>
+    <gloss lang="en">I inflict loss upon, punish</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ζητέω</key>
+    <strongNo>2212</strongNo>
+    <printable>ζητέω</printable>
+    <gloss lang="en">I seek, search for, desire</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ζήτησις</key>
+    <strongNo>2214</strongNo>
+    <printable>ζήτησις, εως, ἡ</printable>
+    <gloss lang="en">a question, debate, controversy</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ζωή</key>
+    <strongNo>2222</strongNo>
+    <printable>ζωή, ῆς, ἡ</printable>
+    <gloss lang="en">life</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἤ</key>
+    <strongNo>2228</strongNo>
+    <printable>ἤ</printable>
+    <gloss lang="en">or, than</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἡγέομαι</key>
+    <strongNo>2233</strongNo>
+    <printable>ἡγέομαι</printable>
+    <gloss lang="en">I lead, think</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἤδη</key>
+    <strongNo>2235</strongNo>
+    <printable>ἤδη</printable>
+    <gloss lang="en">now, already</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἡδονή</key>
+    <strongNo>2237</strongNo>
+    <printable>ἡδονή, ῆς, ἡ</printable>
+    <gloss lang="en">pleasure, lust, strong desire</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἡμέρα</key>
+    <strongNo>2250</strongNo>
+    <printable>ἡμέρα, ας, ἡ</printable>
+    <gloss lang="en">a day</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἡμέτερος</key>
+    <strongNo>2251</strongNo>
+    <printable>ἡμέτερος, α, ον</printable>
+    <gloss lang="en">our, our own</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>θάνατος</key>
+    <strongNo>2288</strongNo>
+    <printable>θάνατος, ου, ὁ</printable>
+    <gloss lang="en">death</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>θέλω</key>
+    <strongNo>2309</strongNo>
+    <printable>θέλω</printable>
+    <gloss lang="en">I will, wish, desire</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>θεός</key>
+    <strongNo>2316</strongNo>
+    <printable>θεός, οῦ, ὁ</printable>
+    <gloss lang="en">God, a god</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>θηρίον</key>
+    <strongNo>2342</strongNo>
+    <printable>θηρίον, ου, τό</printable>
+    <gloss lang="en">a wild beast, animal</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>θλῖψις</key>
+    <strongNo>2347</strongNo>
+    <printable>θλῖψις, εως, ἡ</printable>
+    <gloss lang="en">persecution, affliction, distress</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>θυσία</key>
+    <strongNo>2378</strongNo>
+    <printable>θυσία, ας, ἡ</printable>
+    <gloss lang="en">a sacrifice</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἴδιος</key>
+    <strongNo>2398</strongNo>
+    <printable>ἴδιος, α, ν</printable>
+    <gloss lang="en">one's own, private, personal</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἱεροπρεπής</key>
+    <strongNo>2412</strongNo>
+    <printable>ἱεροπρεπής, ές</printable>
+    <gloss lang="en">suitable to a sacred character, reverent</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἵνα</key>
+    <strongNo>2443</strongNo>
+    <printable>ἵνα</printable>
+    <gloss lang="en">in order that, so that</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἰσόψυχος</key>
+    <strongNo>2473</strongNo>
+    <printable>ἰσόψυχος, ον</printable>
+    <gloss lang="en">like-minded</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ἰσχύω</key>
+    <strongNo>2480</strongNo>
+    <printable>ἰσχύω</printable>
+    <gloss lang="en">I am strong, able</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>κἀγώ</key>
+    <strongNo>2504</strongNo>
+    <printable>κἀγώ</printable>
+    <gloss lang="en">I also, I too</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>καθαρίζω</key>
+    <strongNo>2511</strongNo>
+    <printable>καθαρίζω</printable>
+    <gloss lang="en">I make clean</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>καθαρός</key>
+    <strongNo>2513</strongNo>
+    <printable>καθαρός, ά, όν</printable>
+    <gloss lang="en">clean, pure, unstained</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>καθίστημι</key>
+    <strongNo>2525</strongNo>
+    <printable>καθίστημι</printable>
+    <gloss lang="en">I set, establish, appoint, conduct</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>καθώς</key>
+    <strongNo>2531</strongNo>
+    <printable>καθώς</printable>
+    <gloss lang="en">just as, as</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>καί</key>
+    <strongNo>2532</strongNo>
+    <printable>καί</printable>
+    <gloss lang="en">and, even, also, namely</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>καίπερ</key>
+    <strongNo>2539</strongNo>
+    <printable>καίπερ</printable>
+    <gloss lang="en">although</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>καιρός</key>
+    <strongNo>2540</strongNo>
+    <printable>καιρός, οῦ, ὁ</printable>
+    <gloss lang="en">fitting season, opportunity, time</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>κακία</key>
+    <strongNo>2549</strongNo>
+    <printable>κακία, ας, ἡ</printable>
+    <gloss lang="en">evil, wickedness, malice</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>κακοποιέω</key>
+    <strongNo>2554</strongNo>
+    <printable>κακοποιέω</printable>
+    <gloss lang="en">I do harm, do wrong</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>κακός</key>
+    <strongNo>2556</strongNo>
+    <printable>κακός, ή, όν</printable>
+    <gloss lang="en">bad, evil</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>κάλαμος</key>
+    <strongNo>2563</strongNo>
+    <printable>κάλαμος, ου, ὁ</printable>
+    <gloss lang="en">a reed, reed-pen</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>καλοδιδάσκαλος</key>
+    <strongNo>2567</strongNo>
+    <printable>καλοδιδάσκαλος, ου, ὁ, ἡ</printable>
+    <gloss lang="en">a teacher of that which is noble</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>καλός</key>
+    <strongNo>2570</strongNo>
+    <printable>καλός, ή, όν</printable>
+    <gloss lang="en">beautiful, good, worthy</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>καλῶς</key>
+    <strongNo>2573</strongNo>
+    <printable>καλῶς</printable>
+    <gloss lang="en">well, nobly, rightly</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>κάμπτω</key>
+    <strongNo>2578</strongNo>
+    <printable>κάμπτω</printable>
+    <gloss lang="en">I bend, bow</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>καρδία</key>
+    <strongNo>2588</strongNo>
+    <printable>καρδία, ας, ἡ</printable>
+    <gloss lang="en">the heart, inner life, intention</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>καρπός</key>
+    <strongNo>2590</strongNo>
+    <printable>καρπός, οῦ, ὁ</printable>
+    <gloss lang="en">fruit, result, gain</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>κατά</key>
+    <strongNo>2596</strongNo>
+    <printable>κατά</printable>
+    <gloss lang="en">down from, against, according to, throughout, during</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>καταγγέλλω</key>
+    <strongNo>2605</strongNo>
+    <printable>καταγγέλλω</printable>
+    <gloss lang="en">I declare openly, preach</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>καταλαμβάνω</key>
+    <strongNo>2638</strongNo>
+    <printable>καταλαμβάνω</printable>
+    <gloss lang="en">I seize tight hold of, overtake, comprehend</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>καταντάω</key>
+    <strongNo>2658</strongNo>
+    <printable>καταντάω</printable>
+    <gloss lang="en">I come down, arrive at, reach</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>κατάστημα</key>
+    <strongNo>2688</strongNo>
+    <printable>κατάστημα, ατος, τό</printable>
+    <gloss lang="en">behavior, conduct</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>κατατομή</key>
+    <strongNo>2699</strongNo>
+    <printable>κατατομή, ῆς, ἡ</printable>
+    <gloss lang="en">a mutilation, spoiling</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>καταχθόνιος</key>
+    <strongNo>2709</strongNo>
+    <printable>καταχθόνιος, ον</printable>
+    <gloss lang="en">under the earth, subterranean</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>κατεργάζομαι</key>
+    <strongNo>2716</strongNo>
+    <printable>κατεργάζομαι</printable>
+    <gloss lang="en">I work out, produce, accomplish</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>κατηγορία</key>
+    <strongNo>2724</strongNo>
+    <printable>κατηγορία, ας, ἡ</printable>
+    <gloss lang="en">a charge, accusation</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>καυχάομαι</key>
+    <strongNo>2744</strongNo>
+    <printable>καυχάομαι</printable>
+    <gloss lang="en">I boast, glory</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>καύχημα</key>
+    <strongNo>2745</strongNo>
+    <printable>καύχημα, ατος, τό</printable>
+    <gloss lang="en">a boasting</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>κεῖμαι</key>
+    <strongNo>2749</strongNo>
+    <printable>κεῖμαι</printable>
+    <gloss lang="en">I lie, recline, am laid</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>κενοδοξία</key>
+    <strongNo>2754</strongNo>
+    <printable>κενοδοξία, ας, ἡ</printable>
+    <gloss lang="en">vainglory, empty pride</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>κενός</key>
+    <strongNo>2756</strongNo>
+    <printable>κενός, ή, όν</printable>
+    <gloss lang="en">empty, vain, hollow</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>κενόω</key>
+    <strongNo>2758</strongNo>
+    <printable>κενόω</printable>
+    <gloss lang="en">I empty, deprive of content, make unreal</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>κερδαίνω</key>
+    <strongNo>2770</strongNo>
+    <printable>κερδαίνω</printable>
+    <gloss lang="en">I gain, win, avoid loss</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>κέρδος</key>
+    <strongNo>2771</strongNo>
+    <printable>κέρδος, ους, τό</printable>
+    <gloss lang="en">gain, advantage</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>κήρυγμα</key>
+    <strongNo>2782</strongNo>
+    <printable>κήρυγμα, ατος, τό</printable>
+    <gloss lang="en">a proclamation, preaching</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>κηρύσσω</key>
+    <strongNo>2784</strongNo>
+    <printable>κηρύσσω</printable>
+    <gloss lang="en">I proclaim, herald, preach</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>κλαίω</key>
+    <strongNo>2799</strongNo>
+    <printable>κλαίω</printable>
+    <gloss lang="en">I weep, weep for, mourn</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>κληρονόμος</key>
+    <strongNo>2818</strongNo>
+    <printable>κληρονόμος, ου, ὁ</printable>
+    <gloss lang="en">an heir, inheritor</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>κλῆσις</key>
+    <strongNo>2821</strongNo>
+    <printable>κλῆσις, εως, ἡ</printable>
+    <gloss lang="en">a calling, summons</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>κοιλία</key>
+    <strongNo>2836</strongNo>
+    <printable>κοιλία, ας, ἡ</printable>
+    <gloss lang="en">belly, womb, the inner man</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>κοινός</key>
+    <strongNo>2839</strongNo>
+    <printable>κοινός, ή, όν</printable>
+    <gloss lang="en">common, shared, unclean</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>κοινωνέω</key>
+    <strongNo>2841</strongNo>
+    <printable>κοινωνέω</printable>
+    <gloss lang="en">I share, communicate, have fellowship with</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>κοινωνία</key>
+    <strongNo>2842</strongNo>
+    <printable>κοινωνία, ας, ἡ</printable>
+    <gloss lang="en">participation, communion, fellowship</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>κοπιάω</key>
+    <strongNo>2872</strongNo>
+    <printable>κοπιάω</printable>
+    <gloss lang="en">I grow weary, toil</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>κοσμέω</key>
+    <strongNo>2885</strongNo>
+    <printable>κοσμέω</printable>
+    <gloss lang="en">I put into order, adorn</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>κοσμικός</key>
+    <strongNo>2886</strongNo>
+    <printable>κοσμικός, ή, όν</printable>
+    <gloss lang="en">earthly, worldly</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>κόσμος</key>
+    <strongNo>2889</strongNo>
+    <printable>κόσμος, ου, ὁ</printable>
+    <gloss lang="en">the world, universe</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>κρείσσων</key>
+    <strongNo>2908</strongNo>
+    <printable>κρείσσων, ον</printable>
+    <gloss lang="en">stronger, more excellent</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>κρίνω</key>
+    <strongNo>2919</strongNo>
+    <printable>κρίνω</printable>
+    <gloss lang="en">I judge, decide, think good</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>κύριος</key>
+    <strongNo>2962</strongNo>
+    <printable>κύριος, ου, ὁ</printable>
+    <gloss lang="en">lord, Lord, master, sir</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>κύων</key>
+    <strongNo>2965</strongNo>
+    <printable>κύων, κυνός, ὁ, ἡ</printable>
+    <gloss lang="en">a dog</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>κωλύω</key>
+    <strongNo>2967</strongNo>
+    <printable>κωλύω</printable>
+    <gloss lang="en">I prevent, hinder</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>λαλέω</key>
+    <strongNo>2980</strongNo>
+    <printable>λαλέω</printable>
+    <gloss lang="en">I speak, say</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>λαμβάνω</key>
+    <strongNo>2983</strongNo>
+    <printable>λαμβάνω</printable>
+    <gloss lang="en">I receive, take</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>λαός</key>
+    <strongNo>2992</strongNo>
+    <printable>λαός, οῦ, ὁ</printable>
+    <gloss lang="en">a people, the crowd</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>λατρεύω</key>
+    <strongNo>3000</strongNo>
+    <printable>λατρεύω</printable>
+    <gloss lang="en">I serve, worship</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>λέγω</key>
+    <strongNo>3004</strongNo>
+    <printable>λέγω</printable>
+    <gloss lang="en">I say, speak</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>λείπω</key>
+    <strongNo>3007</strongNo>
+    <printable>λείπω</printable>
+    <gloss lang="en">I am wanting, am left behind</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>λειτουργία</key>
+    <strongNo>3009</strongNo>
+    <printable>λειτουργία, ας, ἡ</printable>
+    <gloss lang="en">a charitable gift, public service</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>λειτουργός</key>
+    <strongNo>3011</strongNo>
+    <printable>λειτουργός, ου, ὁ</printable>
+    <gloss lang="en">a minister, servant</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>λογίζομαι</key>
+    <strongNo>3049</strongNo>
+    <printable>λογίζομαι</printable>
+    <gloss lang="en">I reckon, count, decide</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>λόγος</key>
+    <strongNo>3056</strongNo>
+    <printable>λόγος, ου, ὁ</printable>
+    <gloss lang="en">a word, speech, divine utterance, analogy</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>λοιπός</key>
+    <strongNo>3062</strongNo>
+    <printable>λοιπός, ή, όν</printable>
+    <gloss lang="en">left, left behind, the remainder</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>λουτρόν</key>
+    <strongNo>3067</strongNo>
+    <printable>λουτρόν, οῦ, τό</printable>
+    <gloss lang="en">a bath, washing, baptism</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>λύπη</key>
+    <strongNo>3077</strongNo>
+    <printable>λύπη, ης, ἡ</printable>
+    <gloss lang="en">pain, grief</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>λυτρόω</key>
+    <strongNo>3084</strongNo>
+    <printable>λυτρόω</printable>
+    <gloss lang="en">I ransom, liberate, deliver</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>μακάριος</key>
+    <strongNo>3107</strongNo>
+    <printable>μακάριος, α, ον</printable>
+    <gloss lang="en">happy, blessed</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>μάλιστα</key>
+    <strongNo>3122</strongNo>
+    <printable>μάλιστα</printable>
+    <gloss lang="en">most of all, especially</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>μᾶλλον</key>
+    <strongNo>3123</strongNo>
+    <printable>μᾶλλον</printable>
+    <gloss lang="en">more, rather</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>μανθάνω</key>
+    <strongNo>3129</strongNo>
+    <printable>μανθάνω</printable>
+    <gloss lang="en">I learn, ascertain</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>μαρτυρέω</key>
+    <strongNo>3140</strongNo>
+    <printable>μαρτυρέω</printable>
+    <gloss lang="en">I witness, testify</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>μαρτυρία</key>
+    <strongNo>3141</strongNo>
+    <printable>μαρτυρία, ας, ἡ</printable>
+    <gloss lang="en">witness, evidence, testimony</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>μάρτυς</key>
+    <strongNo>3144</strongNo>
+    <printable>μάρτυς, υρος, ὁ</printable>
+    <gloss lang="en">a witness</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ματαιολόγος</key>
+    <strongNo>3151</strongNo>
+    <printable>ματαιολόγος, ου, ὁ</printable>
+    <gloss lang="en">a vain, empty talker</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>μάταιος</key>
+    <strongNo>3152</strongNo>
+    <printable>μάταιος, αία, αιον</printable>
+    <gloss lang="en">vain, unproductive, godless</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>μάχη</key>
+    <strongNo>3163</strongNo>
+    <printable>μάχη, ης, ἡ</printable>
+    <gloss lang="en">strife, contention, quarrel</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>μεγαλύνω</key>
+    <strongNo>3170</strongNo>
+    <printable>μεγαλύνω</printable>
+    <gloss lang="en">I enlarge, magnify, extol</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>μεγάλως</key>
+    <strongNo>3171</strongNo>
+    <printable>μεγάλως</printable>
+    <gloss lang="en">greatly</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>μέγας</key>
+    <strongNo>3173</strongNo>
+    <printable>μέγας, μεγάλη, μέγα</printable>
+    <gloss lang="en">large, great</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>μειζότερος</key>
+    <strongNo>3186</strongNo>
+    <printable>μειζότερος, α, ον</printable>
+    <gloss lang="en">greater</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>μέλας</key>
+    <strongNo>3189</strongNo>
+    <printable>μέλας, αινα, αν</printable>
+    <gloss lang="en">black</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>μέν</key>
+    <strongNo>3303</strongNo>
+    <printable>μέν</printable>
+    <gloss lang="en">truly, indeed</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>μενοῦνγε</key>
+    <strongNo>3304</strongNo>
+    <printable>μενοῦνγε</printable>
+    <gloss lang="en">nay rather</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>μένω</key>
+    <strongNo>3306</strongNo>
+    <printable>μένω</printable>
+    <gloss lang="en">I remain, abide</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>μεριμνάω</key>
+    <strongNo>3309</strongNo>
+    <printable>μεριμνάω</printable>
+    <gloss lang="en">I am anxious, distracted</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>μέσος</key>
+    <strongNo>3319</strongNo>
+    <printable>μέσος, η, ον</printable>
+    <gloss lang="en">middle, in the middle</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>μετά</key>
+    <strongNo>3326</strongNo>
+    <printable>μετά</printable>
+    <gloss lang="en">with, after</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>μετασχηματίζω</key>
+    <strongNo>3345</strongNo>
+    <printable>μετασχηματίζω</printable>
+    <gloss lang="en">I change the outward appearance, transfigure, adapt</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>μέχρι</key>
+    <strongNo>3360</strongNo>
+    <printable>μέχρι</printable>
+    <gloss lang="en">as far as, until</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>μή</key>
+    <strongNo>3361</strongNo>
+    <printable>μή</printable>
+    <gloss lang="en">not, lest</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>μηδέ</key>
+    <strongNo>3366</strongNo>
+    <printable>μηδέ</printable>
+    <gloss lang="en">and not, not even</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>μηδείς</key>
+    <strongNo>3367</strongNo>
+    <printable>μηδείς, μηδεμία, μηδέν</printable>
+    <gloss lang="en">no one, nothing</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>μιαίνω</key>
+    <strongNo>3392</strongNo>
+    <printable>μιαίνω</printable>
+    <gloss lang="en">I stain, pollute, defile</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>μιμέομαι</key>
+    <strongNo>3401</strongNo>
+    <printable>μιμέομαι</printable>
+    <gloss lang="en">I imitate</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>μισέω</key>
+    <strongNo>3404</strongNo>
+    <printable>μισέω</printable>
+    <gloss lang="en">I hate, detest</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>μνεία</key>
+    <strongNo>3417</strongNo>
+    <printable>μνεία, ας, ἡ</printable>
+    <gloss lang="en">remembrance, recollection</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>μόνον</key>
+    <strongNo>3440</strongNo>
+    <printable>μόνον</printable>
+    <gloss lang="en">alone, but, only</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>μόνος</key>
+    <strongNo>3441</strongNo>
+    <printable>μόνος, η, ον</printable>
+    <gloss lang="en">only, solitary, desolate</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>μορφή</key>
+    <strongNo>3444</strongNo>
+    <printable>μορφή, ῆς, ἡ</printable>
+    <gloss lang="en">form, shape, outward appearance</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>μυέω</key>
+    <strongNo>3453</strongNo>
+    <printable>μυέω</printable>
+    <gloss lang="en">I initiate, instruct</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>μῦθος</key>
+    <strongNo>3454</strongNo>
+    <printable>μῦθος, ου, ὁ</printable>
+    <gloss lang="en">an idle tale, fable</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>μωρός</key>
+    <strongNo>3474</strongNo>
+    <printable>μωρός, ά, όν</printable>
+    <gloss lang="en">stupid, foolish</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ναί</key>
+    <strongNo>3483</strongNo>
+    <printable>ναί</printable>
+    <gloss lang="en">yes, certainly, even so</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>νεκρός</key>
+    <strongNo>3498</strongNo>
+    <printable>νεκρός, ά, όν</printable>
+    <gloss lang="en">dead, a corpse</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>νέος</key>
+    <strongNo>3501</strongNo>
+    <printable>νέος, α, ον</printable>
+    <gloss lang="en">young, new, fresh</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>νόημα</key>
+    <strongNo>3540</strongNo>
+    <printable>νόημα, ατος, τό</printable>
+    <gloss lang="en">a thought, design, the mind</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>νομικός</key>
+    <strongNo>3544</strongNo>
+    <printable>νομικός, ή, όν</printable>
+    <gloss lang="en">about law, one learned in the Law</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>νόμος</key>
+    <strongNo>3551</strongNo>
+    <printable>νόμος, ου, ὁ</printable>
+    <gloss lang="en">a law, the Mosaic Law</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>νοσφίζω</key>
+    <strongNo>3557</strongNo>
+    <printable>νοσφίζω</printable>
+    <gloss lang="en">I rob, purloin</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>νουθεσία</key>
+    <strongNo>3559</strongNo>
+    <printable>νουθεσία, ας, ἡ</printable>
+    <gloss lang="en">a warning, admonition</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>νοῦς</key>
+    <strongNo>3563</strongNo>
+    <printable>νοῦς, νοός, νοΐ, νοῦν, ὁ</printable>
+    <gloss lang="en">the mind, reasoning faculty</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>νῦν</key>
+    <strongNo>3568</strongNo>
+    <printable>νῦν</printable>
+    <gloss lang="en">now, already, at present</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ξένος</key>
+    <strongNo>3581</strongNo>
+    <printable>ξένος, η, ον</printable>
+    <gloss lang="en">new, novel, a foreigner</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ὁ</key>
+    <strongNo>3588</strongNo>
+    <printable>ὁ, ἡ, τό</printable>
+    <gloss lang="en">the</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>οἰκία</key>
+    <strongNo>3614</strongNo>
+    <printable>οἰκία, ας, ἡ</printable>
+    <gloss lang="en">a house, household</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>οἰκονόμος</key>
+    <strongNo>3623</strongNo>
+    <printable>οἰκονόμος, ου, ὁ</printable>
+    <gloss lang="en">a steward</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>οἶκος</key>
+    <strongNo>3624</strongNo>
+    <printable>οἶκος, ου, ὁ</printable>
+    <gloss lang="en">a house, household</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>οἰκτιρμός</key>
+    <strongNo>3628</strongNo>
+    <printable>οἰκτιρμός, οῦ, ὁ</printable>
+    <gloss lang="en">pity, compassion</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>οἶνος</key>
+    <strongNo>3631</strongNo>
+    <printable>οἶνος, ου, ὁ</printable>
+    <gloss lang="en">wine</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ὀκνηρός</key>
+    <strongNo>3636</strongNo>
+    <printable>ὀκνηρός, ά, όν</printable>
+    <gloss lang="en">slothful, backward</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ὀκταήμερος</key>
+    <strongNo>3637</strongNo>
+    <printable>ὀκταήμερος, ον</printable>
+    <gloss lang="en">belonging to the eighth day</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ὅλος</key>
+    <strongNo>3650</strongNo>
+    <printable>ὅλος, η, ον</printable>
+    <gloss lang="en">all, the whole, entire</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ὁμοίωμα</key>
+    <strongNo>3667</strongNo>
+    <printable>ὁμοίωμα, ατος, τό</printable>
+    <gloss lang="en">a likeness, form, similitude</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ὁμολογέω</key>
+    <strongNo>3670</strongNo>
+    <printable>ὁμολογέω</printable>
+    <gloss lang="en">I confess, profess, acknowledge, praise</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ὄνομα</key>
+    <strongNo>3686</strongNo>
+    <printable>ὄνομα, ατος, τό</printable>
+    <gloss lang="en">name, character, reputation</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ὀπίσω</key>
+    <strongNo>3694</strongNo>
+    <printable>ὀπίσω</printable>
+    <gloss lang="en">behind, after</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ὁράω</key>
+    <strongNo>3708</strongNo>
+    <printable>ὁράω</printable>
+    <gloss lang="en">I see, look upon, experience</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ὀργίλος</key>
+    <strongNo>3711</strongNo>
+    <printable>ὀργίλος, η, ον</printable>
+    <gloss lang="en">prone to anger</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ὅς</key>
+    <strongNo>3739</strongNo>
+    <printable>ὅς, ἥ, ὅ</printable>
+    <gloss lang="en">who, which, what, that</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ὅσιος</key>
+    <strongNo>3741</strongNo>
+    <printable>ὅσιος, ία, ιον</printable>
+    <gloss lang="en">holy, pious</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ὀσμή</key>
+    <strongNo>3744</strongNo>
+    <printable>ὀσμή, ῆς, ἡ</printable>
+    <gloss lang="en">an odor</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ὅσος</key>
+    <strongNo>3745</strongNo>
+    <printable>ὅσος, η, ον</printable>
+    <gloss lang="en">how much, how great, how many</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ὅστις</key>
+    <strongNo>3748</strongNo>
+    <printable>ὅστις, ἥτις, ὅτι</printable>
+    <gloss lang="en">whosoever, whichsoever, whatsoever</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ὅταν</key>
+    <strongNo>3752</strongNo>
+    <printable>ὅταν</printable>
+    <gloss lang="en">when, whensoever</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ὅτε</key>
+    <strongNo>3753</strongNo>
+    <printable>ὅτε</printable>
+    <gloss lang="en">when</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ὅτι</key>
+    <strongNo>3754</strongNo>
+    <printable>ὅτι</printable>
+    <gloss lang="en">that, since, because</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>οὐ</key>
+    <strongNo>3756</strongNo>
+    <printable>οὐ</printable>
+    <gloss lang="en">no, not</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>οὐδέ</key>
+    <strongNo>3761</strongNo>
+    <printable>οὐδέ</printable>
+    <gloss lang="en">neither, nor, not even</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>οὐδείς</key>
+    <strongNo>3762</strongNo>
+    <printable>οὐδείς, οὐδεμία, οὐδέν</printable>
+    <gloss lang="en">no one, none, nothing</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>οὖν</key>
+    <strongNo>3767</strongNo>
+    <printable>οὖν</printable>
+    <gloss lang="en">therefore, then</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>οὐρανός</key>
+    <strongNo>3772</strongNo>
+    <printable>οὐρανός, οῦ, ὁ</printable>
+    <gloss lang="en">the sky, the heaven</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>οὔτε</key>
+    <strongNo>3777</strongNo>
+    <printable>οὔτε</printable>
+    <gloss lang="en">and not, neither, nor</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>οὗτος</key>
+    <strongNo>3778</strongNo>
+    <printable>οὗτος, αὕτη, τοῦτο</printable>
+    <gloss lang="en">this, he, she, it</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>οὕτως</key>
+    <strongNo>3779</strongNo>
+    <printable>οὕτως</printable>
+    <gloss lang="en">thus, so, in this manner</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ὀφείλω</key>
+    <strongNo>3784</strongNo>
+    <printable>ὀφείλω</printable>
+    <gloss lang="en">I owe, ought</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>πάθημα</key>
+    <strongNo>3804</strongNo>
+    <printable>πάθημα, ατος, τό</printable>
+    <gloss lang="en">suffering, passion</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>παιδεύω</key>
+    <strongNo>3811</strongNo>
+    <printable>παιδεύω</printable>
+    <gloss lang="en">I discipline, educate, train, chastise</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>πάλιν</key>
+    <strongNo>3825</strongNo>
+    <printable>πάλιν</printable>
+    <gloss lang="en">again, further, on the other hand</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>πάντοτε</key>
+    <strongNo>3842</strongNo>
+    <printable>πάντοτε</printable>
+    <gloss lang="en">always, at all times</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>παρά</key>
+    <strongNo>3844</strongNo>
+    <printable>παρά</printable>
+    <gloss lang="en">from, in the presence of</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>παραιτέομαι</key>
+    <strongNo>3868</strongNo>
+    <printable>παραιτέομαι</printable>
+    <gloss lang="en">I make excuse, refuse, reject</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>παρακαλέω</key>
+    <strongNo>3870</strongNo>
+    <printable>παρακαλέω</printable>
+    <gloss lang="en">I summon, entreat, admonish, comfort</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>παράκλησις</key>
+    <strongNo>3874</strongNo>
+    <printable>παράκλησις, εως, ἡ</printable>
+    <gloss lang="en">exhortation, entreaty, encouragement, comfort</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>παραλαμβάνω</key>
+    <strongNo>3880</strongNo>
+    <printable>παραλαμβάνω</printable>
+    <gloss lang="en">I take, receive</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>παραμένω</key>
+    <strongNo>3887</strongNo>
+    <printable>παραμένω</printable>
+    <gloss lang="en">I remain by, abide with</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>παραμύθιον</key>
+    <strongNo>3890</strongNo>
+    <printable>παραμύθιον, ου, τό</printable>
+    <gloss lang="en">comfort, consolation</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>παραπλήσιον</key>
+    <strongNo>3897</strongNo>
+    <printable>παραπλήσιον</printable>
+    <gloss lang="en">near to, nearly</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>παραχειμάζω</key>
+    <strongNo>3914</strongNo>
+    <printable>παραχειμάζω</printable>
+    <gloss lang="en">I pass the winter</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>παρέχω</key>
+    <strongNo>3930</strongNo>
+    <printable>παρέχω</printable>
+    <gloss lang="en">I offer, provide</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>πάροινος</key>
+    <strongNo>3943</strongNo>
+    <printable>πάροινος, ον</printable>
+    <gloss lang="en">given to wine, drunken</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>παρουσία</key>
+    <strongNo>3952</strongNo>
+    <printable>παρουσία, ας, ἡ</printable>
+    <gloss lang="en">presence, a coming, arrival, advent</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>παρρησία</key>
+    <strongNo>3954</strongNo>
+    <printable>παρρησία, ας, ἡ</printable>
+    <gloss lang="en">freedom, confidence</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>πᾶς</key>
+    <strongNo>3956</strongNo>
+    <printable>πᾶς, πᾶσα, πᾶν</printable>
+    <gloss lang="en">all, the whole, every kind of</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>πάσχω</key>
+    <strongNo>3958</strongNo>
+    <printable>πάσχω</printable>
+    <gloss lang="en">I am acted upon, suffer</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>πατήρ</key>
+    <strongNo>3962</strongNo>
+    <printable>πατήρ, πατρός, ὁ</printable>
+    <gloss lang="en">father, Father, ancestor</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>πειθαρχέω</key>
+    <strongNo>3980</strongNo>
+    <printable>πειθαρχέω</printable>
+    <gloss lang="en">I obey one in authority</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>πείθω</key>
+    <strongNo>3982</strongNo>
+    <printable>πείθω</printable>
+    <gloss lang="en">I persuade, urge</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>πεινάω</key>
+    <strongNo>3983</strongNo>
+    <printable>πεινάω</printable>
+    <gloss lang="en">I am hungry, needy</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>πέμπω</key>
+    <strongNo>3992</strongNo>
+    <printable>πέμπω</printable>
+    <gloss lang="en">I send</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>πεποίθησις</key>
+    <strongNo>4006</strongNo>
+    <printable>πεποίθησις, εως, ἡ</printable>
+    <gloss lang="en">confidence, trust</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>περί</key>
+    <strongNo>4012</strongNo>
+    <printable>περί</printable>
+    <gloss lang="en">about, concerning, around</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>περιΐστημι</key>
+    <strongNo>4026</strongNo>
+    <printable>περιΐστημι</printable>
+    <gloss lang="en">I stand around, avoid, shun</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>περιούσιος</key>
+    <strongNo>4041</strongNo>
+    <printable>περιούσιος, ον</printable>
+    <gloss lang="en">costly, specially chosen</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>περιπατέω</key>
+    <strongNo>4043</strongNo>
+    <printable>περιπατέω</printable>
+    <gloss lang="en">I walk, conduct my life</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>περισσεύω</key>
+    <strongNo>4052</strongNo>
+    <printable>περισσεύω</printable>
+    <gloss lang="en">I exceed, am left over</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>περιτομή</key>
+    <strongNo>4061</strongNo>
+    <printable>περιτομή, ῆς, ἡ</printable>
+    <gloss lang="en">circumcision</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>περιφρονέω</key>
+    <strongNo>4065</strongNo>
+    <printable>περιφρονέω</printable>
+    <gloss lang="en">I look down upon, despise</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>πιστεύω</key>
+    <strongNo>4100</strongNo>
+    <printable>πιστεύω</printable>
+    <gloss lang="en">I believe, have faith in</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>πίστις</key>
+    <strongNo>4102</strongNo>
+    <printable>πίστις, εως, ἡ</printable>
+    <gloss lang="en">faith, belief, trust</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>πιστός</key>
+    <strongNo>4103</strongNo>
+    <printable>πιστός, ή, όν</printable>
+    <gloss lang="en">trustworthy, faithful, believing</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>πλανάω</key>
+    <strongNo>4105</strongNo>
+    <printable>πλανάω</printable>
+    <gloss lang="en">I lead astray, deceive</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>πλείων</key>
+    <strongNo>4119</strongNo>
+    <printable>πλείων, εῖον</printable>
+    <gloss lang="en">more, greater</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>πλεονάζω</key>
+    <strongNo>4121</strongNo>
+    <printable>πλεονάζω</printable>
+    <gloss lang="en">I abound, increase</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>πλήκτης</key>
+    <strongNo>4131</strongNo>
+    <printable>πλήκτης, ου, ὁ</printable>
+    <gloss lang="en">a contentious person</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>πλήν</key>
+    <strongNo>4133</strongNo>
+    <printable>πλήν</printable>
+    <gloss lang="en">however, nevertheless</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>πληρόω</key>
+    <strongNo>4137</strongNo>
+    <printable>πληρόω</printable>
+    <gloss lang="en">I fill, fulfill, complete</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>πλουσίως</key>
+    <strongNo>4146</strongNo>
+    <printable>πλουσίως</printable>
+    <gloss lang="en">richly, abundantly</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>πλοῦτος</key>
+    <strongNo>4149</strongNo>
+    <printable>πλοῦτος, ου, ὁ</printable>
+    <gloss lang="en">riches, wealth</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>πνεῦμα</key>
+    <strongNo>4151</strongNo>
+    <printable>πνεῦμα, ατος, τό</printable>
+    <gloss lang="en">wind, breath, spirit</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ποιέω</key>
+    <strongNo>4160</strongNo>
+    <printable>ποιέω</printable>
+    <gloss lang="en">I do, make</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ποικίλος</key>
+    <strongNo>4164</strongNo>
+    <printable>ποικίλος, η, ον</printable>
+    <gloss lang="en">various, of different colors</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>πόλις</key>
+    <strongNo>4172</strongNo>
+    <printable>πόλις, εως, ἡ</printable>
+    <gloss lang="en">a city</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>πολίτευμα</key>
+    <strongNo>4175</strongNo>
+    <printable>πολίτευμα, ατος, τό</printable>
+    <gloss lang="en">a state, commonwealth</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>πολλάκις</key>
+    <strongNo>4178</strongNo>
+    <printable>πολλάκις</printable>
+    <gloss lang="en">many times, often</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>πονηρός</key>
+    <strongNo>4190</strongNo>
+    <printable>πονηρός, ά, όν</printable>
+    <gloss lang="en">evil, bad, wicked</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ποτέ</key>
+    <strongNo>4218</strongNo>
+    <printable>ποτέ</printable>
+    <gloss lang="en">at one time or other</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>πραιτώριον</key>
+    <strongNo>4232</strongNo>
+    <printable>πραιτώριον, ου, τό</printable>
+    <gloss lang="en">the official residence of the procurator</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>πράσσω</key>
+    <strongNo>4238</strongNo>
+    <printable>πράσσω</printable>
+    <gloss lang="en">I do, fare, require</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>πρέπω</key>
+    <strongNo>4241</strongNo>
+    <printable>πρέπω</printable>
+    <gloss lang="en">it becomes, is fitting to</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>πρεσβύτερος</key>
+    <strongNo>4245</strongNo>
+    <printable>πρεσβύτερος, α, ον</printable>
+    <gloss lang="en">elder</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>πρεσβύτης</key>
+    <strongNo>4246</strongNo>
+    <printable>πρεσβύτης, ου, ὁ</printable>
+    <gloss lang="en">an old man</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>πρεσβῦτις</key>
+    <strongNo>4247</strongNo>
+    <printable>πρεσβῦτις, ιδος, ἡ</printable>
+    <gloss lang="en">an old woman</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>πρό</key>
+    <strongNo>4253</strongNo>
+    <printable>πρό</printable>
+    <gloss lang="en">before</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>προΐστημι</key>
+    <strongNo>4291</strongNo>
+    <printable>προΐστημι</printable>
+    <gloss lang="en">I rule</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>προκοπή</key>
+    <strongNo>4297</strongNo>
+    <printable>προκοπή, ῆς, ἡ</printable>
+    <gloss lang="en">progress, advancement</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>προπέμπω</key>
+    <strongNo>4311</strongNo>
+    <printable>προπέμπω</printable>
+    <gloss lang="en">I send forward, accompany</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>πρός</key>
+    <strongNo>4314</strongNo>
+    <printable>πρός</printable>
+    <gloss lang="en">to, towards, with</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>προσδέχομαι</key>
+    <strongNo>4327</strongNo>
+    <printable>προσδέχομαι</printable>
+    <gloss lang="en">I expect, welcome, accept</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>προσευχή</key>
+    <strongNo>4335</strongNo>
+    <printable>προσευχή, ῆς, ἡ</printable>
+    <gloss lang="en">prayer, a place for prayer</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>προσεύχομαι</key>
+    <strongNo>4336</strongNo>
+    <printable>προσεύχομαι</printable>
+    <gloss lang="en">I pray, pray for</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>προσέχω</key>
+    <strongNo>4337</strongNo>
+    <printable>προσέχω</printable>
+    <gloss lang="en">I pay attention to, devote myself to</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>προσφιλής</key>
+    <strongNo>4375</strongNo>
+    <printable>προσφιλής, ές</printable>
+    <gloss lang="en">pleasing, acceptable</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>πρόφασις</key>
+    <strongNo>4392</strongNo>
+    <printable>πρόφασις, εως, ἡ</printable>
+    <gloss lang="en">a pretext, an excuse</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>προφήτης</key>
+    <strongNo>4396</strongNo>
+    <printable>προφήτης, ου, ὁ</printable>
+    <gloss lang="en">a prophet, poet</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>πρῶτος</key>
+    <strongNo>4413</strongNo>
+    <printable>πρῶτος, η, ον</printable>
+    <gloss lang="en">first, before</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>πτύρω</key>
+    <strongNo>4426</strongNo>
+    <printable>πτύρω</printable>
+    <gloss lang="en">I frighten, terrify</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>σάρξ</key>
+    <strongNo>4561</strongNo>
+    <printable>σάρξ, σαρκός, ἡ</printable>
+    <gloss lang="en">flesh, body</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>σεαυτοῦ</key>
+    <strongNo>4572</strongNo>
+    <printable>σεαυτοῦ, ῆς, οῦ</printable>
+    <gloss lang="en">of yourself</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>σεμνός</key>
+    <strongNo>4586</strongNo>
+    <printable>σεμνός, ή, όν</printable>
+    <gloss lang="en">honorable</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>σεμνότης</key>
+    <strongNo>4587</strongNo>
+    <printable>σεμνότης, τητος, ἡ</printable>
+    <gloss lang="en">dignity, honor</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>σκολιός</key>
+    <strongNo>4646</strongNo>
+    <printable>σκολιός, ά, όν</printable>
+    <gloss lang="en">crooked, perverse, unfair</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>σκοπέω</key>
+    <strongNo>4648</strongNo>
+    <printable>σκοπέω</printable>
+    <gloss lang="en">regard attentively, take heed</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>σκοπός</key>
+    <strongNo>4649</strongNo>
+    <printable>σκοπός, οῦ, ὁ</printable>
+    <gloss lang="en">a goal</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>σκύβαλον</key>
+    <strongNo>4657</strongNo>
+    <printable>σκύβαλον, ου, τό</printable>
+    <gloss lang="en">refuse, dregs</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>σπένδω</key>
+    <strongNo>4689</strongNo>
+    <printable>σπένδω</printable>
+    <gloss lang="en">I pour out as a libation</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>σπουδάζω</key>
+    <strongNo>4704</strongNo>
+    <printable>σπουδάζω</printable>
+    <gloss lang="en">I hasten</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>σπουδαιοτέρως</key>
+    <strongNo>4708</strongNo>
+    <printable>σπουδαιοτέρως</printable>
+    <gloss lang="en">more earnestly, more carefully</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>σπουδαίως</key>
+    <strongNo>4709</strongNo>
+    <printable>σπουδαίως</printable>
+    <gloss lang="en">diligently, earnestly</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>σταυρός</key>
+    <strongNo>4716</strongNo>
+    <printable>σταυρός, οῦ, ὁ</printable>
+    <gloss lang="en">a cross</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>στέφανος</key>
+    <strongNo>4735</strongNo>
+    <printable>στέφανος, ου, ὁ</printable>
+    <gloss lang="en">a crown, garland</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>στήκω</key>
+    <strongNo>4739</strongNo>
+    <printable>στήκω</printable>
+    <gloss lang="en">I stand fast, persevere</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>στοιχέω</key>
+    <strongNo>4748</strongNo>
+    <printable>στοιχέω</printable>
+    <gloss lang="en">I walk</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>στόμα</key>
+    <strongNo>4750</strongNo>
+    <printable>στόμα, ατος, τό</printable>
+    <gloss lang="en">the mouth, speech</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>στυγητός</key>
+    <strongNo>4767</strongNo>
+    <printable>στυγητός, ή, όν</printable>
+    <gloss lang="en">hateful, detestable</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>σύ</key>
+    <strongNo>4771</strongNo>
+    <printable>σύ, σοῦ, σοί, σέ</printable>
+    <gloss lang="en">you</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>σύμμορφος</key>
+    <strongNo>4832</strongNo>
+    <printable>σύμμορφος, ον</printable>
+    <gloss lang="en">similar, conformed to</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>σύν</key>
+    <strongNo>4862</strongNo>
+    <printable>σύν</printable>
+    <gloss lang="en">with</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>συναθλέω</key>
+    <strongNo>4866</strongNo>
+    <printable>συναθλέω</printable>
+    <gloss lang="en">I compete together with others</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>συνείδησις</key>
+    <strongNo>4893</strongNo>
+    <printable>συνείδησις, εως, ἡ</printable>
+    <gloss lang="en">the conscience</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>συνεργός</key>
+    <strongNo>4904</strongNo>
+    <printable>συνεργός, οῦ, ὁ</printable>
+    <gloss lang="en">a fellow worker</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>συνέχω</key>
+    <strongNo>4912</strongNo>
+    <printable>συνέχω</printable>
+    <gloss lang="en">I press together, confine, compel, am afflicted with</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>σχῆμα</key>
+    <strongNo>4976</strongNo>
+    <printable>σχῆμα, ατος, τό</printable>
+    <gloss lang="en">fashion, habit, form, appearance</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>σῴζω</key>
+    <strongNo>4982</strongNo>
+    <printable>σῴζω</printable>
+    <gloss lang="en">I save, heal</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>σῶμα</key>
+    <strongNo>4983</strongNo>
+    <printable>σῶμα, ατος, τό</printable>
+    <gloss lang="en">body, flesh</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>σωτήρ</key>
+    <strongNo>4990</strongNo>
+    <printable>σωτήρ, ῆρος, ὁ</printable>
+    <gloss lang="en">a savior, deliverer, preserver</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>σωτηρία</key>
+    <strongNo>4991</strongNo>
+    <printable>σωτηρία, ας, ἡ</printable>
+    <gloss lang="en">deliverance, salvation</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>σωτήριος</key>
+    <strongNo>4992</strongNo>
+    <printable>σωτήριος, ον</printable>
+    <gloss lang="en">saving, bringing salvation, salvation</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>σωφρονέω</key>
+    <strongNo>4993</strongNo>
+    <printable>σωφρονέω</printable>
+    <gloss lang="en">I am sober-minded, exercise self-control</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>σωφρονίζω</key>
+    <strongNo>4994</strongNo>
+    <printable>σωφρονίζω</printable>
+    <gloss lang="en">I admonish</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>σωφρόνως</key>
+    <strongNo>4996</strongNo>
+    <printable>σωφρόνως</printable>
+    <gloss lang="en">soberly, with moderation</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>σώφρων</key>
+    <strongNo>4998</strongNo>
+    <printable>σώφρων, ον</printable>
+    <gloss lang="en">self-controlled, temperate</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ταπεινοφροσύνη</key>
+    <strongNo>5012</strongNo>
+    <printable>ταπεινοφροσύνη, ης, ἡ</printable>
+    <gloss lang="en">humility</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ταπεινόω</key>
+    <strongNo>5013</strongNo>
+    <printable>ταπεινόω</printable>
+    <gloss lang="en">I humble, humiliate</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ταπείνωσις</key>
+    <strongNo>5014</strongNo>
+    <printable>ταπείνωσις, εως, ἡ</printable>
+    <gloss lang="en">abasement, low condition</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ταχέως</key>
+    <strongNo>5030</strongNo>
+    <printable>ταχέως</printable>
+    <gloss lang="en">soon, quickly, hastily</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>τέ</key>
+    <strongNo>5037</strongNo>
+    <printable>τέ</printable>
+    <gloss lang="en">and, both</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>τέκνον</key>
+    <strongNo>5043</strongNo>
+    <printable>τέκνον, ου, τό</printable>
+    <gloss lang="en">a child, descendent, inhabitant</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>τέλειος</key>
+    <strongNo>5046</strongNo>
+    <printable>τέλειος, α, ον</printable>
+    <gloss lang="en">perfect, full-grown</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>τελειόω</key>
+    <strongNo>5048</strongNo>
+    <printable>τελειόω</printable>
+    <gloss lang="en">I complete, accomplish, make perfect</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>τέλος</key>
+    <strongNo>5056</strongNo>
+    <printable>τέλος, ους, τό</printable>
+    <gloss lang="en">an end, purpose, tax</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>τις</key>
+    <strongNo>5100</strongNo>
+    <printable>τις, τι</printable>
+    <gloss lang="en">any one, some one</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>τίς</key>
+    <strongNo>5101</strongNo>
+    <printable>τίς, τί</printable>
+    <gloss lang="en">who, which, what</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>τοιοῦτος</key>
+    <strongNo>5108</strongNo>
+    <printable>τοιοῦτος, τοιαύτη, τοιοῦτο</printable>
+    <gloss lang="en">of such a kind, such</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>τολμάω</key>
+    <strongNo>5111</strongNo>
+    <printable>τολμάω</printable>
+    <gloss lang="en">I dare, endure, am bold</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>τρέχω</key>
+    <strongNo>5143</strongNo>
+    <printable>τρέχω</printable>
+    <gloss lang="en">I run, exercise myself</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>τρόμος</key>
+    <strongNo>5156</strongNo>
+    <printable>τρόμος, ου, ὁ</printable>
+    <gloss lang="en">a trembling</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>τρόπος</key>
+    <strongNo>5158</strongNo>
+    <printable>τρόπος, ου, ὁ</printable>
+    <gloss lang="en">way, manner, character</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>τύπος</key>
+    <strongNo>5179</strongNo>
+    <printable>τύπος, ου, ὁ</printable>
+    <gloss lang="en">a figure, model, type</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ὑγιαίνω</key>
+    <strongNo>5198</strongNo>
+    <printable>ὑγιαίνω</printable>
+    <gloss lang="en">I am well</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ὑγιής</key>
+    <strongNo>5199</strongNo>
+    <printable>ὑγιής, ές</printable>
+    <gloss lang="en">sound, whole, wholesome</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ὑπακούω</key>
+    <strongNo>5219</strongNo>
+    <printable>ὑπακούω</printable>
+    <gloss lang="en">I listen, obey</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ὑπάρχω</key>
+    <strongNo>5225</strongNo>
+    <printable>ὑπάρχω</printable>
+    <gloss lang="en">I am, exist, am in possession</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ὑπέρ</key>
+    <strongNo>5228</strongNo>
+    <printable>ὑπέρ</printable>
+    <gloss lang="en">in behalf of, above</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ὑπερέχω</key>
+    <strongNo>5242</strongNo>
+    <printable>ὑπερέχω</printable>
+    <gloss lang="en">I excel, surpass</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ὑπερυψόω</key>
+    <strongNo>5251</strongNo>
+    <printable>ὑπερυψόω</printable>
+    <gloss lang="en">I highly exalt</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ὑπήκοος</key>
+    <strongNo>5255</strongNo>
+    <printable>ὑπήκοος, ον</printable>
+    <gloss lang="en">listening to, obedient</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ὑπό</key>
+    <strongNo>5259</strongNo>
+    <printable>ὑπό</printable>
+    <gloss lang="en">by, under, about</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ὑπολαμβάνω</key>
+    <strongNo>5274</strongNo>
+    <printable>ὑπολαμβάνω</printable>
+    <gloss lang="en">I take up, receive, answer, suppose, welcome</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ὑπομιμνῄσκω</key>
+    <strongNo>5279</strongNo>
+    <printable>ὑπομιμνῄσκω</printable>
+    <gloss lang="en">I remind, remember</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ὑπομονή</key>
+    <strongNo>5281</strongNo>
+    <printable>ὑπομονή, ῆς, ἡ</printable>
+    <gloss lang="en">endurance, steadfastness</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ὑποτάσσω</key>
+    <strongNo>5293</strongNo>
+    <printable>ὑποτάσσω</printable>
+    <gloss lang="en">I place under, subject to</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ὑστερέω</key>
+    <strongNo>5302</strongNo>
+    <printable>ὑστερέω</printable>
+    <gloss lang="en">I am lacking, fall short, suffer need</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ὑστέρημα</key>
+    <strongNo>5303</strongNo>
+    <printable>ὑστέρημα, ατος, τό</printable>
+    <gloss lang="en">that which is lacking, poverty</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ὑστέρησις</key>
+    <strongNo>5304</strongNo>
+    <printable>ὑστέρησις, εως, ἡ</printable>
+    <gloss lang="en">poverty, want</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>φαίνω</key>
+    <strongNo>5316</strongNo>
+    <printable>φαίνω</printable>
+    <gloss lang="en">I shine, appear, seem</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>φανερός</key>
+    <strongNo>5318</strongNo>
+    <printable>φανερός, ά, όν</printable>
+    <gloss lang="en">apparent, clear, visible, manifest, clearly</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>φανερόω</key>
+    <strongNo>5319</strongNo>
+    <printable>φανερόω</printable>
+    <gloss lang="en">I make clear, visible, or manifest</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>φαῦλος</key>
+    <strongNo>5337</strongNo>
+    <printable>φαῦλος, η, ον</printable>
+    <gloss lang="en">worthless, wicked, base</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>φθάνω</key>
+    <strongNo>5348</strongNo>
+    <printable>φθάνω</printable>
+    <gloss lang="en">I anticipate, precede, arrive</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>φθόνος</key>
+    <strongNo>5355</strongNo>
+    <printable>φθόνος, ου, ὁ</printable>
+    <gloss lang="en">envy, a grudge</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>φιλάγαθος</key>
+    <strongNo>5358</strongNo>
+    <printable>φιλάγαθος, ον</printable>
+    <gloss lang="en">loving what is good</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>φίλανδρος</key>
+    <strongNo>5362</strongNo>
+    <printable>φίλανδρος, ον</printable>
+    <gloss lang="en">loving one's husband</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>φιλανθρωπία</key>
+    <strongNo>5363</strongNo>
+    <printable>φιλανθρωπία, ας, ἡ</printable>
+    <gloss lang="en">love of mankind, benevolence</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>φιλέω</key>
+    <strongNo>5368</strongNo>
+    <printable>φιλέω</printable>
+    <gloss lang="en">I love, kiss</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>φιλόξενος</key>
+    <strongNo>5382</strongNo>
+    <printable>φιλόξενος, ον</printable>
+    <gloss lang="en">hospitable</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>φιλοπρωτεύω</key>
+    <strongNo>5383</strongNo>
+    <printable>φιλοπρωτεύω</printable>
+    <gloss lang="en">I desire preeminence</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>φίλος</key>
+    <strongNo>5384</strongNo>
+    <printable>φίλος, η, ον</printable>
+    <gloss lang="en">friendly, a friend</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>φιλότεκνος</key>
+    <strongNo>5388</strongNo>
+    <printable>φιλότεκνος, ον</printable>
+    <gloss lang="en">loving one's children</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>φλυαρέω</key>
+    <strongNo>5396</strongNo>
+    <printable>φλυαρέω</printable>
+    <gloss lang="en">I gossip against</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>φόβος</key>
+    <strongNo>5401</strongNo>
+    <printable>φόβος, ου, ὁ</printable>
+    <gloss lang="en">fear, terror, reverence</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>φρεναπάτης</key>
+    <strongNo>5423</strongNo>
+    <printable>φρεναπάτης, ου, ὁ</printable>
+    <gloss lang="en">a mind-deceiver</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>φρονέω</key>
+    <strongNo>5426</strongNo>
+    <printable>φρονέω</printable>
+    <gloss lang="en">I think, judge, observe</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>φροντίζω</key>
+    <strongNo>5431</strongNo>
+    <printable>φροντίζω</printable>
+    <gloss lang="en">I am thoughtful, careful</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>φρουρέω</key>
+    <strongNo>5432</strongNo>
+    <printable>φρουρέω</printable>
+    <gloss lang="en">I guard, keep</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>φυλή</key>
+    <strongNo>5443</strongNo>
+    <printable>φυλή, ῆς, ἡ</printable>
+    <gloss lang="en">a tribe, race</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>φωστήρ</key>
+    <strongNo>5458</strongNo>
+    <printable>φωστήρ, ῆρος, ὁ</printable>
+    <gloss lang="en">a light, brilliancy</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>χαίρω</key>
+    <strongNo>5463</strongNo>
+    <printable>χαίρω</printable>
+    <gloss lang="en">I rejoice, am glad</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>χαρά</key>
+    <strongNo>5479</strongNo>
+    <printable>χαρά, ᾶς, ἡ</printable>
+    <gloss lang="en">joy, gladness</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>χαρίζομαι</key>
+    <strongNo>5483</strongNo>
+    <printable>χαρίζομαι</printable>
+    <gloss lang="en">I show favor to, forgive</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>χάριν</key>
+    <strongNo>5484</strongNo>
+    <printable>χάριν</printable>
+    <gloss lang="en">on account of</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>χάρις</key>
+    <strongNo>5485</strongNo>
+    <printable>χάρις, ιτος, ἡ</printable>
+    <gloss lang="en">grace, favor, kindness</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>χορτάζω</key>
+    <strongNo>5526</strongNo>
+    <printable>χορτάζω</printable>
+    <gloss lang="en">I feed, satisfy</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>χρεία</key>
+    <strongNo>5532</strongNo>
+    <printable>χρεία, ας, ἡ</printable>
+    <gloss lang="en">need, necessity, business</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>χρηστότης</key>
+    <strongNo>5544</strongNo>
+    <printable>χρηστότης, τητος, ἡ</printable>
+    <gloss lang="en">goodness, benignity, kindness</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>χρόνος</key>
+    <strongNo>5550</strongNo>
+    <printable>χρόνος, ου, ὁ</printable>
+    <gloss lang="en">time, a particular time, season</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>χωρίς</key>
+    <strongNo>5565</strongNo>
+    <printable>χωρίς</printable>
+    <gloss lang="en">apart from, without</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ψεύστης</key>
+    <strongNo>5583</strongNo>
+    <printable>ψεύστης, ου, ὁ</printable>
+    <gloss lang="en">a liar, deceiver</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ψυχή</key>
+    <strongNo>5590</strongNo>
+    <printable>ψυχή, ῆς, ἡ</printable>
+    <gloss lang="en">the soul, life, self</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ὡς</key>
+    <strongNo>5613</strongNo>
+    <printable>ὡς</printable>
+    <gloss lang="en">as, like as, how, while, so that</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ὡσαύτως</key>
+    <strongNo>5615</strongNo>
+    <printable>ὡσαύτως</printable>
+    <gloss lang="en">likewise</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ὥστε</key>
+    <strongNo>5620</strongNo>
+    <printable>ὥστε</printable>
+    <gloss lang="en">so that, therefore</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+  <entry>
+    <key>ὠφέλιμος</key>
+    <strongNo>5624</strongNo>
+    <printable>ὠφέλιμος, ον</printable>
+    <gloss lang="en">profitable, beneficial, useful</gloss>
+    <gloss lang="fr"/>
+    <gloss lang="es"/>
+  </entry>
+</entries>
