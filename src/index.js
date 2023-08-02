@@ -135,7 +135,11 @@ const getBibles = async bibleSpecs => {
             let responseData = source.url ? await getUrl(source.url) : await getPath(source.filePath);
             if (!responseData.includes('\\mt')) {
                 console.log(`      Fixing USFM`);
-                responseData = responseData.replace("\\c 1", "\\mt1 ${source.bookCode}\n\\c 1")
+                responseData = responseData.replace("\\c 1", "\\mt1 ${source.bookCode}\n\\c 1");
+            }
+            if (responseData.includes('\\s5')) {
+                console.log(`      Fixing s5`);
+                responseData = responseData.replace(/\\s5/g, "\\ts\\*");
             }
             pk.importDocument(
                 {
