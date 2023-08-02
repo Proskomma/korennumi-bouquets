@@ -313,16 +313,18 @@ const getLemmaResources = async (lemmaSpecs, succincts) => {
 
 // Do Content
 const getContent = async specIndex => {
+    let specs = [];
     for (const specUrl of specIndex) {
         const succincts = {};
         const spec = fse.readJsonSync(path.resolve(process.argv[2], specUrl));
+        specs.push(spec);
         await getKeywordResources(spec.keywordResources, succincts);
         await getBcvResources(spec.bcvResources, succincts);
         await getLemmaResources(spec.lemmaResources, succincts);
         await getBibles(spec.bibles, succincts);
         fse.writeJsonSync(path.join(toUploadDir, spec.url), succincts);
     }
-    fse.writeJsonSync(path.join(toUploadDir, 'index.json'), specIndex);
+    fse.writeJsonSync(path.join(toUploadDir, 'index.json'), specs);
 }
 
 const usage = "USAGE: node index.js <specDir> <toUploadDir>";
