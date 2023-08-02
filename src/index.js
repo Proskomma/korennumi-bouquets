@@ -3,15 +3,6 @@ const fse = require('fs-extra');
 const axios = require('axios').default;
 const {Proskomma} = require('proskomma-core');
 
-const usage = "USAGE: node index.js <spec> <succinctPath> <metadataPath>";
-if (process.argv.length !== 5) {
-    console.log(`Wrong number of arguments\n${usage}`);
-    process.exit(1);
-}
-
-const spec = fse.readJsonSync(path.resolve(process.argv[2]));
-const succincts = {};
-
 // Convert TSV to JSON for Pk Import
 const uwTsvToTable = (tsv, hasHeadings) => {
     const ret = {
@@ -109,7 +100,7 @@ const getPath = async filePath => {
 }
 
 // Do Bibles
-const getBibles = async bibleSpecs => {
+const getBibles = async (bibleSpecs, succincts) => {
     console.log("Bibles");
     for (const bible of bibleSpecs) {
         console.log(`  ${bible.title}`);
@@ -161,7 +152,7 @@ const getBibles = async bibleSpecs => {
 }
 
 // Do BCV Resources
-const getBcvResources = async bcvSpecs => {
+const getBcvResources = async (bcvSpecs, succincts) => {
     console.log("BCV Resources");
     for (const resource of bcvSpecs) {
         console.log(`  ${resource.title}`);
@@ -224,7 +215,7 @@ const getBcvResources = async bcvSpecs => {
 }
 
 // Do keyword Resources
-const getKeywordResources = async keywordSpecs => {
+const getKeywordResources = async (keywordSpecs, succincts) => {
     console.log("Keyword Resources");
     for (const resource of keywordSpecs) {
         console.log(`  ${resource.title}`);
@@ -273,7 +264,7 @@ const getKeywordResources = async keywordSpecs => {
 }
 
 // Do keyword Resources
-const getLemmaResources = async lemmaSpecs => {
+const getLemmaResources = async (lemmaSpecs, succincts) => {
     console.log("Lemma Resources");
     for (const resource of lemmaSpecs) {
         console.log(`  ${resource.title}`);
@@ -321,14 +312,40 @@ const getLemmaResources = async lemmaSpecs => {
 }
 
 // Do Content
-const getContent = async spec => {
-    await getKeywordResources(spec.keywordResources);
-    await getBcvResources(spec.bcvResources);
-    await getLemmaResources(spec.lemmaResources);
-    await getBibles(spec.bibles);
-    fse.writeJsonSync(path.resolve(process.argv[3]), succincts);
-    fse.writeJsonSync(path.resolve(process.argv[4]), spec);
+const getContent = async specIndex => {
+    for (const specUrl of specIndex) {
+        const succincts = {};
+        const spec = fse.readJsonSync(path.resolve(process.argv[2], specUrl));
+        await getKeywordResources(spec.keywordResources, succincts);
+        await getBcvResources(spec.bcvResources, succincts);
+        await getLemmaResources(spec.lemmaResources, succincts);
+        await getBibles(spec.bibles, succincts);
+        fse.writeJsonSync(path.join(toUploadDir, spec.url), succincts);
+    }
+    fse.writeJsonSync(path.join(toUploadDir, 'index.json'), specIndex);
 }
 
-getContent(spec).then();
+const usage = "USAGE: node index.js <specDir> <toUploadDir>";
+if (process.argv.length !== 4) {
+    console.log(`Wrong number of arguments\n${usage}`);
+    process.exit(1);
+}
+// Make output dir
+const toUploadDir = path.resolve(process.argv[3]);
+if (fse.existsSync(toUploadDir)) {
+    console.log(`toUploadDir '${toUploadDir}' already exists\n${usage}`);
+    process.exit(1);
+}
+fse.mkdirsSync(toUploadDir);
+
+// Read index
+const specIndexUrl = path.resolve(process.argv[2], "index.json");
+if (!fse.existsSync(specIndexUrl)) {
+    console.log(`specIndex '${specIndexUrl}' does not exist\n${usage}`);
+    process.exit(1);
+}
+const specIndex = fse.readJsonSync(specIndexUrl);
+
+// Do processing
+getContent(specIndex).then();
 
