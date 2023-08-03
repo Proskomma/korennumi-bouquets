@@ -311,6 +311,35 @@ const getLemmaResources = async (lemmaSpecs, succincts) => {
     }
 }
 
+// Prune Specs before serializing (destructive)
+
+const pruneSpecs = specs => {
+    for (const spec of specs) {
+        for (const contentKey of ['bibles', 'bcvResources', 'keywordResources', 'lemmaResources']) {
+            if (spec[contentKey]) {
+                for (const specItem of spec[contentKey]) {
+                    if (specItem['sources']) {
+                        for (const source of specItem['sources']) {
+                            delete source.url;
+                            delete source.filePath;
+                        }
+                    }
+                    if (specItem['source']) {
+                        delete specItem['source'].url;
+                        delete specItem['source'].filePath;
+                    }
+                }
+            }
+        }
+        if (spec.keywordResources) {
+            for (const specItem of spec.keywordResources) {
+                delete specItem.articleBcvs;
+            }
+        }
+    }
+    return specs
+}
+
 // Do Content
 const getContent = async specIndex => {
     let specs = [];
@@ -318,13 +347,14 @@ const getContent = async specIndex => {
         const succincts = {};
         const spec = fse.readJsonSync(path.resolve(process.argv[2], specUrl));
         specs.push(spec);
+        console.log(spec.title);
         await getKeywordResources(spec.keywordResources, succincts);
         await getBcvResources(spec.bcvResources, succincts);
         await getLemmaResources(spec.lemmaResources, succincts);
         await getBibles(spec.bibles, succincts);
         fse.writeJsonSync(path.join(toUploadDir, spec.url), succincts);
     }
-    fse.writeJsonSync(path.join(toUploadDir, 'index.json'), specs);
+    fse.writeJsonSync(path.join(toUploadDir, 'index.json'), pruneSpecs(specs));
 }
 
 const usage = "USAGE: node index.js <specDir> <toUploadDir>";
