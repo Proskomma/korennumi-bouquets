@@ -1,35 +1,11 @@
 {
   "title": "Projet Relais de Xenizo",
-  "url": "uw_fr_succinct.json",
+  "url": "xe_fr_succinct.json",
   "baseLanguageCode": "fr",
   "description": "Ressources pour traduction de la Bible, à partir du français",
   "owner": "Xenizo",
   "ownerUrl": "https://xenizo.fr",
   "bibles": [
-    {
-      "title": "Nouveau Testament grec par unfoldingWord®",
-      "description": "« unfoldingWord Greek New Testament », un texte grec aligné qui appuie sur le « Bunning Heuristic Greek New Testament »",
-      "copyright": "CC BY-SA 4.0",
-      "languageCode": "el",
-      "owner": "unfoldingWord",
-      "textDirection": "LTR",
-      "script": "Grek",
-      "selectors": {
-        "source": "door43UW",
-        "project": "ugnt",
-        "revision": "1"
-      },
-      "sources": [
-        {
-          "bookCode": "TIT",
-          "url": "https://git.door43.org/unfoldingWord/el-x-koine_ugnt/raw/branch/master/57-TIT.usfm"
-        },
-        {
-          "bookCode": "PHP",
-          "url": "https://git.door43.org/unfoldingWord/el-x-koine_ugnt/raw/branch/master/51-PHP.usfm"
-        }
-      ]
-    },
     {
       "title": "Traduction Louis Segond 1910",
       "description": "La traduction phare par Louis Segond, alignée au texte grec d'unfoldingWord",
@@ -51,6 +27,30 @@
         {
           "bookCode": "PHP",
           "url": "https://git.door43.org/MVHS/fr_lsg/raw/branch/master/51-PHP.usfm"
+        }
+      ]
+    },
+    {
+      "title": "Nouveau Testament grec par unfoldingWord®",
+      "description": "« unfoldingWord Greek New Testament », un texte grec aligné qui appuie sur le « Bunning Heuristic Greek New Testament »",
+      "copyright": "CC BY-SA 4.0",
+      "languageCode": "el",
+      "owner": "unfoldingWord",
+      "textDirection": "LTR",
+      "script": "Grek",
+      "selectors": {
+        "source": "door43UW",
+        "project": "ugnt",
+        "revision": "1"
+      },
+      "sources": [
+        {
+          "bookCode": "TIT",
+          "url": "https://git.door43.org/unfoldingWord/el-x-koine_ugnt/raw/branch/master/57-TIT.usfm"
+        },
+        {
+          "bookCode": "PHP",
+          "url": "https://git.door43.org/unfoldingWord/el-x-koine_ugnt/raw/branch/master/51-PHP.usfm"
         }
       ]
     },

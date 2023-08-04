@@ -347,7 +347,7 @@ const getContent = async specIndex => {
         const succincts = {};
         const spec = fse.readJsonSync(path.resolve(process.argv[2], specUrl));
         specs.push(spec);
-        console.log(spec.title);
+        console.log("\n**", spec.title, "**");
         await getKeywordResources(spec.keywordResources, succincts);
         await getBcvResources(spec.bcvResources, succincts);
         await getLemmaResources(spec.lemmaResources, succincts);

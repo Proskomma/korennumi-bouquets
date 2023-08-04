@@ -1,0 +1,85 @@
+{
+  "title": "unfoldingWord Resources",
+  "url": "uw_en_succinct.json",
+  "baseLanguageCode": "en",
+  "description": "Translations and notes by unfoldingWord for Bible translators",
+  "owner": "unfoldingWord",
+  "ownerUrl": "https://unfoldingWord.org",
+  "bibles": [
+    {
+      "title": "unfoldingWord Literal Text",
+      "description": "A literal Bible translation intended to reveal the forms and vocabulary of the source texts",
+      "copyright": "CC BY-SA 4.0",
+      "languageCode": "en",
+      "owner": "unfoldingWord",
+      "textDirection": "LTR",
+      "script": "Latn",
+      "selectors": {
+        "source": "door43uW",
+        "project": "ult",
+        "revision": "48"
+      },
+      "sources": [
+        {
+          "bookCode": "TIT",
+          "url": "https://git.door43.org/unfoldingWord/en_ult/raw/branch/master/57-TIT.usfm"
+        },
+        {
+          "bookCode": "PHP",
+          "url": "https://git.door43.org/unfoldingWord/en_ult/raw/branch/master/51-PHP.usfm"
+        }
+      ]
+    },
+    {
+      "title": "unfoldingWord Simplified Text",
+      "description": "A simplified Bible translation intended to reveal the meaning of the source texts",
+      "copyright": "CC BY-SA 4.0",
+      "languageCode": "en",
+      "owner": "unfoldingWord",
+      "textDirection": "LTR",
+      "script": "Latn",
+      "selectors": {
+        "source": "door43uW",
+        "project": "ust",
+        "revision": "47"
+      },
+      "sources": [
+        {
+          "bookCode": "TIT",
+          "url": "https://git.door43.org/unfoldingWord/en_ust/raw/branch/master/57-TIT.usfm"
+        },
+        {
+          "bookCode": "PHP",
+          "url": "https://git.door43.org/unfoldingWord/en_ust/raw/branch/master/51-PHP.usfm"
+        }
+      ]
+    },
+    {
+      "title": "unfoldingWord® Greek New Testament",
+      "description": "An aligned Greek text based on the Bunning Heuristic Greek New Testament",
+      "copyright": "CC BY-SA 4.0",
+      "languageCode": "el",
+      "owner": "unfoldingWord",
+      "textDirection": "LTR",
+      "script": "Grek",
+      "selectors": {
+        "source": "door43UW",
+        "project": "ugnt",
+        "revision": "1"
+      },
+      "sources": [
+        {
+          "bookCode": "TIT",
+          "url": "https://git.door43.org/unfoldingWord/el-x-koine_ugnt/raw/branch/master/57-TIT.usfm"
+        },
+        {
+          "bookCode": "PHP",
+          "url": "https://git.door43.org/unfoldingWord/el-x-koine_ugnt/raw/branch/master/51-PHP.usfm"
+        }
+      ]
+    }
+  ],
+  "bcvResources": [],
+  "keywordResources": [],
+  "lemmaResources": []
+}
