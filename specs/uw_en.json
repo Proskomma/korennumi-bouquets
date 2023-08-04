@@ -79,7 +79,83 @@
       ]
     }
   ],
-  "bcvResources": [],
+  "bcvResources": [
+    {
+      "title": "unfoldingWord Translation Notes",
+      "description": "Linguistic and exegetical notes produced for CCBT Bible translators by unfoldingWord",
+      "copyright": "CC BY-SA 4.0",
+      "languageCode": "en",
+      "owner": "unfoldingWord",
+      "textDirection": "LTR",
+      "script": "Latn",
+      "resourceType": "uWTSV7",
+      "selectors": {
+        "source": "korennumi",
+        "project": "enuw",
+        "revision": "75"
+      },
+      "sources": [
+        {
+          "bookCode": "TIT",
+          "url": "https://git.door43.org/unfoldingWord/en_tn/raw/branch/master/tn_TIT.tsv"
+        },
+        {
+          "bookCode": "PHP",
+          "url": "https://git.door43.org/unfoldingWord/en_tn/raw/branch/master/tn_PHP.tsv"
+        }
+      ]
+    },
+    {
+      "title": "Tyndale Study Notes",
+      "description": "Notes from a Tyndale Study Bible",
+      "copyright": "CC BY-SA 4.0",
+      "languageCode": "en",
+      "owner": "Tyndale",
+      "textDirection": "LTR",
+      "script": "Latn",
+      "resourceType": "diegesisTSV",
+      "selectors": {
+        "source": "korennumi",
+        "project": "entsn",
+        "revision": "1"
+      },
+      "sources": [
+        {
+          "bookCode": "TIT",
+          "filePath": "./dataSources/en/tyndaleStudyNotes/TIT.tsv"
+        },
+        {
+          "bookCode": "PHP",
+          "filePath": "./dataSources/en/tyndaleStudyNotes/PHP.tsv"
+        }
+      ]
+    },
+    {
+      "title": "Biblica Study Notes",
+      "description": "Bible study notes produced by Biblica",
+      "copyright": "CC-BY-SA Biblica",
+      "languageCode": "en",
+      "owner": "Biblica",
+      "textDirection": "LTR",
+      "script": "Latn",
+      "resourceType": "diegesisTSV",
+      "selectors": {
+        "source": "korennumi",
+        "project": "enbsn",
+        "revision": "1"
+      },
+      "sources": [
+        {
+          "bookCode": "TIT",
+          "filePath": "./dataSources/en/biblicaNotes/TIT.tsv"
+        },
+        {
+          "bookCode": "PHP",
+          "filePath": "./dataSources/en/biblicaNotes/PHP.tsv"
+        }
+      ]
+    }
+  ],
   "keywordResources": [],
   "lemmaResources": []
 }

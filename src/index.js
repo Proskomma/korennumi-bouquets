@@ -3,7 +3,7 @@ const fse = require('fs-extra');
 const axios = require('axios').default;
 const {Proskomma} = require('proskomma-core');
 
-// Convert TSV to JSON for Pk Import
+// Convert TSV9 to JSON for Pk Import
 const uwTsvToTable = (tsv, hasHeadings) => {
     const ret = {
         headings: [],
@@ -30,6 +30,36 @@ const uwTsvToTable = (tsv, hasHeadings) => {
         newRow.push(ref);
         newRow.push(inRowCells[3]);
         newRow.push(inRowCells[8]);
+        ret.rows.push(newRow);
+    }
+    return ret;
+};
+
+// Convert TSV7 to JSON for Pk Import
+const uwTsv7ToTable = (tsv, hasHeadings) => {
+    const ret = {
+        headings: [],
+        rows: [],
+    };
+    let rows = tsv.split(/[\n\r]+/);
+
+    if (hasHeadings) {
+        ret.headings = rows[0].split('\t');
+        rows = rows.slice(1);
+    }
+
+    for (const row of rows) {
+        const inRowCells = row.split('\t');
+        let newRow = [];
+        const ref = inRowCells[0];
+        const refRegex = /^\d+:\d+$/;
+        if (!ref.match(refRegex)) {
+            continue;
+        }
+        newRow.push(ref);
+        newRow.push(ref);
+        newRow.push(inRowCells[1]);
+        newRow.push(inRowCells[6]);
         ret.rows.push(newRow);
     }
     return ret;
@@ -183,11 +213,15 @@ const getBcvResources = async (bcvSpecs, succincts) => {
                     uwTsvToTable(
                         responseRawData,
                         true
-                    ) :
-                    diegesisTsvToTable(
-                        responseRawData,
-                        false
-                    )
+                    ) : resource.resourceType === 'uWTSV7' ?
+                        uwTsv7ToTable(
+                            responseRawData,
+                            true
+                        ) :
+                        diegesisTsvToTable(
+                            responseRawData,
+                            false
+                        )
             );
             pk.importDocument(
                 {
