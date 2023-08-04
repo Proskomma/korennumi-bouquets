@@ -186,7 +186,7 @@
       "description": "Une dictionnaire biblique, en cours de traduction et d'adaptation par Xenizo, à partir des sources de Tyndale",
       "copyright": "CC BY-SA 4.0",
       "languageCode": "en",
-      "owner": "Biblica",
+      "owner": "Tyndale",
       "textDirection": "LTR",
       "script": "Latn",
       "resourceType": "dictionaryTSV",
