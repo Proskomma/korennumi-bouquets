@@ -172,11 +172,16 @@ const getBibles = async (bibleSpecs, succincts) => {
                 responseData
             )
         }
+        // console.log(JSON.stringify(pk.gqlQuerySync(`{documents {bookCode: header(id: "bookCode") cvIndexes {chapter verseRanges {range numbers} verses {verse {text}}}}}`), null, 2));
         console.log(`    Adding tags`);
         const docSetId = pk.gqlQuerySync('{docSets {id}}').data.docSets[0].id;
         let metadataTags = `"title:${bible.title}" "copyright:${bible.copyright}" "language:${bible.languageCode}" """owner:${bible.owner}""" """direction:${bible.textDirection}""" """script:${bible.script}"""`;
         pk.gqlQuerySync(`mutation { addDocSetTags(docSetId: "${docSetId}", tags: [${metadataTags}]) }`);
         succincts[docSetId] = {content: pk.serializeSuccinct(docSetId)};
+        if (false && docSetId.includes('ust')) {
+            console.log("UST");
+            fse.writeJsonSync(path.join(toUploadDir, "ust_succinct.json"), succincts[docSetId]);
+        }
         bible.docSetId = docSetId;
     }
 }
