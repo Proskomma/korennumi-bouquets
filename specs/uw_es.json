@@ -1,13 +1,19 @@
 {
-  "title": "Proyecto de relevo en español",
+  "title": "idiomasPuentes",
   "url": "uw_es_succinct.json",
   "baseLanguageCode": "es",
-  "description": "Translations and notes by unfoldingWord for Bible translators",
-  "owner": "ES",
-  "ownerUrl": "ES",
+  "description": "idiomasPuentes",
+  "owner": "idiomasPuentes",
+  "ownerUrl": "https://git.door43.org/Es-419_gl",
   "bibles": [
     {
       "title": "Texto Puente Simple",
+      "description": "Texto Puente Simple (TPS) - Idiomas Puentes",
+      "copyright": "CC BY-SA 4.0",
+      "languageCode": "es",
+      "owner": "idiomasPuentes",
+      "textDirection": "LTR",
+      "script": "Latn",
       "selectors": {
         "source": "door43Es-419_gl",
         "project": "tps",
@@ -34,6 +40,12 @@
     },
     {
       "title": "Texto Puente Literal",
+      "description": "Texto Puente Literal (TPL) - Idiomas Puentes",
+      "copyright": "CC BY-SA 4.0",
+      "languageCode": "es",
+      "owner": "idiomasPuentes",
+      "textDirection": "LTR",
+      "script": "Latn",
       "selectors": {
         "source": "door43Es-419_gl",
         "project": "tpl",

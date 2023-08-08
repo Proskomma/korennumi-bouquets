@@ -157,11 +157,15 @@ const getBibles = async (bibleSpecs, succincts) => {
             if (!source.filePath || source.filePath.endsWith('usfm')) {
                 if (!responseData.includes('\\mt')) {
                     console.log(`      Fixing USFM`);
-                    responseData = responseData.replace("\\c 1", "\\mt1 ${source.bookCode}\n\\c 1");
+                    responseData = responseData.replace("\\c 1", `\\mt1 ${source.bookCode}\n\\c 1`);
                 }
                 if (responseData.includes('\\s5')) {
                     console.log(`      Fixing s5`);
                     responseData = responseData.replace(/\\s5/g, "\\ts\\*");
+                }
+                if (responseData.includes('\\cl')) {
+                    console.log(`      Fixing cl`);
+                    responseData = responseData.replace(/(\\cl.*)/g, "\\1\n\\p\n");
                 }
             }
             pk.importDocument(
