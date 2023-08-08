@@ -154,13 +154,15 @@ const getBibles = async (bibleSpecs, succincts) => {
         for (const source of bible.sources) {
             console.log(`    ${source.bookCode}`);
             let responseData = source.url ? await getUrl(source.url) : await getPath(source.filePath);
-            if (!responseData.includes('\\mt')) {
-                console.log(`      Fixing USFM`);
-                responseData = responseData.replace("\\c 1", "\\mt1 ${source.bookCode}\n\\c 1");
-            }
-            if (responseData.includes('\\s5')) {
-                console.log(`      Fixing s5`);
-                responseData = responseData.replace(/\\s5/g, "\\ts\\*");
+            if (!source.filePath || source.filePath.endsWith('usfm')) {
+                if (!responseData.includes('\\mt')) {
+                    console.log(`      Fixing USFM`);
+                    responseData = responseData.replace("\\c 1", "\\mt1 ${source.bookCode}\n\\c 1");
+                }
+                if (responseData.includes('\\s5')) {
+                    console.log(`      Fixing s5`);
+                    responseData = responseData.replace(/\\s5/g, "\\ts\\*");
+                }
             }
             pk.importDocument(
                 {
@@ -168,7 +170,7 @@ const getBibles = async (bibleSpecs, succincts) => {
                     project: bible.selectors.project,
                     revision: bible.selectors.revision
                 },
-                source.url && source.url.endsWith("usx") ? "usx" : "usfm",
+                source.filePath && source.filePath.endsWith("usx") ? "usx" : "usfm",
                 responseData
             )
         }

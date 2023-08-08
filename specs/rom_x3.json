@@ -1,0 +1,85 @@
+{
+  "title": "Three Romani Translations",
+  "url": "rom_x3.json",
+  "baseLanguageCode": "rom",
+  "description": "Three Romani translations",
+  "owner": "DBL",
+  "ownerUrl": "https://thedigitalbiblelibrary.org",
+  "bibles": [
+    {
+      "title": "Arli (Western) New Testament",
+      "description": "Arli (Western) New Testament (Romani, Balkan)",
+      "copyright": "CC0",
+      "languageCode": "rom",
+      "owner": "The Word for the World International",
+      "textDirection": "LTR",
+      "script": "Latn",
+      "selectors": {
+        "source": "dbl",
+        "project": "awnt",
+        "revision": "1"
+      },
+      "sources": [
+        {
+          "bookCode": "MAT",
+          "filePath": "./dataSources/rom/arli/MAT.usx"
+        },
+        {
+          "bookCode": "TIT",
+          "filePath": "./dataSources/rom/arli/TIT.usx"
+        }
+      ]
+    },
+    {
+      "title": "Chergash New Testament",
+      "description": "Chergash New Testament (Romani, Vlax)",
+      "copyright": "CC0",
+      "languageCode": "rom",
+      "owner": "The Word for the World International",
+      "textDirection": "LTR",
+      "script": "Latn",
+      "selectors": {
+        "source": "dbl",
+        "project": "cnt",
+        "revision": "1"
+      },
+      "sources": [
+        {
+          "bookCode": "MAT",
+          "filePath": "./dataSources/rom/chergash/MAT.usx"
+        },
+        {
+          "bookCode": "TIT",
+          "filePath": "./dataSources/rom/chergash/TIT.usx"
+        }
+      ]
+    },
+    {
+      "title": "Lovari Romani Bible",
+      "description": "Lovari Romani Bible (Vlax)",
+      "copyright": "CC0",
+      "languageCode": "rom",
+      "owner": "DBL",
+      "textDirection": "LTR",
+      "script": "Latn",
+      "selectors": {
+        "source": "dbl",
+        "project": "lrb",
+        "revision": "1"
+      },
+      "sources": [
+        {
+          "bookCode": "MAT",
+          "filePath": "./dataSources/rom/lovari/MAT.usx"
+        },
+        {
+          "bookCode": "TIT",
+          "filePath": "./dataSources/rom/lovari/TIT.usx"
+        }
+      ]
+    }
+  ],
+  "bcvResources": [],
+  "keywordResources": [],
+  "lemmaResources": []
+}
