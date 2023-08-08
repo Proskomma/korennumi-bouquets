@@ -1,0 +1,73 @@
+{
+  "title": "Jean en trois langues",
+  "url": "rom_fr_es_succinct.json",
+  "baseLanguageCode": "rom",
+  "description": "Jean en Romani, à comparer avec le texte en français et en espagnol",
+  "owner": "Wycliffe Romania",
+  "ownerUrl": "https://wycliffe.ro/",
+  "bibles": [
+    {
+      "title": "Traduction Louis Segond 1910",
+      "description": "La traduction phare par Louis Segond, alignée au texte grec d'unfoldingWord",
+      "copyright": "CC0",
+      "languageCode": "fr",
+      "owner": "Xenizo",
+      "textDirection": "LTR",
+      "script": "Latn",
+      "selectors": {
+        "source": "door43Xenizo",
+        "project": "lsg",
+        "revision": "1"
+      },
+      "sources": [
+        {
+          "bookCode": "JHN",
+          "url": "https://git.door43.org/MVHS/fr_lsg/raw/branch/master/44-JHN.usfm"
+        }
+      ]
+    },
+    {
+      "title": "Reina Valera 09",
+      "description": "La version de 1909 d'une traduction espagnole classique",
+      "copyright": "CC0",
+      "languageCode": "es",
+      "owner": "eBible",
+      "textDirection": "LTR",
+      "script": "Latn",
+      "selectors": {
+        "source": "diegesis",
+        "project": "rv09",
+        "revision": "1"
+      },
+      "sources": [
+        {
+          "bookCode": "JHN",
+          "filePath": "./dataSources/es/rv09/JHN.usfm"
+        }
+      ]
+    },
+    {
+      "title": "Biblia în Rromani Standardizat",
+      "description": "Biblia în Rromani Standardizat",
+      "copyright": "CC0",
+      "languageCode": "rom",
+      "owner": "Wycliffe Romania",
+      "textDirection": "LTR",
+      "script": "Latn",
+      "selectors": {
+        "source": "wycliffe",
+        "project": "rom",
+        "revision": "1"
+      },
+      "sources": [
+        {
+          "bookCode": "JHN",
+          "filePath": "./dataSources/rom/wycliffeRomania/JHN.usfm"
+        }
+      ]
+    }
+  ],
+  "bcvResources": [],
+  "keywordResources": [],
+  "lemmaResources": []
+}

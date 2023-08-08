@@ -168,7 +168,7 @@ const getBibles = async (bibleSpecs, succincts) => {
                     project: bible.selectors.project,
                     revision: bible.selectors.revision
                 },
-                "usfm",
+                source.url && source.url.endsWith("usx") ? "usx" : "usfm",
                 responseData
             )
         }
