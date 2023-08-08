@@ -1,5 +1,10 @@
 {
   "title": "Proyecto de relevo en español",
+  "url": "uw_es_succinct.json",
+  "baseLanguageCode": "es",
+  "description": "Translations and notes by unfoldingWord for Bible translators",
+  "owner": "ES",
+  "ownerUrl": "ES",
   "bibles": [
     {
       "title": "Texto Puente Simple",
@@ -53,5 +58,42 @@
         }
       ]
     }
-  ]
+  ],
+  "bcvResources": [
+    {
+      "title": "unfoldingWord Translation Notes",
+      "description": "Linguistic and exegetical notes produced for CCBT Bible translators by unfoldingWord",
+      "copyright": "CC BY-SA 4.0",
+      "languageCode": "es",
+      "owner": "unfoldingWord",
+      "textDirection": "LTR",
+      "script": "Latn",
+      "resourceType": "uWTSV7",
+      "selectors": {
+        "source": "korennumi",
+        "project": "esuw",
+        "revision": "1"
+      },
+      "sources": [
+        {
+          "bookCode": "RUT",
+          "url": "https://git.door43.org/Es-419_gl/es-419_tn/raw/branch/master/tn_RUT.tsv"
+        },
+        {
+          "bookCode": "JON",
+          "url": "https://git.door43.org/Es-419_gl/es-419_tn/raw/branch/master/tn_JON.tsv"
+        },
+        {
+          "bookCode": "TIT",
+          "url": "https://git.door43.org/Es-419_gl/es-419_tn/raw/branch/master/tn_TIT.tsv"
+        },
+        {
+          "bookCode": "3JN",
+          "url": "https://git.door43.org/Es-419_gl/es-419_tn/raw/branch/master/tn_3JN.tsv"
+        }
+      ]
+    }
+  ],
+  "keywordResources": [],
+  "lemmaResources": []
 }
