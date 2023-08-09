@@ -155,6 +155,27 @@
       ]
     },
     {
+      "title": "Juxtalinéaire Xenizo",
+      "description": "Grec réorganisé plus gloss hyper-littéral",
+      "copyright": "CC BY-SA 4.0",
+      "languageCode": "fr",
+      "owner": "Xenizo",
+      "textDirection": "LTR",
+      "script": "Latn",
+      "resourceType": "diegesisTSV",
+      "selectors": {
+        "source": "korennumi",
+        "project": "frjxl",
+        "revision": "1"
+      },
+      "sources": [
+        {
+          "bookCode": "PHP",
+          "filePath": "./dataSources/fr/jxl/PHP.tsv"
+        }
+      ]
+    },
+    {
       "title": "Notes d'Etude de Biblica",
       "description": "Des notes d'études, traduite et adaptées par Xenizo, à partir des sources de Biblica",
       "copyright": "CC-BY-SA Biblica",
