@@ -80,7 +80,7 @@ for (const [articleKey, articleValue] of Object.entries(articleUrls)) {
         .replace(/\[[^\]]+\]/g, "")
         .replace(/(, ){2,}/g, "")
         .replace(/\n+$/g, "");
-    const row = `${articleKey}\t${articleLocalName}\t${md.replace(/[\n\r]/g, "\\n")}`;
+    const row = `${articleKey}\t${md.replace(/[\n\r]/g, "\\n")}`;
     rows.push(row);
 }
 fse.writeFileSync(path.resolve(process.argv[3]), rows.join('\n'));
