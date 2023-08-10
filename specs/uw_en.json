@@ -429,8 +429,1405 @@
           ]
         }
       }
+    },
+    {
+      "title": "unfoldingWord Translation Words",
+      "description": "Selected articles from unfoldingWord Translation Words",
+      "copyright": "CC BY-SA 4.0",
+      "languageCode": "en",
+      "owner": "unfoldingWord",
+      "textDirection": "LTR",
+      "script": "Latn",
+      "resourceType": "dictionaryTSV",
+      "selectors": {
+        "source": "korennumi",
+        "project": "enuwtw",
+        "revision": "1"
+      },
+      "source": {
+        "filePath": "./dataSources/en/tw/selectedArticles.tsv"
+      },
+      "articleBcvs": {
+        "names_paul": {
+          "bcv": [
+            "PHP 1:1",
+            "TIT 1:1"
+          ],
+          "en": "Paul, Saul"
+        },
+        "names_timothy": {
+          "bcv": [
+            "PHP 1:1",
+            "PHP 2:19"
+          ],
+          "en": "Timothy"
+        },
+        "other_servant": {
+          "bcv": [
+            "PHP 1:1",
+            "PHP 2:7",
+            "PHP 2:22",
+            "TIT 1:1",
+            "TIT 2:9"
+          ],
+          "en": "servant, serve, slave, young man, young women"
+        },
+        "kt_christ": {
+          "bcv": [
+            "PHP 1:1",
+            "PHP 1:2",
+            "PHP 1:6",
+            "PHP 1:8",
+            "PHP 1:10",
+            "PHP 1:11",
+            "PHP 1:13",
+            "PHP 1:15",
+            "PHP 1:17",
+            "PHP 1:18",
+            "PHP 1:19",
+            "PHP 1:20",
+            "PHP 1:21",
+            "PHP 1:23",
+            "PHP 1:26",
+            "PHP 1:27",
+            "PHP 1:29",
+            "PHP 2:1",
+            "PHP 2:5",
+            "PHP 2:11",
+            "PHP 2:16",
+            "PHP 2:21",
+            "PHP 2:30",
+            "PHP 3:3",
+            "PHP 3:7",
+            "PHP 3:8",
+            "PHP 3:9",
+            "PHP 3:12",
+            "PHP 3:14",
+            "PHP 3:18",
+            "PHP 3:20",
+            "PHP 4:7",
+            "PHP 4:19",
+            "PHP 4:21",
+            "PHP 4:23",
+            "TIT 1:1",
+            "TIT 1:4",
+            "TIT 2:13",
+            "TIT 3:6"
+          ],
+          "en": "Christ, Messiah"
+        },
+        "kt_jesus": {
+          "bcv": [
+            "PHP 1:1",
+            "PHP 1:2",
+            "PHP 1:6",
+            "PHP 1:8",
+            "PHP 1:11",
+            "PHP 1:19",
+            "PHP 1:26",
+            "PHP 2:5",
+            "PHP 2:10",
+            "PHP 2:11",
+            "PHP 2:19",
+            "PHP 2:21",
+            "PHP 3:3",
+            "PHP 3:8",
+            "PHP 3:12",
+            "PHP 3:14",
+            "PHP 3:20",
+            "PHP 4:7",
+            "PHP 4:19",
+            "PHP 4:21",
+            "PHP 4:23",
+            "TIT 1:1",
+            "TIT 1:4",
+            "TIT 2:13",
+            "TIT 3:6"
+          ],
+          "en": "Jesus, Jesus Christ, Christ Jesus"
+        },
+        "kt_saint": {
+          "bcv": [
+            "PHP 1:1",
+            "PHP 4:21",
+            "PHP 4:22"
+          ],
+          "en": "saint"
+        },
+        "kt_inchrist": {
+          "bcv": [
+            "PHP 1:1",
+            "PHP 1:13",
+            "PHP 1:14",
+            "PHP 1:26",
+            "PHP 2:1",
+            "PHP 2:5",
+            "PHP 2:19",
+            "PHP 2:24",
+            "PHP 2:29",
+            "PHP 3:1",
+            "PHP 3:3",
+            "PHP 3:14",
+            "PHP 4:1",
+            "PHP 4:2",
+            "PHP 4:4",
+            "PHP 4:7",
+            "PHP 4:10",
+            "PHP 4:19",
+            "PHP 4:21"
+          ],
+          "en": "in Christ, in Jesus, in the Lord, in him"
+        },
+        "names_philippi": {
+          "bcv": [
+            "PHP 1:1",
+            "PHP 4:15"
+          ],
+          "en": "Philippi, Philippians"
+        },
+        "other_overseer": {
+          "bcv": [
+            "PHP 1:1",
+            "TIT 1:7"
+          ],
+          "en": "oversee, overseer, keeper"
+        },
+        "kt_deacon": {
+          "bcv": [
+            "PHP 1:1"
+          ],
+          "en": "deacon"
+        },
+        "kt_grace": {
+          "bcv": [
+            "PHP 1:2",
+            "PHP 1:7",
+            "PHP 4:23",
+            "TIT 1:4",
+            "TIT 2:11",
+            "TIT 3:7",
+            "TIT 3:15"
+          ],
+          "en": "grace, gracious"
+        },
+        "other_peace": {
+          "bcv": [
+            "PHP 1:2",
+            "PHP 4:7",
+            "PHP 4:9",
+            "TIT 1:4",
+            "TIT 3:2"
+          ],
+          "en": "peace, peaceful, peacemakers"
+        },
+        "kt_godthefather": {
+          "bcv": [
+            "PHP 1:2",
+            "PHP 2:11",
+            "PHP 4:20",
+            "TIT 1:4"
+          ],
+          "en": "God the Father, heavenly Father, Father"
+        },
+        "kt_lord": {
+          "bcv": [
+            "PHP 1:2",
+            "PHP 1:14",
+            "PHP 2:11",
+            "PHP 2:19",
+            "PHP 2:24",
+            "PHP 2:29",
+            "PHP 3:1",
+            "PHP 3:8",
+            "PHP 3:20",
+            "PHP 4:1",
+            "PHP 4:2",
+            "PHP 4:4",
+            "PHP 4:5",
+            "PHP 4:10",
+            "PHP 4:23",
+            "TIT 2:9"
+          ],
+          "en": "lord, Lord, master, sir"
+        },
+        "kt_god": {
+          "bcv": [
+            "PHP 1:3",
+            "PHP 1:8",
+            "PHP 1:11",
+            "PHP 1:28",
+            "PHP 2:6",
+            "PHP 2:9",
+            "PHP 2:13",
+            "PHP 2:15",
+            "PHP 2:27",
+            "PHP 3:9",
+            "PHP 3:14",
+            "PHP 3:15",
+            "PHP 4:6",
+            "PHP 4:7",
+            "PHP 4:9",
+            "PHP 4:18",
+            "PHP 4:19",
+            "TIT 1:1",
+            "TIT 1:2",
+            "TIT 1:3",
+            "TIT 1:7",
+            "TIT 1:16",
+            "TIT 2:10",
+            "TIT 2:11",
+            "TIT 2:13",
+            "TIT 3:4",
+            "TIT 3:8"
+          ],
+          "en": "God"
+        },
+        "kt_pray": {
+          "bcv": [
+            "PHP 1:4",
+            "PHP 1:9",
+            "PHP 1:19",
+            "PHP 4:6"
+          ],
+          "en": "pray, prayer"
+        },
+        "other_joy": {
+          "bcv": [
+            "PHP 1:4",
+            "PHP 1:18",
+            "PHP 1:25",
+            "PHP 2:2",
+            "PHP 2:17",
+            "PHP 2:18",
+            "PHP 2:28",
+            "PHP 2:29",
+            "PHP 3:1",
+            "PHP 4:1",
+            "PHP 4:4",
+            "PHP 4:10"
+          ],
+          "en": "joy, joyful, rejoice, glad"
+        },
+        "kt_fellowship": {
+          "bcv": [
+            "PHP 1:5",
+            "PHP 2:1",
+            "PHP 3:10",
+            "PHP 4:14"
+          ],
+          "en": "fellowship"
+        },
+        "kt_goodnews": {
+          "bcv": [
+            "PHP 1:5",
+            "PHP 1:7",
+            "PHP 1:12",
+            "PHP 1:16",
+            "PHP 1:27",
+            "PHP 2:22",
+            "PHP 4:3",
+            "PHP 4:15"
+          ],
+          "en": "good news, gospel"
+        },
+        "other_biblicaltimeday": {
+          "bcv": [
+            "PHP 1:5"
+          ],
+          "en": "day"
+        },
+        "kt_good": {
+          "bcv": [
+            "PHP 1:6",
+            "PHP 1:15",
+            "PHP 2:13",
+            "TIT 1:8",
+            "TIT 1:16",
+            "TIT 2:5",
+            "TIT 2:7",
+            "TIT 2:10",
+            "TIT 2:14",
+            "TIT 3:1",
+            "TIT 3:8",
+            "TIT 3:14"
+          ],
+          "en": "good, right, pleasant, better, best"
+        },
+        "kt_dayofthelord": {
+          "bcv": [
+            "PHP 1:6",
+            "PHP 1:10",
+            "PHP 2:16"
+          ],
+          "en": "day of the Lord, day of Yahweh"
+        },
+        "other_like": {
+          "bcv": [
+            "PHP 1:7",
+            "PHP 1:20",
+            "PHP 2:7",
+            "PHP 2:12",
+            "PHP 2:15",
+            "PHP 2:22",
+            "PHP 2:23",
+            "PHP 2:29",
+            "PHP 3:17",
+            "TIT 1:7",
+            "TIT 2:3",
+            "TIT 2:6"
+          ],
+          "en": "like, likeminded, likeness, likewise, alike, unlike, as if"
+        },
+        "kt_righteous": {
+          "bcv": [
+            "PHP 1:7",
+            "PHP 1:11",
+            "PHP 3:6",
+            "PHP 3:9",
+            "TIT 1:8",
+            "TIT 2:12",
+            "TIT 3:5"
+          ],
+          "en": "righteous, righteousness, unrighteous, unrighteousness, upright, uprightness"
+        },
+        "kt_bond": {
+          "bcv": [
+            "PHP 1:7",
+            "PHP 1:13",
+            "PHP 1:14",
+            "PHP 1:17"
+          ],
+          "en": "bind, bond, bound"
+        },
+        "kt_testimony": {
+          "bcv": [
+            "PHP 1:8",
+            "TIT 1:13"
+          ],
+          "en": "testimony, testify, witness, eyewitness, evidence"
+        },
+        "kt_love": {
+          "bcv": [
+            "PHP 1:9",
+            "PHP 1:16",
+            "PHP 2:1",
+            "PHP 2:2",
+            "TIT 2:2",
+            "TIT 2:4",
+            "TIT 3:4",
+            "TIT 3:15"
+          ],
+          "en": "love, beloved"
+        },
+        "other_multiply": {
+          "bcv": [
+            "PHP 1:9",
+            "PHP 1:26",
+            "PHP 4:12",
+            "PHP 4:17",
+            "PHP 4:18"
+          ],
+          "en": "multiply, multiplied, multiplication"
+        },
+        "other_know": {
+          "bcv": [
+            "PHP 1:9",
+            "PHP 1:12",
+            "PHP 1:16",
+            "PHP 1:19",
+            "PHP 1:22",
+            "PHP 1:25",
+            "PHP 2:19",
+            "PHP 2:22",
+            "PHP 3:8",
+            "PHP 3:10",
+            "PHP 4:5",
+            "PHP 4:6",
+            "PHP 4:12",
+            "PHP 4:15",
+            "TIT 1:1",
+            "TIT 1:16",
+            "TIT 3:11"
+          ],
+          "en": "know, knowledge, unknown, distinguish\r"
+        },
+        "kt_test": {
+          "bcv": [
+            "PHP 1:10"
+          ],
+          "en": "test, tested, testing, testing in the fire"
+        },
+        "kt_purify": {
+          "bcv": [
+            "PHP 1:10",
+            "PHP 2:15",
+            "PHP 4:8",
+            "TIT 1:15",
+            "TIT 2:5",
+            "TIT 2:14"
+          ],
+          "en": "pure, purify, purification"
+        },
+        "kt_blameless": {
+          "bcv": [
+            "PHP 1:10",
+            "PHP 2:15",
+            "PHP 3:6",
+            "TIT 1:6",
+            "TIT 1:7"
+          ],
+          "en": "blameless"
+        },
+        "other_fruit": {
+          "bcv": [
+            "PHP 1:11",
+            "PHP 1:22",
+            "PHP 4:17",
+            "TIT 3:14"
+          ],
+          "en": "fruit, fruitful, unfruitful"
+        },
+        "kt_glory": {
+          "bcv": [
+            "PHP 1:11",
+            "PHP 2:11",
+            "PHP 3:19",
+            "PHP 3:21",
+            "PHP 4:19",
+            "PHP 4:20",
+            "TIT 2:13"
+          ],
+          "en": "glory, glorious, glorify"
+        },
+        "other_praise": {
+          "bcv": [
+            "PHP 1:11",
+            "PHP 4:8"
+          ],
+          "en": "praise, praised, praiseworthy"
+        },
+        "other_palace": {
+          "bcv": [
+            "PHP 1:13"
+          ],
+          "en": "palace, house"
+        },
+        "other_courage": {
+          "bcv": [
+            "PHP 1:14",
+            "PHP 2:1",
+            "PHP 2:19",
+            "TIT 1:9"
+          ],
+          "en": "courage, courageous, encourage, encouragement, discourage, discouragement"
+        },
+        "kt_wordofgod": {
+          "bcv": [
+            "PHP 1:14",
+            "TIT 1:3",
+            "TIT 2:5"
+          ],
+          "en": "word of God, word of Yahweh, word of the Lord, word of truth, scripture"
+        },
+        "other_envy": {
+          "bcv": [
+            "PHP 1:15",
+            "TIT 3:3"
+          ],
+          "en": "envy, covet"
+        },
+        "other_strife": {
+          "bcv": [
+            "PHP 1:15",
+            "TIT 3:9"
+          ],
+          "en": "strife, disputes, quarrel, arguing, conflict"
+        },
+        "other_preach": {
+          "bcv": [
+            "PHP 1:15",
+            "PHP 1:17",
+            "PHP 1:18",
+            "TIT 1:3"
+          ],
+          "en": "preach, preaching, preacher, proclaim, proclamation"
+        },
+        "kt_appoint": {
+          "bcv": [
+            "PHP 1:16"
+          ],
+          "en": "appoint, appointed"
+        },
+        "other_tribulation": {
+          "bcv": [
+            "PHP 1:17"
+          ],
+          "en": "tribulation, distresses, trouble"
+        },
+        "kt_save": {
+          "bcv": [
+            "PHP 1:19",
+            "PHP 1:28",
+            "PHP 2:12",
+            "TIT 2:11",
+            "TIT 3:5"
+          ],
+          "en": "save, saved, safe, salvation"
+        },
+        "kt_holyspirit": {
+          "bcv": [
+            "PHP 1:19",
+            "PHP 2:1",
+            "PHP 3:3",
+            "TIT 3:5"
+          ],
+          "en": "Holy Spirit, Spirit of God, Spirit of the Lord, Spirit"
+        },
+        "kt_hope": {
+          "bcv": [
+            "PHP 1:20",
+            "PHP 2:19",
+            "PHP 2:23",
+            "TIT 1:2",
+            "TIT 2:13",
+            "TIT 3:7"
+          ],
+          "en": "hope, hoped"
+        },
+        "other_shame": {
+          "bcv": [
+            "PHP 1:20",
+            "PHP 3:19",
+            "TIT 1:11",
+            "TIT 2:8"
+          ],
+          "en": "shame, ashamed, disgrace, humiliate, reproach"
+        },
+        "other_profit": {
+          "bcv": [
+            "PHP 1:21",
+            "PHP 3:7",
+            "PHP 3:8",
+            "TIT 1:11",
+            "TIT 3:8"
+          ],
+          "en": "profit, profitable, unprofitable"
+        },
+        "other_labor": {
+          "bcv": [
+            "PHP 1:22",
+            "PHP 2:16",
+            "PHP 3:2"
+          ],
+          "en": "labor, laborer, work, hard work"
+        },
+        "kt_elect": {
+          "bcv": [
+            "PHP 1:22",
+            "TIT 1:1"
+          ],
+          "en": "chosen, choose, chosen people, Chosen One, elect"
+        },
+        "other_hard": {
+          "bcv": [
+            "PHP 1:23"
+          ],
+          "en": "hard, harden, hardness"
+        },
+        "kt_faith": {
+          "bcv": [
+            "PHP 1:25",
+            "PHP 1:27",
+            "PHP 2:17",
+            "PHP 3:9",
+            "TIT 1:1",
+            "TIT 1:4",
+            "TIT 1:13",
+            "TIT 2:2",
+            "TIT 2:10",
+            "TIT 3:15"
+          ],
+          "en": "faith"
+        },
+        "kt_boast": {
+          "bcv": [
+            "PHP 1:26",
+            "PHP 2:16",
+            "PHP 3:3"
+          ],
+          "en": "boast, boastful"
+        },
+        "kt_spirit": {
+          "bcv": [
+            "PHP 1:27",
+            "PHP 4:23"
+          ],
+          "en": "spirit, wind, breath"
+        },
+        "kt_soul": {
+          "bcv": [
+            "PHP 1:27",
+            "PHP 2:2"
+          ],
+          "en": "soul, self, person"
+        },
+        "kt_sign": {
+          "bcv": [
+            "PHP 1:28"
+          ],
+          "en": "sign, proof, reminder"
+        },
+        "kt_believe": {
+          "bcv": [
+            "PHP 1:29",
+            "TIT 1:15",
+            "TIT 3:8"
+          ],
+          "en": "believe, believer, belief, unbeliever, unbelief"
+        },
+        "other_suffer": {
+          "bcv": [
+            "PHP 1:29",
+            "PHP 3:10"
+          ],
+          "en": "suffer, suffering"
+        },
+        "other_comfort": {
+          "bcv": [
+            "PHP 2:1"
+          ],
+          "en": "comfort, comforts, comforter, uncomforted"
+        },
+        "kt_compassion": {
+          "bcv": [
+            "PHP 2:1"
+          ],
+          "en": "compassion, compassionate"
+        },
+        "kt_fulfill": {
+          "bcv": [
+            "PHP 2:2"
+          ],
+          "en": "fulfill, fulfilled, carried out"
+        },
+        "other_mind": {
+          "bcv": [
+            "PHP 2:2",
+            "PHP 2:5",
+            "PHP 3:15",
+            "PHP 4:2",
+            "PHP 4:7",
+            "TIT 1:15"
+          ],
+          "en": "mind, mindful, remind, reminder, likeminded"
+        },
+        "kt_humble": {
+          "bcv": [
+            "PHP 2:3",
+            "PHP 2:8",
+            "TIT 3:2"
+          ],
+          "en": "humble, humbled, humility"
+        },
+        "kt_cross": {
+          "bcv": [
+            "PHP 2:8",
+            "PHP 3:18"
+          ],
+          "en": "cross"
+        },
+        "kt_exalt": {
+          "bcv": [
+            "PHP 2:9"
+          ],
+          "en": "exalt, exalted, exaltation"
+        },
+        "kt_name": {
+          "bcv": [
+            "PHP 2:9",
+            "PHP 2:10",
+            "PHP 4:3"
+          ],
+          "en": "name"
+        },
+        "other_bow": {
+          "bcv": [
+            "PHP 2:10"
+          ],
+          "en": "bow, bow down, kneel, bend, bend the knee"
+        },
+        "kt_heaven": {
+          "bcv": [
+            "PHP 2:10",
+            "PHP 3:20"
+          ],
+          "en": "heaven, sky, heavens, heavenly"
+        },
+        "other_earth": {
+          "bcv": [
+            "PHP 2:10",
+            "PHP 3:19"
+          ],
+          "en": "earth, land"
+        },
+        "other_tongue": {
+          "bcv": [
+            "PHP 2:11"
+          ],
+          "en": "tongue, language"
+        },
+        "kt_confess": {
+          "bcv": [
+            "PHP 2:11"
+          ],
+          "en": "confess, confession"
+        },
+        "kt_beloved": {
+          "bcv": [
+            "PHP 2:12",
+            "PHP 4:1"
+          ],
+          "en": "beloved"
+        },
+        "kt_fear": {
+          "bcv": [
+            "PHP 2:12"
+          ],
+          "en": "fear, afraid, frighten"
+        },
+        "other_tremble": {
+          "bcv": [
+            "PHP 2:12"
+          ],
+          "en": "tremble, stagger, shake"
+        },
+        "other_generation": {
+          "bcv": [
+            "PHP 2:15"
+          ],
+          "en": "generation"
+        },
+        "other_perverse": {
+          "bcv": [
+            "PHP 2:15",
+            "TIT 3:11"
+          ],
+          "en": "perverse, perversion, pervert, depraved, malicious, devious, dishonest, distortion"
+        },
+        "kt_world": {
+          "bcv": [
+            "PHP 2:15",
+            "TIT 2:12"
+          ],
+          "en": "world, worldly"
+        },
+        "other_sacrifice": {
+          "bcv": [
+            "PHP 2:17",
+            "PHP 4:18"
+          ],
+          "en": "sacrifice, sacrifices, offering"
+        },
+        "kt_minister": {
+          "bcv": [
+            "PHP 2:17",
+            "PHP 2:25",
+            "PHP 2:30"
+          ],
+          "en": "to minister, ministry"
+        },
+        "other_seek": {
+          "bcv": [
+            "PHP 2:21",
+            "PHP 4:17"
+          ],
+          "en": "seek, search, look for"
+        },
+        "other_companion": {
+          "bcv": [
+            "PHP 2:25",
+            "PHP 4:3"
+          ],
+          "en": "companion, fellow worker, friend"
+        },
+        "other_warrior": {
+          "bcv": [
+            "PHP 2:25"
+          ],
+          "en": "soldier, warrior"
+        },
+        "other_messenger": {
+          "bcv": [
+            "PHP 2:25"
+          ],
+          "en": "messenger"
+        },
+        "kt_mercy": {
+          "bcv": [
+            "PHP 2:27",
+            "TIT 3:5"
+          ],
+          "en": "mercy, merciful"
+        },
+        "other_receive": {
+          "bcv": [
+            "PHP 2:29",
+            "PHP 3:12",
+            "PHP 4:9",
+            "PHP 4:18",
+            "TIT 2:13"
+          ],
+          "en": "receive, welcome, taken up, acceptance"
+        },
+        "kt_honor": {
+          "bcv": [
+            "PHP 2:29",
+            "PHP 4:8"
+          ],
+          "en": "honor"
+        },
+        "other_trouble": {
+          "bcv": [
+            "PHP 3:1"
+          ],
+          "en": "trouble, disturb, stir up, distress, hardship, calamity"
+        },
+        "kt_evil": {
+          "bcv": [
+            "PHP 3:2",
+            "TIT 1:12",
+            "TIT 2:8",
+            "TIT 3:3"
+          ],
+          "en": "evil, wicked, unpleasant"
+        },
+        "kt_circumcise": {
+          "bcv": [
+            "PHP 3:3",
+            "PHP 3:5",
+            "TIT 1:10"
+          ],
+          "en": "circumcise, circumcised, circumcision, uncircumcised, uncircumcision"
+        },
+        "kt_israel": {
+          "bcv": [
+            "PHP 3:5"
+          ],
+          "en": "Israel, Israelites"
+        },
+        "other_tribe": {
+          "bcv": [
+            "PHP 3:5"
+          ],
+          "en": "tribe, tribal, tribesmen"
+        },
+        "names_benjamin": {
+          "bcv": [
+            "PHP 3:5"
+          ],
+          "en": "Benjamin, Benjaminite"
+        },
+        "kt_hebrew": {
+          "bcv": [
+            "PHP 3:5"
+          ],
+          "en": "Hebrew"
+        },
+        "kt_lawofmoses": {
+          "bcv": [
+            "PHP 3:5",
+            "PHP 3:6",
+            "PHP 3:9",
+            "TIT 3:9"
+          ],
+          "en": "law, law of Moses, law of Yahweh, law of God"
+        },
+        "kt_pharisee": {
+          "bcv": [
+            "PHP 3:5"
+          ],
+          "en": "Pharisee"
+        },
+        "kt_zealous": {
+          "bcv": [
+            "PHP 3:6",
+            "TIT 2:14"
+          ],
+          "en": "zeal, zealous"
+        },
+        "other_persecute": {
+          "bcv": [
+            "PHP 3:6"
+          ],
+          "en": "persecute"
+        },
+        "kt_church": {
+          "bcv": [
+            "PHP 3:6",
+            "PHP 4:15"
+          ],
+          "en": "church, Church"
+        },
+        "kt_resurrection": {
+          "bcv": [
+            "PHP 3:10",
+            "PHP 3:11"
+          ],
+          "en": "resurrection"
+        },
+        "other_perfect": {
+          "bcv": [
+            "PHP 3:12",
+            "PHP 3:15"
+          ],
+          "en": "perfect, complete"
+        },
+        "kt_call": {
+          "bcv": [
+            "PHP 3:14"
+          ],
+          "en": "call, call out"
+        },
+        "other_watch": {
+          "bcv": [
+            "PHP 3:17"
+          ],
+          "en": "watch, guard, keep, take heed, beware"
+        },
+        "other_adversary": {
+          "bcv": [
+            "PHP 3:18"
+          ],
+          "en": "adversary, enemy"
+        },
+        "kt_falsegod": {
+          "bcv": [
+            "PHP 3:19"
+          ],
+          "en": "god, false god, goddess, idol, idolater, idolatrous, idolatry"
+        },
+        "other_citizen": {
+          "bcv": [
+            "PHP 3:20"
+          ],
+          "en": "citizen, citizenship"
+        },
+        "kt_savior": {
+          "bcv": [
+            "PHP 3:20",
+            "TIT 1:3",
+            "TIT 1:4",
+            "TIT 2:10",
+            "TIT 2:13",
+            "TIT 3:4",
+            "TIT 3:6"
+          ],
+          "en": "Savior, savior"
+        },
+        "other_lowly": {
+          "bcv": [
+            "PHP 3:21"
+          ],
+          "en": "lowly, lowliness"
+        },
+        "other_subject": {
+          "bcv": [
+            "PHP 3:21",
+            "TIT 2:5",
+            "TIT 2:9",
+            "TIT 3:1"
+          ],
+          "en": "subject, be subject to, subjection"
+        },
+        "other_crown": {
+          "bcv": [
+            "PHP 4:1"
+          ],
+          "en": "crown, crowned"
+        },
+        "other_plead": {
+          "bcv": [
+            "PHP 4:2"
+          ],
+          "en": "plea, plead, please, beg, implore"
+        },
+        "other_bookoflife": {
+          "bcv": [
+            "PHP 4:3"
+          ],
+          "en": "Book of Life"
+        },
+        "other_understand": {
+          "bcv": [
+            "PHP 4:7"
+          ],
+          "en": "understand, understanding, thinking"
+        },
+        "kt_justice": {
+          "bcv": [
+            "PHP 4:8",
+            "TIT 3:7"
+          ],
+          "en": "just, justice, unjust, injustice, justify, justification"
+        },
+        "other_afflict": {
+          "bcv": [
+            "PHP 4:14"
+          ],
+          "en": "afflict, affliction, distress"
+        },
+        "names_macedonia": {
+          "bcv": [
+            "PHP 4:15"
+          ],
+          "en": "Macedonia"
+        },
+        "names_thessalonica": {
+          "bcv": [
+            "PHP 4:16"
+          ],
+          "en": "Thessalonica, Thessalonian"
+        },
+        "kt_amen": {
+          "bcv": [
+            "PHP 4:20",
+            "PHP 4:23"
+          ],
+          "en": "amen, truly"
+        },
+        "names_caesar": {
+          "bcv": [
+            "PHP 4:22"
+          ],
+          "en": "Caesar"
+        },
+        "other_household": {
+          "bcv": [
+            "PHP 4:22",
+            "TIT 1:11"
+          ],
+          "en": "household"
+        },
+        "kt_apostle": {
+          "bcv": [
+            "TIT 1:1"
+          ],
+          "en": "apostle, apostleship"
+        },
+        "kt_godly": {
+          "bcv": [
+            "TIT 1:1",
+            "TIT 2:12"
+          ],
+          "en": "godly, godliness, ungodly, godless, ungodliness, godlessness"
+        },
+        "kt_eternity": {
+          "bcv": [
+            "TIT 1:2",
+            "TIT 3:7"
+          ],
+          "en": "eternity, everlasting, eternal, forever"
+        },
+        "kt_promise": {
+          "bcv": [
+            "TIT 1:2"
+          ],
+          "en": "promise, promised"
+        },
+        "other_time": {
+          "bcv": [
+            "TIT 1:2",
+            "TIT 1:3"
+          ],
+          "en": "time, untimely, date"
+        },
+        "kt_trust": {
+          "bcv": [
+            "TIT 1:3"
+          ],
+          "en": "trust, trusted, trustworthy, trustworthiness"
+        },
+        "names_titus": {
+          "bcv": [
+            "TIT 1:4"
+          ],
+          "en": "Titus"
+        },
+        "names_crete": {
+          "bcv": [
+            "TIT 1:5",
+            "TIT 1:12"
+          ],
+          "en": "Crete, Cretan"
+        },
+        "other_ordain": {
+          "bcv": [
+            "TIT 1:5"
+          ],
+          "en": "ordain, ordained, ordination, planned long ago, set up, prepared"
+        },
+        "other_elder": {
+          "bcv": [
+            "TIT 1:5",
+            "TIT 2:2"
+          ],
+          "en": "elder, older, old"
+        },
+        "kt_faithful": {
+          "bcv": [
+            "TIT 1:6",
+            "TIT 1:9",
+            "TIT 3:8"
+          ],
+          "en": "faithful, faithfulness, trustworthy"
+        },
+        "other_rebel": {
+          "bcv": [
+            "TIT 1:6",
+            "TIT 1:10"
+          ],
+          "en": "rebel, rebellion, rebellious, rebelliousness"
+        },
+        "other_manager": {
+          "bcv": [
+            "TIT 1:7"
+          ],
+          "en": "manager, steward, stewardship"
+        },
+        "other_wine": {
+          "bcv": [
+            "TIT 1:7",
+            "TIT 2:3"
+          ],
+          "en": "wine, wineskin, new wine"
+        },
+        "kt_holy": {
+          "bcv": [
+            "TIT 1:8"
+          ],
+          "en": "holy, holiness, unholy, sacred"
+        },
+        "other_selfcontrol": {
+          "bcv": [
+            "TIT 1:8",
+            "TIT 2:5",
+            "TIT 2:6"
+          ],
+          "en": "self-control, self-controlled"
+        },
+        "other_doctrine": {
+          "bcv": [
+            "TIT 1:9",
+            "TIT 2:1",
+            "TIT 2:7",
+            "TIT 2:10"
+          ],
+          "en": "doctrine, teaching, beliefs, instructions, knowledge"
+        },
+        "other_rebuke": {
+          "bcv": [
+            "TIT 1:9",
+            "TIT 1:13",
+            "TIT 2:15"
+          ],
+          "en": "rebuke, reprove"
+        },
+        "other_vain": {
+          "bcv": [
+            "TIT 1:10",
+            "TIT 3:9"
+          ],
+          "en": "vain, vanity"
+        },
+        "other_deceive": {
+          "bcv": [
+            "TIT 1:10"
+          ],
+          "en": "deceive, lie, deception, illusions"
+        },
+        "kt_prophet": {
+          "bcv": [
+            "TIT 1:12"
+          ],
+          "en": "prophet, prophecy, prophesy, seer, prophetess"
+        },
+        "other_beast": {
+          "bcv": [
+            "TIT 1:12"
+          ],
+          "en": "beast"
+        },
+        "kt_jew": {
+          "bcv": [
+            "TIT 1:14"
+          ],
+          "en": "Jew, Jewish"
+        },
+        "other_corrupt": {
+          "bcv": [
+            "TIT 1:15"
+          ],
+          "en": "corrupt, corrupted, corruption, incorruptibility, depraved"
+        },
+        "kt_conscience": {
+          "bcv": [
+            "TIT 1:15"
+          ],
+          "en": "conscience"
+        },
+        "other_detestable": {
+          "bcv": [
+            "TIT 1:16"
+          ],
+          "en": "detest, detested, detestable"
+        },
+        "other_perseverance": {
+          "bcv": [
+            "TIT 2:2"
+          ],
+          "en": "persevere, perseverance"
+        },
+        "other_reverence": {
+          "bcv": [
+            "TIT 2:3"
+          ],
+          "en": "revere, revered, reverence, reverent"
+        },
+        "other_slander": {
+          "bcv": [
+            "TIT 2:3",
+            "TIT 2:5",
+            "TIT 3:2"
+          ],
+          "en": "slander, slanderers, revile, insult"
+        },
+        "other_enslave": {
+          "bcv": [
+            "TIT 2:3",
+            "TIT 3:3"
+          ],
+          "en": "enslave, slave, bondservant, bound"
+        },
+        "kt_exhort": {
+          "bcv": [
+            "TIT 2:6",
+            "TIT 2:15"
+          ],
+          "en": "exhort, exhortation"
+        },
+        "other_lust": {
+          "bcv": [
+            "TIT 2:12",
+            "TIT 3:3"
+          ],
+          "en": "lust, lustful, passions, desires"
+        },
+        "other_age": {
+          "bcv": [
+            "TIT 2:12"
+          ],
+          "en": "age, aged"
+        },
+        "kt_bless": {
+          "bcv": [
+            "TIT 2:13"
+          ],
+          "en": "bless, blessed, blessing"
+        },
+        "kt_redeem": {
+          "bcv": [
+            "TIT 2:14"
+          ],
+          "en": "redeem, redeemer, redemption"
+        },
+        "other_lawful": {
+          "bcv": [
+            "TIT 2:14"
+          ],
+          "en": "lawful, unlawful, not lawful, lawless, lawlessness"
+        },
+        "kt_authority": {
+          "bcv": [
+            "TIT 2:15",
+            "TIT 3:1"
+          ],
+          "en": "authority"
+        },
+        "other_ruler": {
+          "bcv": [
+            "TIT 3:1"
+          ],
+          "en": "rule, reign, ruler, prefect, official, leader"
+        },
+        "kt_foolish": {
+          "bcv": [
+            "TIT 3:3",
+            "TIT 3:9"
+          ],
+          "en": "fool, foolish, folly"
+        },
+        "other_astray": {
+          "bcv": [
+            "TIT 3:3"
+          ],
+          "en": "astray, go astray, went astray, lead astray, stray"
+        },
+        "kt_clean": {
+          "bcv": [
+            "TIT 3:5"
+          ],
+          "en": "clean, wash"
+        },
+        "kt_bornagain": {
+          "bcv": [
+            "TIT 3:5"
+          ],
+          "en": "born again, born of God, new birth"
+        },
+        "other_heir": {
+          "bcv": [
+            "TIT 3:7"
+          ],
+          "en": "heir"
+        },
+        "other_admonish": {
+          "bcv": [
+            "TIT 3:10"
+          ],
+          "en": "admonish, warned, aware"
+        },
+        "other_reject": {
+          "bcv": [
+            "TIT 3:10"
+          ],
+          "en": "reject, rejected, rejection"
+        },
+        "kt_sin": {
+          "bcv": [
+            "TIT 3:11"
+          ],
+          "en": "sin, sinful, sinner, sinning"
+        },
+        "names_tychicus": {
+          "bcv": [
+            "TIT 3:12"
+          ],
+          "en": "Tychicus"
+        },
+        "other_law": {
+          "bcv": [
+            "TIT 3:13"
+          ],
+          "en": "law, principle"
+        },
+        "names_apollos": {
+          "bcv": [
+            "TIT 3:13"
+          ],
+          "en": "Apollos"
+        }
+      }
     }
-
   ],
   "lemmaResources": []
 }
