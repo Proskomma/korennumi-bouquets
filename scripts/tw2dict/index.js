@@ -89,8 +89,9 @@ fse.writeFileSync(path.resolve(process.argv[3]), rows.join('\n'));
 const lookup = {};
 for (const [articleKey, articleValue] of Object.entries(articleUrls)) {
     lookup[articleKey] = {
-        bcv: articleValue["bcvs"]
+        bcv: articleValue["bcvs"],
+        i18n: {}
     }
-    lookup[articleKey][lang] = articleValue["localTitle"];
+    lookup[articleKey]["i18n"][lang] = articleValue["localTitle"];
 }
 console.log(JSON.stringify(lookup, null, 2));
