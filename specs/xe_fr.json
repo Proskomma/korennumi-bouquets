@@ -203,6 +203,1740 @@
   ],
   "keywordResources": [
     {
+      "title": "Termes pour Traduction (unfoldingWord/Xenizo)",
+      "description": "Quelques articles de l'adaptation Xenizo des termes pour traduction d'unfoldingWord",
+      "copyright": "CC BY-SA 4.0",
+      "languageCode": "fr",
+      "owner": "unfoldingWord",
+      "textDirection": "LTR",
+      "script": "Latn",
+      "resourceType": "dictionaryTSV",
+      "selectors": {
+        "source": "korennumi",
+        "project": "fruwtw",
+        "revision": "1"
+      },
+      "source": {
+        "filePath": "./dataSources/fr/tw/selectedArticles.tsv"
+      },
+      "articleBcvs": {
+        "names_paul": {
+          "bcv": [
+            "PHP 1:1",
+            "TIT 1:1"
+          ],
+          "i18n": {
+            "fr": "Paul, Saul "
+          }
+        },
+        "names_timothy": {
+          "bcv": [
+            "PHP 1:1",
+            "PHP 2:19"
+          ],
+          "i18n": {
+            "fr": "Timothée"
+          }
+        },
+        "other_servant": {
+          "bcv": [
+            "PHP 1:1",
+            "PHP 2:7",
+            "PHP 2:22",
+            "TIT 1:1",
+            "TIT 2:9"
+          ],
+          "i18n": {
+            "fr": "serviteur, service, servir, esclave, esclavage"
+          }
+        },
+        "kt_christ": {
+          "bcv": [
+            "PHP 1:1",
+            "PHP 1:2",
+            "PHP 1:6",
+            "PHP 1:8",
+            "PHP 1:10",
+            "PHP 1:11",
+            "PHP 1:13",
+            "PHP 1:15",
+            "PHP 1:17",
+            "PHP 1:18",
+            "PHP 1:19",
+            "PHP 1:20",
+            "PHP 1:21",
+            "PHP 1:23",
+            "PHP 1:26",
+            "PHP 1:27",
+            "PHP 1:29",
+            "PHP 2:1",
+            "PHP 2:5",
+            "PHP 2:11",
+            "PHP 2:16",
+            "PHP 2:21",
+            "PHP 2:30",
+            "PHP 3:3",
+            "PHP 3:7",
+            "PHP 3:8",
+            "PHP 3:9",
+            "PHP 3:12",
+            "PHP 3:14",
+            "PHP 3:18",
+            "PHP 3:20",
+            "PHP 4:7",
+            "PHP 4:19",
+            "PHP 4:21",
+            "PHP 4:23",
+            "TIT 1:1",
+            "TIT 1:4",
+            "TIT 2:13",
+            "TIT 3:6"
+          ],
+          "i18n": {
+            "fr": "Christ, Messie, l'Oint  "
+          }
+        },
+        "kt_jesus": {
+          "bcv": [
+            "PHP 1:1",
+            "PHP 1:2",
+            "PHP 1:6",
+            "PHP 1:8",
+            "PHP 1:11",
+            "PHP 1:19",
+            "PHP 1:26",
+            "PHP 2:5",
+            "PHP 2:10",
+            "PHP 2:11",
+            "PHP 2:19",
+            "PHP 2:21",
+            "PHP 3:3",
+            "PHP 3:8",
+            "PHP 3:12",
+            "PHP 3:14",
+            "PHP 3:20",
+            "PHP 4:7",
+            "PHP 4:19",
+            "PHP 4:21",
+            "PHP 4:23",
+            "TIT 1:1",
+            "TIT 1:4",
+            "TIT 2:13",
+            "TIT 3:6"
+          ],
+          "i18n": {
+            "fr": "Jésus, Jésus-Christ, le Christ"
+          }
+        },
+        "kt_saint": {
+          "bcv": [
+            "PHP 1:1",
+            "PHP 4:21",
+            "PHP 4:22"
+          ],
+          "i18n": {
+            "fr": "saint, saints"
+          }
+        },
+        "kt_inchrist": {
+          "bcv": [
+            "PHP 1:1",
+            "PHP 1:13",
+            "PHP 1:14",
+            "PHP 1:26",
+            "PHP 2:1",
+            "PHP 2:5",
+            "PHP 2:19",
+            "PHP 2:24",
+            "PHP 2:29",
+            "PHP 3:1",
+            "PHP 3:3",
+            "PHP 3:14",
+            "PHP 4:1",
+            "PHP 4:2",
+            "PHP 4:4",
+            "PHP 4:7",
+            "PHP 4:10",
+            "PHP 4:19",
+            "PHP 4:21"
+          ],
+          "i18n": {
+            "fr": "En Christ, en Jésus, dans le Seigneur"
+          }
+        },
+        "names_philippi": {
+          "bcv": [
+            "PHP 1:1",
+            "PHP 4:15"
+          ],
+          "i18n": {
+            "fr": "Philippes"
+          }
+        },
+        "other_overseer": {
+          "bcv": [
+            "PHP 1:1",
+            "TIT 1:7"
+          ],
+          "i18n": {
+            "fr": "superviseur, gardien, surveillant, superviser"
+          }
+        },
+        "kt_deacon": {
+          "bcv": [
+            "PHP 1:1"
+          ],
+          "i18n": {
+            "fr": "diacre"
+          }
+        },
+        "kt_grace": {
+          "bcv": [
+            "PHP 1:2",
+            "PHP 1:7",
+            "PHP 4:23",
+            "TIT 1:4",
+            "TIT 2:11",
+            "TIT 3:7",
+            "TIT 3:15"
+          ],
+          "i18n": {
+            "fr": "grâce, gracieux"
+          }
+        },
+        "other_peace": {
+          "bcv": [
+            "PHP 1:2",
+            "PHP 4:7",
+            "PHP 4:9",
+            "TIT 1:4",
+            "TIT 3:2"
+          ],
+          "i18n": {
+            "fr": "paix, paisible, conciliateur"
+          }
+        },
+        "kt_godthefather": {
+          "bcv": [
+            "PHP 1:2",
+            "PHP 2:11",
+            "PHP 4:20",
+            "TIT 1:4"
+          ],
+          "i18n": {
+            "fr": "Dieu le Père, Père céleste, Père"
+          }
+        },
+        "kt_lord": {
+          "bcv": [
+            "PHP 1:2",
+            "PHP 1:14",
+            "PHP 2:11",
+            "PHP 2:19",
+            "PHP 2:24",
+            "PHP 2:29",
+            "PHP 3:1",
+            "PHP 3:8",
+            "PHP 3:20",
+            "PHP 4:1",
+            "PHP 4:2",
+            "PHP 4:4",
+            "PHP 4:5",
+            "PHP 4:10",
+            "PHP 4:23",
+            "TIT 2:9"
+          ],
+          "i18n": {
+            "fr": "Seigneur, Maître"
+          }
+        },
+        "kt_god": {
+          "bcv": [
+            "PHP 1:3",
+            "PHP 1:8",
+            "PHP 1:11",
+            "PHP 1:28",
+            "PHP 2:6",
+            "PHP 2:9",
+            "PHP 2:13",
+            "PHP 2:15",
+            "PHP 2:27",
+            "PHP 3:9",
+            "PHP 3:14",
+            "PHP 3:15",
+            "PHP 4:6",
+            "PHP 4:7",
+            "PHP 4:9",
+            "PHP 4:18",
+            "PHP 4:19",
+            "TIT 1:1",
+            "TIT 1:2",
+            "TIT 1:3",
+            "TIT 1:7",
+            "TIT 1:16",
+            "TIT 2:10",
+            "TIT 2:11",
+            "TIT 2:13",
+            "TIT 3:4",
+            "TIT 3:8"
+          ],
+          "i18n": {
+            "fr": "Dieu"
+          }
+        },
+        "kt_pray": {
+          "bcv": [
+            "PHP 1:4",
+            "PHP 1:9",
+            "PHP 1:19",
+            "PHP 4:6"
+          ],
+          "i18n": {
+            "fr": "prier, prière"
+          }
+        },
+        "other_joy": {
+          "bcv": [
+            "PHP 1:4",
+            "PHP 1:18",
+            "PHP 1:25",
+            "PHP 2:2",
+            "PHP 2:17",
+            "PHP 2:18",
+            "PHP 2:28",
+            "PHP 2:29",
+            "PHP 3:1",
+            "PHP 4:1",
+            "PHP 4:4",
+            "PHP 4:10"
+          ],
+          "i18n": {
+            "fr": "joie, joyeux, se réjouir"
+          }
+        },
+        "kt_fellowship": {
+          "bcv": [
+            "PHP 1:5",
+            "PHP 2:1",
+            "PHP 3:10",
+            "PHP 4:14"
+          ],
+          "i18n": {
+            "fr": "Communion"
+          }
+        },
+        "kt_goodnews": {
+          "bcv": [
+            "PHP 1:5",
+            "PHP 1:7",
+            "PHP 1:12",
+            "PHP 1:16",
+            "PHP 1:27",
+            "PHP 2:22",
+            "PHP 4:3",
+            "PHP 4:15"
+          ],
+          "i18n": {
+            "fr": "la bonnes nouvelle, Évangile"
+          }
+        },
+        "other_biblicaltimeday": {
+          "bcv": [
+            "PHP 1:5"
+          ],
+          "i18n": {
+            "fr": "temps biblique"
+          }
+        },
+        "kt_good": {
+          "bcv": [
+            "PHP 1:6",
+            "PHP 1:15",
+            "PHP 2:13",
+            "TIT 1:8",
+            "TIT 1:16",
+            "TIT 2:5",
+            "TIT 2:7",
+            "TIT 2:10",
+            "TIT 2:14",
+            "TIT 3:1",
+            "TIT 3:8",
+            "TIT 3:14"
+          ],
+          "i18n": {
+            "fr": "bon, bien, la bonté, le bien"
+          }
+        },
+        "kt_dayofthelord": {
+          "bcv": [
+            "PHP 1:6",
+            "PHP 1:10",
+            "PHP 2:16"
+          ],
+          "i18n": {
+            "fr": "le jour de l'Éternel, le jour du Seigneur"
+          }
+        },
+        "other_like": {
+          "bcv": [
+            "PHP 1:7",
+            "PHP 1:20",
+            "PHP 2:7",
+            "PHP 2:12",
+            "PHP 2:15",
+            "PHP 2:22",
+            "PHP 2:23",
+            "PHP 2:29",
+            "PHP 3:17",
+            "TIT 1:7",
+            "TIT 2:3",
+            "TIT 2:6"
+          ],
+          "i18n": {
+            "fr": "semblable, comme, à l'image de, ressembler, ressemblance"
+          }
+        },
+        "kt_righteous": {
+          "bcv": [
+            "PHP 1:7",
+            "PHP 1:11",
+            "PHP 3:6",
+            "PHP 3:9",
+            "TIT 1:8",
+            "TIT 2:12",
+            "TIT 3:5"
+          ],
+          "i18n": {
+            "fr": "juste, justice, injuste, injustice, droit, droiture"
+          }
+        },
+        "kt_bond": {
+          "bcv": [
+            "PHP 1:7",
+            "PHP 1:13",
+            "PHP 1:14",
+            "PHP 1:17"
+          ],
+          "i18n": {
+            "fr": "lier, lien, lié"
+          }
+        },
+        "kt_testimony": {
+          "bcv": [
+            "PHP 1:8",
+            "TIT 1:13"
+          ],
+          "i18n": {
+            "fr": "témoignage, témoigner, témoin"
+          }
+        },
+        "kt_love": {
+          "bcv": [
+            "PHP 1:9",
+            "PHP 1:16",
+            "PHP 2:1",
+            "PHP 2:2",
+            "TIT 2:2",
+            "TIT 2:4",
+            "TIT 3:4",
+            "TIT 3:15"
+          ],
+          "i18n": {
+            "fr": "amour, aimer"
+          }
+        },
+        "other_multiply": {
+          "bcv": [
+            "PHP 1:9",
+            "PHP 1:26",
+            "PHP 4:12",
+            "PHP 4:17",
+            "PHP 4:18"
+          ],
+          "i18n": {
+            "fr": "multiplier"
+          }
+        },
+        "other_know": {
+          "bcv": [
+            "PHP 1:9",
+            "PHP 1:12",
+            "PHP 1:16",
+            "PHP 1:19",
+            "PHP 1:22",
+            "PHP 1:25",
+            "PHP 2:19",
+            "PHP 2:22",
+            "PHP 3:8",
+            "PHP 3:10",
+            "PHP 4:5",
+            "PHP 4:6",
+            "PHP 4:12",
+            "PHP 4:15",
+            "TIT 1:1",
+            "TIT 1:16",
+            "TIT 3:11"
+          ],
+          "i18n": {
+            "fr": "connaître, connaissance"
+          }
+        },
+        "kt_test": {
+          "bcv": [
+            "PHP 1:10"
+          ],
+          "i18n": {
+            "fr": "tester, éprouver, épreuves"
+          }
+        },
+        "kt_purify": {
+          "bcv": [
+            "PHP 1:10",
+            "PHP 2:15",
+            "PHP 4:8",
+            "TIT 1:15",
+            "TIT 2:5",
+            "TIT 2:14"
+          ],
+          "i18n": {
+            "fr": "purifier, pur, purification"
+          }
+        },
+        "kt_blameless": {
+          "bcv": [
+            "PHP 1:10",
+            "PHP 2:15",
+            "PHP 3:6",
+            "TIT 1:6",
+            "TIT 1:7"
+          ],
+          "i18n": {
+            "fr": "irréprochable"
+          }
+        },
+        "other_fruit": {
+          "bcv": [
+            "PHP 1:11",
+            "PHP 1:22",
+            "PHP 4:17",
+            "TIT 3:14"
+          ],
+          "i18n": {
+            "fr": "fruits, fructueux, sans fruits"
+          }
+        },
+        "kt_glory": {
+          "bcv": [
+            "PHP 1:11",
+            "PHP 2:11",
+            "PHP 3:19",
+            "PHP 3:21",
+            "PHP 4:19",
+            "PHP 4:20",
+            "TIT 2:13"
+          ],
+          "i18n": {
+            "fr": "gloire, glorieux, glorifier"
+          }
+        },
+        "other_praise": {
+          "bcv": [
+            "PHP 1:11",
+            "PHP 4:8"
+          ],
+          "i18n": {
+            "fr": "louer, faire l'éloge, louange, louable, digne de louange"
+          }
+        },
+        "other_palace": {
+          "bcv": [
+            "PHP 1:13"
+          ],
+          "i18n": {
+            "fr": "palais, palace, maison"
+          }
+        },
+        "other_courage": {
+          "bcv": [
+            "PHP 1:14",
+            "PHP 2:1",
+            "PHP 2:19",
+            "TIT 1:9"
+          ],
+          "i18n": {
+            "fr": "courage courageux, encourager, encouragement, décourager"
+          }
+        },
+        "kt_wordofgod": {
+          "bcv": [
+            "PHP 1:14",
+            "TIT 1:3",
+            "TIT 2:5"
+          ],
+          "i18n": {
+            "fr": "la parole de Dieu, parole de Yahvé, parole du Seigneur, parole de vérité, les Écritures"
+          }
+        },
+        "other_envy": {
+          "bcv": [
+            "PHP 1:15",
+            "TIT 3:3"
+          ],
+          "i18n": {
+            "fr": "envie, envier, convoitise, convoiter"
+          }
+        },
+        "other_strife": {
+          "bcv": [
+            "PHP 1:15",
+            "TIT 3:9"
+          ],
+          "i18n": {
+            "fr": "conflit, querelle, dispute, argument"
+          }
+        },
+        "other_preach": {
+          "bcv": [
+            "PHP 1:15",
+            "PHP 1:17",
+            "PHP 1:18",
+            "TIT 1:3"
+          ],
+          "i18n": {
+            "fr": "prêcher, la prédication, le prédicateur, proclamer, proclamation"
+          }
+        },
+        "kt_appoint": {
+          "bcv": [
+            "PHP 1:16"
+          ],
+          "i18n": {
+            "fr": "nommer, établir, désigner"
+          }
+        },
+        "other_tribulation": {
+          "bcv": [
+            "PHP 1:17"
+          ],
+          "i18n": {
+            "fr": "Tribulation"
+          }
+        },
+        "kt_save": {
+          "bcv": [
+            "PHP 1:19",
+            "PHP 1:28",
+            "PHP 2:12",
+            "TIT 2:11",
+            "TIT 3:5"
+          ],
+          "i18n": {
+            "fr": "sauver, sauvé, en sécurité, salut"
+          }
+        },
+        "kt_holyspirit": {
+          "bcv": [
+            "PHP 1:19",
+            "PHP 2:1",
+            "PHP 3:3",
+            "TIT 3:5"
+          ],
+          "i18n": {
+            "fr": "Saint-Esprit, Esprit saint, Esprit de Dieu, Esprit du Seigneur"
+          }
+        },
+        "kt_hope": {
+          "bcv": [
+            "PHP 1:20",
+            "PHP 2:19",
+            "PHP 2:23",
+            "TIT 1:2",
+            "TIT 2:13",
+            "TIT 3:7"
+          ],
+          "i18n": {
+            "fr": "espoir, espérer, espérance"
+          }
+        },
+        "other_shame": {
+          "bcv": [
+            "PHP 1:20",
+            "PHP 3:19",
+            "TIT 1:11",
+            "TIT 2:8"
+          ],
+          "i18n": {
+            "fr": "honte, honteux, déshonorer, déshonneur, déshonorant"
+          }
+        },
+        "other_profit": {
+          "bcv": [
+            "PHP 1:21",
+            "PHP 3:7",
+            "PHP 3:8",
+            "TIT 1:11",
+            "TIT 3:8"
+          ],
+          "i18n": {
+            "fr": "profit, profitable, désavantageux"
+          }
+        },
+        "other_labor": {
+          "bcv": [
+            "PHP 1:22",
+            "PHP 2:16",
+            "PHP 3:2"
+          ],
+          "i18n": {
+            "fr": "travail, ouvrier, labeur, travailler"
+          }
+        },
+        "kt_elect": {
+          "bcv": [
+            "PHP 1:22",
+            "TIT 1:1"
+          ],
+          "i18n": {
+            "fr": "élu, les élus, choisi, le peuple choisi, choisir"
+          }
+        },
+        "other_hard": {
+          "bcv": [
+            "PHP 1:23"
+          ],
+          "i18n": {
+            "fr": "dur, endurci, dureté"
+          }
+        },
+        "kt_faith": {
+          "bcv": [
+            "PHP 1:25",
+            "PHP 1:27",
+            "PHP 2:17",
+            "PHP 3:9",
+            "TIT 1:1",
+            "TIT 1:4",
+            "TIT 1:13",
+            "TIT 2:2",
+            "TIT 2:10",
+            "TIT 3:15"
+          ],
+          "i18n": {
+            "fr": "la foi, avoir foi, croyance"
+          }
+        },
+        "kt_boast": {
+          "bcv": [
+            "PHP 1:26",
+            "PHP 2:16",
+            "PHP 3:3"
+          ],
+          "i18n": {
+            "fr": "vantard, vantardise, se vanter, se glorifier"
+          }
+        },
+        "kt_spirit": {
+          "bcv": [
+            "PHP 1:27",
+            "PHP 4:23"
+          ],
+          "i18n": {
+            "fr": "esprit, spirituel"
+          }
+        },
+        "kt_soul": {
+          "bcv": [
+            "PHP 1:27",
+            "PHP 2:2"
+          ],
+          "i18n": {
+            "fr": "âme"
+          }
+        },
+        "kt_sign": {
+          "bcv": [
+            "PHP 1:28"
+          ],
+          "i18n": {
+            "fr": "signe, preuve, rappel"
+          }
+        },
+        "kt_believe": {
+          "bcv": [
+            "PHP 1:29",
+            "TIT 1:15",
+            "TIT 3:8"
+          ],
+          "i18n": {
+            "fr": "croire, croyance, croyant, non-croyant, incrédulité"
+          }
+        },
+        "other_suffer": {
+          "bcv": [
+            "PHP 1:29",
+            "PHP 3:10"
+          ],
+          "i18n": {
+            "fr": "souffrir, souffrance"
+          }
+        },
+        "other_comfort": {
+          "bcv": [
+            "PHP 2:1"
+          ],
+          "i18n": {
+            "fr": "Confort, conforter"
+          }
+        },
+        "kt_compassion": {
+          "bcv": [
+            "PHP 2:1"
+          ],
+          "i18n": {
+            "fr": "compassion, compatissant"
+          }
+        },
+        "kt_fulfill": {
+          "bcv": [
+            "PHP 2:2"
+          ],
+          "i18n": {
+            "fr": "réaliser, accomplir, remplir "
+          }
+        },
+        "other_mind": {
+          "bcv": [
+            "PHP 2:2",
+            "PHP 2:5",
+            "PHP 3:15",
+            "PHP 4:2",
+            "PHP 4:7",
+            "TIT 1:15"
+          ],
+          "i18n": {
+            "fr": "esprit, conscient de "
+          }
+        },
+        "kt_humble": {
+          "bcv": [
+            "PHP 2:3",
+            "PHP 2:8",
+            "TIT 3:2"
+          ],
+          "i18n": {
+            "fr": "humble, humilité, humilié"
+          }
+        },
+        "kt_cross": {
+          "bcv": [
+            "PHP 2:8",
+            "PHP 3:18"
+          ],
+          "i18n": {
+            "fr": "croix"
+          }
+        },
+        "kt_exalt": {
+          "bcv": [
+            "PHP 2:9"
+          ],
+          "i18n": {
+            "fr": "exalt, exalté, exaltation, élever "
+          }
+        },
+        "kt_name": {
+          "bcv": [
+            "PHP 2:9",
+            "PHP 2:10",
+            "PHP 4:3"
+          ],
+          "i18n": {
+            "fr": "nom"
+          }
+        },
+        "other_bow": {
+          "bcv": [
+            "PHP 2:10"
+          ],
+          "i18n": {
+            "fr": "s'incliner, se prosterner, s'agenouiller"
+          }
+        },
+        "kt_heaven": {
+          "bcv": [
+            "PHP 2:10",
+            "PHP 3:20"
+          ],
+          "i18n": {
+            "fr": "ciel, cieux, céleste"
+          }
+        },
+        "other_earth": {
+          "bcv": [
+            "PHP 2:10",
+            "PHP 3:19"
+          ],
+          "i18n": {
+            "fr": "terre, sol, terres, terrestre"
+          }
+        },
+        "other_tongue": {
+          "bcv": [
+            "PHP 2:11"
+          ],
+          "i18n": {
+            "fr": "langue"
+          }
+        },
+        "kt_confess": {
+          "bcv": [
+            "PHP 2:11"
+          ],
+          "i18n": {
+            "fr": "Confesser, confession, avouer, aveu"
+          }
+        },
+        "kt_beloved": {
+          "bcv": [
+            "PHP 2:12",
+            "PHP 4:1"
+          ],
+          "i18n": {
+            "fr": "bien-aimé"
+          }
+        },
+        "kt_fear": {
+          "bcv": [
+            "PHP 2:12"
+          ],
+          "i18n": {
+            "fr": "Peur, crainte, effroi, crainte de l'Éternel"
+          }
+        },
+        "other_tremble": {
+          "bcv": [
+            "PHP 2:12"
+          ],
+          "i18n": {
+            "fr": "trembler"
+          }
+        },
+        "other_generation": {
+          "bcv": [
+            "PHP 2:15"
+          ],
+          "i18n": {
+            "fr": "génération"
+          }
+        },
+        "other_perverse": {
+          "bcv": [
+            "PHP 2:15",
+            "TIT 3:11"
+          ],
+          "i18n": {
+            "fr": "pervers, perversion, pervertir"
+          }
+        },
+        "kt_world": {
+          "bcv": [
+            "PHP 2:15",
+            "TIT 2:12"
+          ],
+          "i18n": {
+            "fr": "monde, mondain"
+          }
+        },
+        "other_sacrifice": {
+          "bcv": [
+            "PHP 2:17",
+            "PHP 4:18"
+          ],
+          "i18n": {
+            "fr": "sacrificer, sacrificee, offrande"
+          }
+        },
+        "kt_minister": {
+          "bcv": [
+            "PHP 2:17",
+            "PHP 2:25",
+            "PHP 2:30"
+          ],
+          "i18n": {
+            "fr": "ministre, ministère"
+          }
+        },
+        "other_seek": {
+          "bcv": [
+            "PHP 2:21",
+            "PHP 4:17"
+          ],
+          "i18n": {
+            "fr": "chercher, rechercher"
+          }
+        },
+        "other_companion": {
+          "bcv": [
+            "PHP 2:25",
+            "PHP 4:3"
+          ],
+          "i18n": {
+            "fr": "Compagnon, compagnon de travail, ami"
+          }
+        },
+        "other_warrior": {
+          "bcv": [
+            "PHP 2:25"
+          ],
+          "i18n": {
+            "fr": "guerrier, soldat"
+          }
+        },
+        "other_messenger": {
+          "bcv": [
+            "PHP 2:25"
+          ],
+          "i18n": {
+            "fr": "messager, message"
+          }
+        },
+        "kt_mercy": {
+          "bcv": [
+            "PHP 2:27",
+            "TIT 3:5"
+          ],
+          "i18n": {
+            "fr": "miséricorde, miséricordieux"
+          }
+        },
+        "other_receive": {
+          "bcv": [
+            "PHP 2:29",
+            "PHP 3:12",
+            "PHP 4:9",
+            "PHP 4:18",
+            "TIT 2:13"
+          ],
+          "i18n": {
+            "fr": "recevoir, accueillir, accepter"
+          }
+        },
+        "kt_honor": {
+          "bcv": [
+            "PHP 2:29",
+            "PHP 4:8"
+          ],
+          "i18n": {
+            "fr": "honneur, honorer"
+          }
+        },
+        "other_trouble": {
+          "bcv": [
+            "PHP 3:1"
+          ],
+          "i18n": {
+            "fr": "troubler, troubles, perturber"
+          }
+        },
+        "kt_evil": {
+          "bcv": [
+            "PHP 3:2",
+            "TIT 1:12",
+            "TIT 2:8",
+            "TIT 3:3"
+          ],
+          "i18n": {
+            "fr": "le mal, mauvais, méchant, méchanceté, malveillance"
+          }
+        },
+        "kt_circumcise": {
+          "bcv": [
+            "PHP 3:3",
+            "PHP 3:5",
+            "TIT 1:10"
+          ],
+          "i18n": {
+            "fr": "circoncire, circoncision, circoncis, incirconcis, incirconcision"
+          }
+        },
+        "kt_israel": {
+          "bcv": [
+            "PHP 3:5"
+          ],
+          "i18n": {
+            "fr": "Israël, Israëlistes, La nation d'Israël"
+          }
+        },
+        "other_tribe": {
+          "bcv": [
+            "PHP 3:5"
+          ],
+          "i18n": {
+            "fr": "tribu, membre d'une tribu"
+          }
+        },
+        "names_benjamin": {
+          "bcv": [
+            "PHP 3:5"
+          ],
+          "i18n": {
+            "fr": "Benjamin"
+          }
+        },
+        "kt_hebrew": {
+          "bcv": [
+            "PHP 3:5"
+          ],
+          "i18n": {
+            "fr": "hébreu"
+          }
+        },
+        "kt_lawofmoses": {
+          "bcv": [
+            "PHP 3:5",
+            "PHP 3:6",
+            "PHP 3:9",
+            "TIT 3:9"
+          ],
+          "i18n": {
+            "fr": "loi, loi de Moïse, loi de Dieu, loi de l'Éternel"
+          }
+        },
+        "kt_pharisee": {
+          "bcv": [
+            "PHP 3:5"
+          ],
+          "i18n": {
+            "fr": "Pharisien"
+          }
+        },
+        "kt_zealous": {
+          "bcv": [
+            "PHP 3:6",
+            "TIT 2:14"
+          ],
+          "i18n": {
+            "fr": "zèle, zélé, ardeur, ardent"
+          }
+        },
+        "other_persecute": {
+          "bcv": [
+            "PHP 3:6"
+          ],
+          "i18n": {
+            "fr": "persécuter, persécution, persécuteur "
+          }
+        },
+        "kt_church": {
+          "bcv": [
+            "PHP 3:6",
+            "PHP 4:15"
+          ],
+          "i18n": {
+            "fr": "église, Église"
+          }
+        },
+        "kt_resurrection": {
+          "bcv": [
+            "PHP 3:10",
+            "PHP 3:11"
+          ],
+          "i18n": {
+            "fr": "résurrection, ressusciter"
+          }
+        },
+        "other_perfect": {
+          "bcv": [
+            "PHP 3:12",
+            "PHP 3:15"
+          ],
+          "i18n": {
+            "fr": "parfait, complet, perfection"
+          }
+        },
+        "kt_call": {
+          "bcv": [
+            "PHP 3:14"
+          ],
+          "i18n": {
+            "fr": "appeler, appel, invoquer"
+          }
+        },
+        "other_watch": {
+          "bcv": [
+            "PHP 3:17"
+          ],
+          "i18n": {
+            "fr": "veiller, surveiller, gardien, observer, regarder"
+          }
+        },
+        "other_adversary": {
+          "bcv": [
+            "PHP 3:18"
+          ],
+          "i18n": {
+            "fr": "adversaire, ennemi"
+          }
+        },
+        "kt_falsegod": {
+          "bcv": [
+            "PHP 3:19"
+          ],
+          "i18n": {
+            "fr": "dieu, faux dieu, déesse, idole, idolâtre"
+          }
+        },
+        "other_citizen": {
+          "bcv": [
+            "PHP 3:20"
+          ],
+          "i18n": {
+            "fr": "citoyen, citoyenneté"
+          }
+        },
+        "kt_savior": {
+          "bcv": [
+            "PHP 3:20",
+            "TIT 1:3",
+            "TIT 1:4",
+            "TIT 2:10",
+            "TIT 2:13",
+            "TIT 3:4",
+            "TIT 3:6"
+          ],
+          "i18n": {
+            "fr": "sauveur"
+          }
+        },
+        "other_lowly": {
+          "bcv": [
+            "PHP 3:21"
+          ],
+          "i18n": {
+            "fr": "humble, humilité, humilier"
+          }
+        },
+        "other_subject": {
+          "bcv": [
+            "PHP 3:21",
+            "TIT 2:5",
+            "TIT 2:9",
+            "TIT 3:1"
+          ],
+          "i18n": {
+            "fr": "sujet, assujettir, se soumettre, être soumis, "
+          }
+        },
+        "other_crown": {
+          "bcv": [
+            "PHP 4:1"
+          ],
+          "i18n": {
+            "fr": "couronne ,couronner"
+          }
+        },
+        "other_plead": {
+          "bcv": [
+            "PHP 4:2"
+          ],
+          "i18n": {
+            "fr": "plaider, plaidant, plaidoyer"
+          }
+        },
+        "other_bookoflife": {
+          "bcv": [
+            "PHP 4:3"
+          ],
+          "i18n": {
+            "fr": "livre de vie"
+          }
+        },
+        "other_understand": {
+          "bcv": [
+            "PHP 4:7"
+          ],
+          "i18n": {
+            "fr": "comprendre, compréhension"
+          }
+        },
+        "kt_justice": {
+          "bcv": [
+            "PHP 4:8",
+            "TIT 3:7"
+          ],
+          "i18n": {
+            "fr": "juste, justice, injuste, injustice, justifier, justification"
+          }
+        },
+        "other_afflict": {
+          "bcv": [
+            "PHP 4:14"
+          ],
+          "i18n": {
+            "fr": "affliger, affliction"
+          }
+        },
+        "names_macedonia": {
+          "bcv": [
+            "PHP 4:15"
+          ],
+          "i18n": {
+            "fr": "Macédoine"
+          }
+        },
+        "names_thessalonica": {
+          "bcv": [
+            "PHP 4:16"
+          ],
+          "i18n": {
+            "fr": "Thessalonique, Thessaloniciens"
+          }
+        },
+        "kt_amen": {
+          "bcv": [
+            "PHP 4:20",
+            "PHP 4:23"
+          ],
+          "i18n": {
+            "fr": "amen, en vérité"
+          }
+        },
+        "names_caesar": {
+          "bcv": [
+            "PHP 4:22"
+          ],
+          "i18n": {
+            "fr": "César"
+          }
+        },
+        "other_household": {
+          "bcv": [
+            "PHP 4:22",
+            "TIT 1:11"
+          ],
+          "i18n": {
+            "fr": "Ménage, maison"
+          }
+        },
+        "kt_apostle": {
+          "bcv": [
+            "TIT 1:1"
+          ],
+          "i18n": {
+            "fr": "apôtre, apostolat"
+          }
+        },
+        "kt_godly": {
+          "bcv": [
+            "TIT 1:1",
+            "TIT 2:12"
+          ],
+          "i18n": {
+            "fr": "pieux, piété, impie, impiété"
+          }
+        },
+        "kt_eternity": {
+          "bcv": [
+            "TIT 1:2",
+            "TIT 3:7"
+          ],
+          "i18n": {
+            "fr": "éternité, perpétuel, éternel, pour toujours"
+          }
+        },
+        "kt_promise": {
+          "bcv": [
+            "TIT 1:2"
+          ],
+          "i18n": {
+            "fr": "promesse, promettre, promis"
+          }
+        },
+        "other_time": {
+          "bcv": [
+            "TIT 1:2",
+            "TIT 1:3"
+          ],
+          "i18n": {
+            "fr": "Temps, fois"
+          }
+        },
+        "kt_trust": {
+          "bcv": [
+            "TIT 1:3"
+          ],
+          "i18n": {
+            "fr": "confiance, faire confiance, digne de confiance, fiable"
+          }
+        },
+        "names_titus": {
+          "bcv": [
+            "TIT 1:4"
+          ],
+          "i18n": {
+            "fr": "Tite"
+          }
+        },
+        "names_crete": {
+          "bcv": [
+            "TIT 1:5",
+            "TIT 1:12"
+          ],
+          "i18n": {
+            "fr": "Crête, crétois"
+          }
+        },
+        "other_ordain": {
+          "bcv": [
+            "TIT 1:5"
+          ],
+          "i18n": {
+            "fr": "ordonner, ordination, installer, installation"
+          }
+        },
+        "other_elder": {
+          "bcv": [
+            "TIT 1:5",
+            "TIT 2:2"
+          ],
+          "i18n": {
+            "fr": "Aîné"
+          }
+        },
+        "kt_faithful": {
+          "bcv": [
+            "TIT 1:6",
+            "TIT 1:9",
+            "TIT 3:8"
+          ],
+          "i18n": {
+            "fr": "fidèle, fidélité, fiable"
+          }
+        },
+        "other_rebel": {
+          "bcv": [
+            "TIT 1:6",
+            "TIT 1:10"
+          ],
+          "i18n": {
+            "fr": "rebelle, rébellion, se rebeller, se révolter"
+          }
+        },
+        "other_manager": {
+          "bcv": [
+            "TIT 1:7"
+          ],
+          "i18n": {
+            "fr": "gestionnaire, intendant"
+          }
+        },
+        "other_wine": {
+          "bcv": [
+            "TIT 1:7",
+            "TIT 2:3"
+          ],
+          "i18n": {
+            "fr": "vin, outre à vin, vin nouveau"
+          }
+        },
+        "kt_holy": {
+          "bcv": [
+            "TIT 1:8"
+          ],
+          "i18n": {
+            "fr": "saint, sainteté, profane, sacré"
+          }
+        },
+        "other_selfcontrol": {
+          "bcv": [
+            "TIT 1:8",
+            "TIT 2:5",
+            "TIT 2:6"
+          ],
+          "i18n": {
+            "fr": "maîtrise de soi"
+          }
+        },
+        "other_doctrine": {
+          "bcv": [
+            "TIT 1:9",
+            "TIT 2:1",
+            "TIT 2:7",
+            "TIT 2:10"
+          ],
+          "i18n": {
+            "fr": "doctrine, enseignement"
+          }
+        },
+        "other_rebuke": {
+          "bcv": [
+            "TIT 1:9",
+            "TIT 1:13",
+            "TIT 2:15"
+          ],
+          "i18n": {
+            "fr": "réprimander, réprimande, admonester"
+          }
+        },
+        "other_vain": {
+          "bcv": [
+            "TIT 1:10",
+            "TIT 3:9"
+          ],
+          "i18n": {
+            "fr": "Vain, vanité"
+          }
+        },
+        "other_deceive": {
+          "bcv": [
+            "TIT 1:10"
+          ],
+          "i18n": {
+            "fr": "tromper, tromperie, trompeur, mentir, mensonge"
+          }
+        },
+        "kt_prophet": {
+          "bcv": [
+            "TIT 1:12"
+          ],
+          "i18n": {
+            "fr": "prophète, prophétie, prophétiser, voyant, prophétesse"
+          }
+        },
+        "other_beast": {
+          "bcv": [
+            "TIT 1:12"
+          ],
+          "i18n": {
+            "fr": "bête"
+          }
+        },
+        "kt_jew": {
+          "bcv": [
+            "TIT 1:14"
+          ],
+          "i18n": {
+            "fr": "Juif, juif"
+          }
+        },
+        "other_corrupt": {
+          "bcv": [
+            "TIT 1:15"
+          ],
+          "i18n": {
+            "fr": "corrompu, corruption"
+          }
+        },
+        "kt_conscience": {
+          "bcv": [
+            "TIT 1:15"
+          ],
+          "i18n": {
+            "fr": "conscience"
+          }
+        },
+        "other_detestable": {
+          "bcv": [
+            "TIT 1:16"
+          ],
+          "i18n": {
+            "fr": "détestable, détester"
+          }
+        },
+        "other_perseverance": {
+          "bcv": [
+            "TIT 2:2"
+          ],
+          "i18n": {
+            "fr": "persévérer, persévérance"
+          }
+        },
+        "other_reverence": {
+          "bcv": [
+            "TIT 2:3"
+          ],
+          "i18n": {
+            "fr": "révérence, respect, vénérer"
+          }
+        },
+        "other_slander": {
+          "bcv": [
+            "TIT 2:3",
+            "TIT 2:5",
+            "TIT 3:2"
+          ],
+          "i18n": {
+            "fr": "calomnie, calomniateur, calomnier, diffamer, diffamatoire"
+          }
+        },
+        "other_enslave": {
+          "bcv": [
+            "TIT 2:3",
+            "TIT 3:3"
+          ],
+          "i18n": {
+            "fr": "asservir, esclave, esclavage, servitude, companion de service"
+          }
+        },
+        "kt_exhort": {
+          "bcv": [
+            "TIT 2:6",
+            "TIT 2:15"
+          ],
+          "i18n": {
+            "fr": "exhorter, exhortation"
+          }
+        },
+        "other_lust": {
+          "bcv": [
+            "TIT 2:12",
+            "TIT 3:3"
+          ],
+          "i18n": {
+            "fr": "luxure, convoitise, passion, désir"
+          }
+        },
+        "other_age": {
+          "bcv": [
+            "TIT 2:12"
+          ],
+          "i18n": {
+            "fr": "âge"
+          }
+        },
+        "kt_bless": {
+          "bcv": [
+            "TIT 2:13"
+          ],
+          "i18n": {
+            "fr": "bénir, béni, bénédiction"
+          }
+        },
+        "kt_redeem": {
+          "bcv": [
+            "TIT 2:14"
+          ],
+          "i18n": {
+            "fr": "racheter, rachat, rédemption, rédempteur"
+          }
+        },
+        "other_lawful": {
+          "bcv": [
+            "TIT 2:14"
+          ],
+          "i18n": {
+            "fr": "légal, illégal, illégalité, légitime, illégitime, légalement, anarchie, sans loi, sans foi ni loi"
+          }
+        },
+        "kt_authority": {
+          "bcv": [
+            "TIT 2:15",
+            "TIT 3:1"
+          ],
+          "i18n": {
+            "fr": "autorité"
+          }
+        },
+        "other_ruler": {
+          "bcv": [
+            "TIT 3:1"
+          ],
+          "i18n": {
+            "fr": "souverain, dirigeant, règle, gouverner"
+          }
+        },
+        "kt_foolish": {
+          "bcv": [
+            "TIT 3:3",
+            "TIT 3:9"
+          ],
+          "i18n": {
+            "fr": "fou, folie"
+          }
+        },
+        "other_astray": {
+          "bcv": [
+            "TIT 3:3"
+          ],
+          "i18n": {
+            "fr": "s'égarer, être égaré, errer"
+          }
+        },
+        "kt_clean": {
+          "bcv": [
+            "TIT 3:5"
+          ],
+          "i18n": {
+            "fr": "pur, purifier, pureté, impur"
+          }
+        },
+        "kt_bornagain": {
+          "bcv": [
+            "TIT 3:5"
+          ],
+          "i18n": {
+            "fr": "régénéré, né de Dieu, naître de nouveau"
+          }
+        },
+        "other_heir": {
+          "bcv": [
+            "TIT 3:7"
+          ],
+          "i18n": {
+            "fr": "héritier, cohéritier, héritage, hériter"
+          }
+        },
+        "other_admonish": {
+          "bcv": [
+            "TIT 3:10"
+          ],
+          "i18n": {
+            "fr": "exhorter"
+          }
+        },
+        "other_reject": {
+          "bcv": [
+            "TIT 3:10"
+          ],
+          "i18n": {
+            "fr": "rejeter, repousser"
+          }
+        },
+        "kt_sin": {
+          "bcv": [
+            "TIT 3:11"
+          ],
+          "i18n": {
+            "fr": "péché, pécheur, pécher"
+          }
+        },
+        "names_tychicus": {
+          "bcv": [
+            "TIT 3:12"
+          ],
+          "i18n": {
+            "fr": "Tychique"
+          }
+        },
+        "other_law": {
+          "bcv": [
+            "TIT 3:13"
+          ],
+          "i18n": {
+            "fr": "loi, principe"
+          }
+        },
+        "names_apollos": {
+          "bcv": [
+            "TIT 3:13"
+          ],
+          "i18n": {
+            "fr": "Apollos"
+          }
+        }
+      }
+    },
+    {
       "title": "Tyndale Bible Dictionary",
       "description": "Une dictionnaire biblique, en cours de traduction et d'adaptation par Xenizo, à partir des sources de Tyndale",
       "copyright": "CC BY-SA 4.0",

@@ -8,7 +8,7 @@ if (process.argv.length !== 4) {
 }
 
 const bookCodes = ['PHP', 'TIT'];
-const lang = 'en';
+const lang = 'fr';
 
 // Find articles and uses for selected books from TWL
 
@@ -76,7 +76,9 @@ for (const [articleKey, articleValue] of Object.entries(articleUrls)) {
         .split('\n')
         .slice(2)
         .join('\n')
+        .replace(/__\[([^\]]+)].*?__/g, "__$1__")
         .replace(/\(([^)]|\([^)]+\))+\)+/g, "")
+        .replace(/\* +\[([^\]]+)]/g,"$1")
         .replace(/\[[^\]]+\]/g, "")
         .replace(/(, ){2,}/g, "")
         .replace(/\n+$/g, "");
