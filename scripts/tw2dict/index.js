@@ -76,11 +76,13 @@ for (const [articleKey, articleValue] of Object.entries(articleUrls)) {
         .split('\n')
         .slice(2)
         .join('\n')
-        .replace(/__\[([^\]]+)].*?__/g, "__$1__")
-        .replace(/\*\*\[([^\]]+)].*?\*\*/g, "__$1__")
+        .replace(/__\[+([^\]]+)]+.*?__/g, "__$1__")
+        .replace(/\*\*\[+([^\]]+)]+.*?\*\*/g, "__$1__")
         .replace(/\(([^)]|\([^)]+\))+\)+/g, "")
-        .replace(/\* +\[([^\]]+)]/g,"* $1")
-        .replace(/\[[^\]]+\]/g, "")
+        .replace(/\* +\[+([^\]]+)]+/g,"* $1")
+        .replace(/\n\* +rc:.*/g,"")
+        .replace(/__rc:.*?__/g, "")
+        .replace(/\[+[^\]]+\]+/g, "")
         .replace(/(, ){2,}/g, "")
         .replace(/\n+$/g, "");
     const row = `${articleKey}\t${md.replace(/[\n\r]/g, "\\n")}`;
