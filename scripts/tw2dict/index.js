@@ -77,8 +77,9 @@ for (const [articleKey, articleValue] of Object.entries(articleUrls)) {
         .slice(2)
         .join('\n')
         .replace(/__\[([^\]]+)].*?__/g, "__$1__")
+        .replace(/\*\*\[([^\]]+)].*?\*\*/g, "__$1__")
         .replace(/\(([^)]|\([^)]+\))+\)+/g, "")
-        .replace(/\* +\[([^\]]+)]/g,"$1")
+        .replace(/\* +\[([^\]]+)]/g,"* $1")
         .replace(/\[[^\]]+\]/g, "")
         .replace(/(, ){2,}/g, "")
         .replace(/\n+$/g, "");
