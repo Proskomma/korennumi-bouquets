@@ -1,8 +1,8 @@
 {
-  "title": "unfoldingWord Resources",
+  "title": "English Resources",
   "url": "uw_en_succinct.json",
   "baseLanguageCode": "en",
-  "description": "Translations and notes by unfoldingWord for Bible translators",
+  "description": "Translations and notes by unfoldingWord and Xenizo for Bible translators",
   "owner": "unfoldingWord",
   "ownerUrl": "https://unfoldingWord.org",
   "bibles": [
@@ -152,6 +152,27 @@
         {
           "bookCode": "PHP",
           "filePath": "./dataSources/en/biblicaNotes/PHP.tsv"
+        }
+      ]
+    },
+    {
+      "title": "Xenizo Juxtalinear",
+      "description": "Reordered Greek plus hyper-littéral gloss",
+      "copyright": "CC BY-SA 4.0",
+      "languageCode": "en",
+      "owner": "Xenizo",
+      "textDirection": "LTR",
+      "script": "Latn",
+      "resourceType": "diegesisTSV",
+      "selectors": {
+        "source": "korennumi",
+        "project": "enjxl",
+        "revision": "1"
+      },
+      "sources": [
+        {
+          "bookCode": "PHP",
+          "filePath": "./dataSources/en/jxl/PHP.tsv"
         }
       ]
     }
