@@ -2,7 +2,7 @@
   "title": "English Resources",
   "url": "uw_en_succinct.json",
   "baseLanguageCode": "en",
-  "description": "Translations and notes by unfoldingWord and Xenizo for Bible translators",
+  "description": "Translations and notes by unfoldingWord, Xenizo and others for Bible translators",
   "owner": "unfoldingWord",
   "ownerUrl": "https://unfoldingWord.org",
   "bibles": [
@@ -105,6 +105,27 @@
         }
       ]
     },
+      {
+        "title": "Worldview Study Questions",
+        "description": "Questions to help believers engage in detail with the Scriptural text",
+        "copyright": "CC BY-SA 4.0",
+        "languageCode": "en",
+        "owner": "Worldview",
+        "textDirection": "LTR",
+        "script": "Latn",
+        "resourceType": "uWTSV7",
+        "selectors": {
+          "source": "worldview",
+          "project": "ensq",
+          "revision": "1"
+        },
+        "sources": [
+          {
+            "bookCode": "TIT",
+            "url": "https://git.door43.org/Worldview/en_sq/raw/branch/master/sq_TIT.tsv"
+          }
+        ]
+      },
     {
       "title": "Tyndale Study Notes",
       "description": "Notes from a Tyndale Study Bible",
