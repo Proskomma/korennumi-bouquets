@@ -59,7 +59,7 @@ const uwTsv7ToTable = (tsv, hasHeadings, bookCode) => {
         newRow.push(bookCode + " " + ref);
         newRow.push(bookCode + " " + ref);
         newRow.push(inRowCells[1]);
-        newRow.push(inRowCells[6]);
+        newRow.push(inRowCells[6] || inRowCells[5]);
         ret.rows.push(newRow);
     }
     return ret;
