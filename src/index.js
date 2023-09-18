@@ -36,7 +36,7 @@ const uwTsvToTable = (tsv, hasHeadings) => {
 };
 
 // Convert TSV7 to JSON for Pk Import
-const uwTsv7ToTable = (tsv, hasHeadings) => {
+const uwTsv7ToTable = (tsv, hasHeadings, bookCode) => {
     const ret = {
         headings: [],
         rows: [],
@@ -56,8 +56,8 @@ const uwTsv7ToTable = (tsv, hasHeadings) => {
         if (!ref.match(refRegex)) {
             continue;
         }
-        newRow.push(ref);
-        newRow.push(ref);
+        newRow.push(bookCode + " " + ref);
+        newRow.push(bookCode + " " + ref);
         newRow.push(inRowCells[1]);
         newRow.push(inRowCells[6]);
         ret.rows.push(newRow);
@@ -227,7 +227,8 @@ const getBcvResources = async (bcvSpecs, succincts) => {
                     ) : resource.resourceType === 'uWTSV7' ?
                         uwTsv7ToTable(
                             responseRawData,
-                            true
+                            true,
+                            source.bookCode,
                         ) :
                         diegesisTsvToTable(
                             responseRawData,
