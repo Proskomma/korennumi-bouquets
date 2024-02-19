@@ -380,6 +380,41 @@ const pruneSpecs = specs => {
     return specs
 }
 
+const bcvVerses = reference => {
+    let ret = [];
+    const [book, cv] = reference.split(" ");
+    const [cv1, cv2] = cv.split('-');
+    if (cv2.includes('.')) {
+        const [ch1, v1] = cv1.split('.').map(i => parseInt(i));
+        const [ch2, v2] = cv2.split('.').map(i => parseInt(i));
+        let fromC = ch1;
+        while (fromC <= ch2) {
+            let fromV = 1;
+            let toV = 177;
+            if (fromC === ch1) {
+                fromV = v1;
+            }
+            if (fromC === ch2) {
+                toV = v2;
+            }
+            while (fromV <= toV) {
+                ret.push(`${book} ${fromC}:${fromV}`);
+                fromV++;
+            }
+            fromC++;
+        }
+    } else {
+        const [ch, v] = cv1.split('.');
+        let fromV = parseInt(v);
+        let toV = parseInt(cv2);
+        while (fromV <= toV) {
+            ret.push(`${book} ${ch}:${fromV}`);
+            fromV++;
+        }
+    }
+    return ret;
+}
+
 // Do Content
 const getContent = async specIndex => {
     let specs = [];
@@ -401,12 +436,12 @@ const getContent = async specIndex => {
             books: {}
         }
         for (const [bookAbbr, bookRecord] of Object.entries(spec.books)) {
+            console.log("\n  **", bookAbbr, "**");
             const bookOutline = {
                 names: bookRecord.names,
                 introductions: [],
                 sections: []
             }
-            // Add introductions
             for (const introSpec of bookRecord.intros) {
                 const introOutline = {
                     source: introSpec.source,
@@ -430,13 +465,66 @@ const getContent = async specIndex => {
                     },
                 ]);
                 pk.loadSuccinctDocSet(referenceSuccincts[introSpec.source].content);
-                const query = `{documents {tableSequences {rows(matches:[{colN:0 matching:"${bookAbbr} front:intro"}] columns: [3]) { text }}}}`;
+                const query = `{docSets {documents {tableSequences {rows(matches:[{colN:0 matching:"${bookAbbr} front:intro"}] columns: [3]) { text }}}}}`;
                 const result = pk.gqlQuerySync(query);
-                introOutline.content = result.data.documents[0].tableSequences[0].rows[0][0].text;
+                for (const doc of result.data.docSets[0].documents) {
+                    if (doc.tableSequences[0].rows.length > 0) {
+                        introOutline.content = doc.tableSequences[0].rows[0][0].text;
+                        break;
+                    }
+                }
+
                 bookOutline.introductions.push(introOutline);
             }
             // Add sections
             // Add section BCV notes
+            for (const sectionSpec of bookRecord.sections) {
+                const sectionOutline = {
+                    bcvRange: sectionSpec.bcvRange,
+                    title: sectionSpec.title,
+                    notes: [],
+                    questions: []
+                };
+                const bcvs = bcvVerses(sectionSpec.bcvRange);
+                for (const bcvSpec of bookRecord.bcv) {
+                    const pk = new Proskomma([
+                        {
+                            name: "source",
+                            type: "string",
+                            regex: "^[^\\s]+$"
+                        },
+                        {
+                            name: "project",
+                            type: "string",
+                            regex: "^[^\\s]+$"
+                        },
+                        {
+                            name: "revision",
+                            type: "string",
+                            regex: "^[^\\s]+$"
+                        },
+                    ]);
+                    pk.loadSuccinctDocSet(referenceSuccincts[bcvSpec.source].content);
+                    const query = `{documents {tableSequences {rows(equals:[{colN:0 values: [${bcvs.map(b => `"${b}"`).join(" ")}]}]) { text }}}}`;
+                    const result = pk.gqlQuerySync(query);
+                    for (const doc of result.data.documents) {
+                        if (doc.tableSequences[0].rows.length > 0) {
+                            for (const row of doc.tableSequences[0].rows) {
+                                sectionOutline[bcvSpec.type].push({
+                                    source: bcvSpec.source,
+                                    sourceTitle: bcvSpec.title,
+                                    fromRef: row[0].text,
+                                    toRef: row[1].text,
+                                    id: row[2].text,
+                                    content: row[3].text
+                                });
+                            }
+                            break;
+                        }
+                    }
+                }
+                bookOutline.sections.push(sectionOutline);
+            }
             outline.books[bookAbbr] = bookOutline;
         }
         fse.writeFileSync(path.join(toUploadDir, spec.url), JSON.stringify(outline, null, 2));
