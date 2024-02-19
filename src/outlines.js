@@ -398,8 +398,14 @@ const getContent = async specIndex => {
             description: spec.description,
             owner: spec.owner,
             ownerUrl: spec.ownerUrl,
-            books: {}
+            books: {
+                introductions: [],
+                sections: []
+            }
         }
+        // Add introductions
+        // Add sections
+        // Add section BCV notes
         fse.writeJsonSync(path.join(toUploadDir, spec.url), outline);
     }
     fse.writeJsonSync(path.join(toUploadDir, 'index.json'), specs);

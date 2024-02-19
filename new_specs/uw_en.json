@@ -14,10 +14,57 @@
       },
       "intro": [
         {
-          "source": "tyndale"
+          "source": "korennumi_enuw_75",
+          "title": "unfoldingWord Translation Notes"
+        }
+      ],
+      "bcv": [
+        {
+          "type": "notes",
+          "source": "korennumi_enuw_75",
+          "title": "unfoldingWord Translation Notes"
+        },
+        {
+          "type": "notes",
+          "source": "korennumi_entsn_1",
+          "title": "Tyndale Study Notes"
+        },
+        {
+          "type": "notes",
+          "source": "korennumi_enbsn_1",
+          "title": "Biblica Study Notes"
+        },
+        {
+          "type": "questions",
+          "source": "worldview_ensq_1",
+          "title": "Worldview Study Questions"
         }
       ],
       "sections": [
+        {
+          "bcvRange": "TIT 1.1-4",
+          "title": "Paul salue Tite"
+        },
+        {
+          "bcvRange": "TIT 1.5-9",
+          "title": "Comment choisir un bon ancien pour l’Église ?"
+        },
+        {
+          "bcvRange": "TIT 1.10-16",
+          "title": "Attention aux faux enseignants"
+        },
+        {
+          "bcvRange": "TIT 2.1-15",
+          "title": "Ce que Tite doit enseigner aux chrétiens de Crète"
+        },
+        {
+          "bcvRange": "TIT 3.1-11",
+          "title": "Le bon comportement chrétien"
+        },
+        {
+          "bcvRange": "TIT 3.12-15",
+          "title": "Derniers mots"
+        }
       ]
     }
   },
