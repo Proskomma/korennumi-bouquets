@@ -398,15 +398,48 @@ const getContent = async specIndex => {
             description: spec.description,
             owner: spec.owner,
             ownerUrl: spec.ownerUrl,
-            books: {
+            books: {}
+        }
+        for (const [bookAbbr, bookRecord] of Object.entries(spec.books)) {
+            const bookOutline = {
+                names: bookRecord.names,
                 introductions: [],
                 sections: []
             }
+            // Add introductions
+            for (const introSpec of bookRecord.intros) {
+                const introOutline = {
+                    source: introSpec.source,
+                    title: introSpec.title
+                }
+                const pk = new Proskomma([
+                    {
+                        name: "source",
+                        type: "string",
+                        regex: "^[^\\s]+$"
+                    },
+                    {
+                        name: "project",
+                        type: "string",
+                        regex: "^[^\\s]+$"
+                    },
+                    {
+                        name: "revision",
+                        type: "string",
+                        regex: "^[^\\s]+$"
+                    },
+                ]);
+                pk.loadSuccinctDocSet(referenceSuccincts[introSpec.source].content);
+                const query = `{documents {tableSequences {rows(matches:[{colN:0 matching:"${bookAbbr} front:intro"}] columns: [3]) { text }}}}`;
+                const result = pk.gqlQuerySync(query);
+                introOutline.content = result.data.documents[0].tableSequences[0].rows[0][0].text;
+                bookOutline.introductions.push(introOutline);
+            }
+            // Add sections
+            // Add section BCV notes
+            outline.books[bookAbbr] = bookOutline;
         }
-        // Add introductions
-        // Add sections
-        // Add section BCV notes
-        fse.writeJsonSync(path.join(toUploadDir, spec.url), outline);
+        fse.writeFileSync(path.join(toUploadDir, spec.url), JSON.stringify(outline, null, 2));
     }
     fse.writeJsonSync(path.join(toUploadDir, 'index.json'), specs);
 }
