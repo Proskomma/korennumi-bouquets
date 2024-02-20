@@ -415,6 +415,18 @@ const bcvVerses = reference => {
     return ret;
 }
 
+const isBigRange = (fromRef, toRef) => {
+    const [fromC, fromV] = fromRef
+        .split(" ")[1]
+        .split(":")
+        .map(i => parseInt(i));
+    const [toC, toV] = toRef
+        .split(" ")[1]
+        .split(":")
+        .map(i => parseInt(i));
+    return (fromC !== toC) || ((toV - fromV) > 3);
+}
+
 // Do Content
 const getContent = async specIndex => {
     let specs = [];
@@ -482,6 +494,7 @@ const getContent = async specIndex => {
                 const sectionOutline = {
                     bcvRange: sectionSpec.bcvRange,
                     title: sectionSpec.title,
+                    intros: [],
                     notes: [],
                     questions: []
                 };
@@ -510,7 +523,11 @@ const getContent = async specIndex => {
                     for (const doc of result.data.documents) {
                         if (doc.tableSequences[0].rows.length > 0) {
                             for (const row of doc.tableSequences[0].rows) {
-                                sectionOutline[bcvSpec.type].push({
+                                let contentType = bcvSpec.type;
+                                if (isBigRange(row[0].text, row[1].text)) {
+                                    contentType = "intros";
+                                }
+                                sectionOutline[contentType].push({
                                     source: bcvSpec.source,
                                     sourceTitle: bcvSpec.title,
                                     fromRef: row[0].text,
